@@ -1,10 +1,5 @@
 <!-- Hello, World! -->
 <!-- 2017-01-08 -->
----
-layout: post
-title: "Hello, World!"
-tags: [jekyll]
----
 
 I just finished setting up my blog and this is the first post.
 
