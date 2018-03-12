@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <link rel="stylesheet" href="/assets/style.css">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>
+             Nesting SQL Aggregate Functions 
+        </title>
+    </head>
+    <body>
+        <a id="home-link" href="/">${HOME}</a>
+        <div class="post">
+            <div class="post-heading">
+                <div class="post-date"> 2017-03-26 </div>
+                <h1 class="post-title"> Nesting SQL Aggregate Functions </h1>
+            </div>
+<!-- Nesting SQL Aggregate Functions -->
+<!-- 2017-03-26 -->
+<p>This co-op term, I'm working for the <a href="https://www.jonahgroup.com/">Jonah Group</a>. My team is building a Big Data application for a corporate client, and I have spent a lot of my time writing the queries for canned reports that the client wishes to receive on their data. In the case of our project, we are storing all data using <a href="http://hadoop.apache.org/">Hadoop</a> and querying it using <a href="https://hive.apache.org/">Hive Query Language</a>, which closely resembles SQL.</p>
+<p>Before I started at the Jonah Group in January, I didn't have any experience writing database queries, so there were a few patterns in our codebase that took some getting used to. One construct in particular that I had trouble with was nesting aggregate functions (like <code>SUM</code> and <code>COUNT</code>). I didn't find many resources discussing these, so I thought I'd write my own.</p>
+<p>Like I said, I first came across these ideas while using Hive, but the same principles apply in other SQL implementations. As I write this, I'll be testing my code in <a href="https://www.postgresql.org/">PostgreSQL</a>.</p>
+<p>First things first, we'll need some example data to practice with. Here's the data I'll use:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="center">name</th>
+<th align="right">amount</th>
+<th align="right">year</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Gene</td>
+<td align="right">234.04</td>
+<td align="right">2015</td>
+</tr>
+<tr class="even">
+<td align="center">Paul</td>
+<td align="right">56.99</td>
+<td align="right">2015</td>
+</tr>
+<tr class="odd">
+<td align="center">Peter</td>
+<td align="right">23.95</td>
+<td align="right">2015</td>
+</tr>
+<tr class="even">
+<td align="center">Peter</td>
+<td align="right">102.76</td>
+<td align="right">2015</td>
+</tr>
+<tr class="odd">
+<td align="center">Ace</td>
+<td align="right">5.49</td>
+<td align="right">2016</td>
+</tr>
+<tr class="even">
+<td align="center">Ace</td>
+<td align="right">19.41</td>
+<td align="right">2016</td>
+</tr>
+<tr class="odd">
+<td align="center">Ace</td>
+<td align="right">22.77</td>
+<td align="right">2016</td>
+</tr>
+<tr class="even">
+<td align="center">Gene</td>
+<td align="right">166.30</td>
+<td align="right">2016</td>
+</tr>
+<tr class="odd">
+<td align="center">Paul</td>
+<td align="right">65.99</td>
+<td align="right">2016</td>
+</tr>
+<tr class="even">
+<td align="center">Peter</td>
+<td align="right">89.90</td>
+<td align="right">2016</td>
+</tr>
+</tbody>
+</table>
+<p>You can get the code to create this table, along with all of the queries discussed below, <a href="https://gist.github.com/jdw1996/036d10e4a5a32fac218fda6a4a864b29">here</a>.</p>
+<h2 id="overview-of-aggregate-functions">Overview of Aggregate Functions</h2>
+<p>Let's start by looking at the result of using <code>COUNT</code> and <code>SUM</code> over <code>amount</code> when we group by <code>year</code>. We use this query:</p>
+<pre><code>SELECT year,
+    COUNT(*) AS the_count,
+    SUM(amount) AS the_sum
+FROM purchases
+GROUP BY year;</code></pre>
+<p>And we get this data:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="center">year</th>
+<th align="right">the_count</th>
+<th align="right">the_sum</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">2015</td>
+<td align="right">4</td>
+<td align="right">417.74</td>
+</tr>
+<tr class="even">
+<td align="center">2016</td>
+<td align="right">6</td>
+<td align="right">369.86</td>
+</tr>
+</tbody>
+</table>
+<p>By using the <code>GROUP BY</code> statement, we squash all the records with matching values in the <code>year</code> column together, and count or sum them as the case may be. This gives us the number of purchases and total amount spent in each year.</p>
+<p>We could instead group by both <code>year</code> and <code>name</code>. Then the query becomes:</p>
+<pre><code>SELECT year,
+    name,
+    COUNT(*) AS the_count,
+    SUM(amount) AS the_sum
+FROM purchases
+GROUP BY year, name;</code></pre>
+<p>And we get this data:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="right">year</th>
+<th align="center">name</th>
+<th align="right">the_count</th>
+<th align="right">the_sum</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right">2015</td>
+<td align="center">Gene</td>
+<td align="right">1</td>
+<td align="right">234.04</td>
+</tr>
+<tr class="even">
+<td align="right">2015</td>
+<td align="center">Paul</td>
+<td align="right">1</td>
+<td align="right">56.99</td>
+</tr>
+<tr class="odd">
+<td align="right">2015</td>
+<td align="center">Peter</td>
+<td align="right">2</td>
+<td align="right">126.71</td>
+</tr>
+<tr class="even">
+<td align="right">2016</td>
+<td align="center">Ace</td>
+<td align="right">3</td>
+<td align="right">47.67</td>
+</tr>
+<tr class="odd">
+<td align="right">2016</td>
+<td align="center">Gene</td>
+<td align="right">1</td>
+<td align="right">166.30</td>
+</tr>
+<tr class="even">
+<td align="right">2016</td>
+<td align="center">Paul</td>
+<td align="right">1</td>
+<td align="right">65.99</td>
+</tr>
+<tr class="odd">
+<td align="right">2016</td>
+<td align="center">Peter</td>
+<td align="right">1</td>
+<td align="right">89.90</td>
+</tr>
+</tbody>
+</table>
+<p>Now we are squashing together all the records with matching <code>year</code>s <em>and</em> matching <code>name</code>s. This means that we get the number of purchases each person made in each year, along with the total amount they spent in each year.</p>
+<h2 id="aggregating-the-results">Aggregating the Results</h2>
+<p>Let's suppose that we now want to find the percentage of the total money spent in a year that is spent by each person. You may have to read that sentence a couple of times to make sense of it. It may also help to explain the basic procedure we want to follow. It will be something like this:</p>
+<ol style="list-style-type: decimal">
+<li>Find the total amount spent by each person, in each year.</li>
+<li>Find the total amount spent by everyone in each year.</li>
+<li>Divide the first number by the second, for each person and each year. (And multiply by 100 to get a percentage.)</li>
+</ol>
+<p>We already have the numbers needed for the first two steps in our queries above. The tricky part is combining them to finish of the third step. You could store information in some intermediate table, but there is a simpler way.</p>
+<p>The first thing to note is that we want our result to have exactly one row for every combination of <code>year</code> and <code>name</code>. This indicates that we should put both of these in a <code>GROUP BY</code> clause.</p>
+<p>We know how to get the total amount spent by each person each year when grouping by <code>year</code> and <code>name</code>, from the second query we looked at. In our percentage calculation, this will be the numerator, and the denominator will be the sum of all those amounts, across the year we are looking at. To achieve this sum of sums, so to speak, we can use the <code>OVER</code> clause. With it, we can calculate the two values we need like this:</p>
+<pre><code>SELECT year,
+    name,
+    SUM(amount) AS numerator,
+    SUM(SUM(amount)) OVER (PARTITION BY year) AS denominator
+FROM purchases
+GROUP BY year, name;</code></pre>
+<p>This gives us:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="right">year</th>
+<th align="center">name</th>
+<th align="right">numerator</th>
+<th align="right">denominator</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right">2015</td>
+<td align="center">Gene</td>
+<td align="right">234.04</td>
+<td align="right">417.74</td>
+</tr>
+<tr class="even">
+<td align="right">2015</td>
+<td align="center">Paul</td>
+<td align="right">56.99</td>
+<td align="right">417.74</td>
+</tr>
+<tr class="odd">
+<td align="right">2015</td>
+<td align="center">Peter</td>
+<td align="right">126.71</td>
+<td align="right">417.74</td>
+</tr>
+<tr class="even">
+<td align="right">2016</td>
+<td align="center">Ace</td>
+<td align="right">47.67</td>
+<td align="right">369.86</td>
+</tr>
+<tr class="odd">
+<td align="right">2016</td>
+<td align="center">Gene</td>
+<td align="right">166.30</td>
+<td align="right">369.86</td>
+</tr>
+<tr class="even">
+<td align="right">2016</td>
+<td align="center">Paul</td>
+<td align="right">65.99</td>
+<td align="right">369.86</td>
+</tr>
+<tr class="odd">
+<td align="right">2016</td>
+<td align="center">Peter</td>
+<td align="right">89.90</td>
+<td align="right">369.86</td>
+</tr>
+</tbody>
+</table>
+<p>Looking at the nested <code>SUM</code> calls, we can think of the inner one as being affected by the <code>GROUP BY</code> clause, calculating the sum for each combination of person and year. Then, the outer one sums up all the resulting amounts for each year, because only <code>year</code> is included in the <code>PARTITION BY</code> condition.</p>
+<p>Putting it all together, we can use this query to calculate the percentages we are looking for:</p>
+<pre><code>SELECT year,
+    name,
+    SUM(amount) * 100.0
+                / SUM(SUM(amount))
+                  OVER (PARTITION BY year) AS pct_of_spending
+FROM purchases
+GROUP BY year, name;</code></pre>
+<p>The result is:</p>
+<table>
+<thead>
+<tr class="header">
+<th align="right">year</th>
+<th align="center">name</th>
+<th align="right">pct_of_spending</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right">2015</td>
+<td align="center">Gene</td>
+<td align="right">56.0252788816009958</td>
+</tr>
+<tr class="even">
+<td align="right">2015</td>
+<td align="center">Paul</td>
+<td align="right">13.6424570306889453</td>
+</tr>
+<tr class="odd">
+<td align="right">2015</td>
+<td align="center">Peter</td>
+<td align="right">30.3322640877100589</td>
+</tr>
+<tr class="even">
+<td align="right">2016</td>
+<td align="center">Ace</td>
+<td align="right">12.8886605742713459</td>
+</tr>
+<tr class="odd">
+<td align="right">2016</td>
+<td align="center">Paul</td>
+<td align="right">17.8418861190720813</td>
+</tr>
+<tr class="even">
+<td align="right">2016</td>
+<td align="center">Peter</td>
+<td align="right">24.3064943492132158</td>
+</tr>
+<tr class="odd">
+<td align="right">2016</td>
+<td align="center">Gene</td>
+<td align="right">44.9629589574433569</td>
+</tr>
+</tbody>
+</table>
+<h2 id="a-note-on-mysql">A Note on MySQL</h2>
+<p>When I started writing this post, I was using <a href="https://www.mysql.com/">MySQL</a>, but then I realized that it does not support the <code>OVER</code> clause. At that point, I switched over to PostgreSQL.</p>
+<p>I don't have any special insight into <em>why</em> MySQL doesn't support this feature now, but hopefully they implement it in the near future, because it is very useful.</p>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2018.  All rights reserved.</p>
+        </div>
+    </body>
+</html>
