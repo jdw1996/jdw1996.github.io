@@ -5,6 +5,32 @@
     --code-bg-colour: #f4f4f4;
 }
 
+@media (min-width: 858px) {
+    html {
+        font-size: 12px;
+    }
+}
+@media (min-width: 780px) {
+    html {
+        font-size: 11px;
+    }
+}
+@media (min-width: 702px) {
+    html {
+        font-size: 10px;
+    }
+}
+@media (min-width: 724px) {
+    html {
+        font-size: 9px;
+    }
+}
+@media (max-width: 623px) {
+    html {
+        font-size: 8px;
+    }
+}
+
 body {
     font-family: "IBM Plex Sans", "Clear Sans", "Source Sans Pro", "Fira Sans", "Linux Biolinum", "Noto Sans", "Open Sans", "Segoe UI", "Lato", "Carlito", "Ubuntu", "Corbel", "DejaVu Sans", "Liberation Sans", "Arimo", "Geneva", "Roboto", "FreeSans", "TeX Gyre Heros", "Helvetica Neue", "Arial", "Verdana", sans-serif;
     font-size: 1.4em;
