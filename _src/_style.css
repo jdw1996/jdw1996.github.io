@@ -1,0 +1,79 @@
+:root {
+    --fg-colour: black;
+    --bg-colour: white;
+    --accent-colour: #0044ee;
+    --code-bg-colour: #f4f4f4;
+}
+
+body {
+    font-family: "IBM Plex Sans", "Clear Sans", "Source Sans Pro", "Fira Sans", "Linux Biolinum", "Noto Sans", "Open Sans", "Segoe UI", "Lato", "Carlito", "Ubuntu", "Corbel", "DejaVu Sans", "Liberation Sans", "Arimo", "Geneva", "Roboto", "FreeSans", "TeX Gyre Heros", "Helvetica Neue", "Arial", "Verdana", sans-serif;
+    font-size: 1.4em;
+    line-height: 1.4;
+    max-width: 45em;
+    margin: 1em auto;
+    background-color: var(--bg-colour);
+    color: var(--fg-colour);
+}
+
+#header {
+    text-align: center;
+    max-width: 100%;
+}
+
+code {
+    font-family: "IBM Plex Mono", "Hack", "Epiphyte Mono", "Source Code Pro", "Fira Mono", "Input", "Input Mono", "Iosevka Term", "Iosevka", "Iosevka Term Slab", "Iosevka Slab", "Anonymous Pro", "Consolas", "Cousine", "Liberation Mono", "Menlo", "DejaVu Sans Mono", monospace;
+    font-size: 1em;
+    padding: 1px 5px;
+    background-color: var(--code-bg-colour)
+}
+pre {
+    font-size: 0.8em;
+    padding: 1em;
+    background-color: var(--code-bg-colour);
+    border-left: 3px solid var(--accent-colour);
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    border-bottom: 1px solid var(--accent-colour);
+    color: var(--fg-colour);
+}
+a:hover {
+    text-decoration: none;
+    border-bottom: none;
+    color: var(--accent-colour);
+}
+
+table {
+    max-width: 80%;
+    margin: 0 auto;
+    border-spacing: 0;
+}
+th {
+    border-bottom: 1px solid var(--fg-colour);
+    padding: 0.1em 1em;
+}
+td {
+    border-bottom: 1px dotted var(--fg-colour);
+    padding: 0.1em 1em;
+}
+
+.post-heading {
+    margin: 2em 0;
+}
+.post-title {
+    margin: 0 0 1em 0;
+}
+.post-date {
+    font-size: 0.8em;
+}
+
+.copyright {
+    border-top: 1px solid var(--fg-colour);
+    padding: 0.5em;
+}
+
+.index-date {
+    font-size: 0.8em;
+}
