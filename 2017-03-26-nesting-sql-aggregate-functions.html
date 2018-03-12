@@ -190,7 +190,8 @@ GROUP BY year, name;</code></pre>
 <pre><code>SELECT year,
     name,
     SUM(amount) AS numerator,
-    SUM(SUM(amount)) OVER (PARTITION BY year) AS denominator
+    SUM(SUM(amount))
+      OVER (PARTITION BY year) AS denominator
 FROM purchases
 GROUP BY year, name;</code></pre>
 <p>This gives us:</p>
@@ -252,9 +253,10 @@ GROUP BY year, name;</code></pre>
 <p>Putting it all together, we can use this query to calculate the percentages we are looking for:</p>
 <pre><code>SELECT year,
     name,
-    SUM(amount) * 100.0
-                / SUM(SUM(amount))
-                  OVER (PARTITION BY year) AS pct_of_spending
+    SUM(amount)
+      * 100.0
+      / SUM(SUM(amount))
+      OVER (PARTITION BY year) AS pct_of_spending
 FROM purchases
 GROUP BY year, name;</code></pre>
 <p>The result is:</p>

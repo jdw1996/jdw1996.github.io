@@ -121,7 +121,8 @@ calculate the two values we need like this:
 SELECT year,
     name,
     SUM(amount) AS numerator,
-    SUM(SUM(amount)) OVER (PARTITION BY year) AS denominator
+    SUM(SUM(amount))
+      OVER (PARTITION BY year) AS denominator
 FROM purchases
 GROUP BY year, name;
 ```
@@ -149,9 +150,10 @@ are looking for:
 ```
 SELECT year,
     name,
-    SUM(amount) * 100.0
-                / SUM(SUM(amount))
-                  OVER (PARTITION BY year) AS pct_of_spending
+    SUM(amount)
+      * 100.0
+      / SUM(SUM(amount))
+      OVER (PARTITION BY year) AS pct_of_spending
 FROM purchases
 GROUP BY year, name;
 ```
