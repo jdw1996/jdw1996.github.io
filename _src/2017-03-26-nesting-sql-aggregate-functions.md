@@ -152,8 +152,8 @@ SELECT year,
     name,
     SUM(amount)
       * 100.0
-      / SUM(SUM(amount))
-      OVER (PARTITION BY year) AS pct_of_spending
+      / SUM(SUM(amount)) OVER (PARTITION BY year)
+      AS pct_of_spending
 FROM purchases
 GROUP BY year, name;
 ```
