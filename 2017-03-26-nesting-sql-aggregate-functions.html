@@ -18,10 +18,10 @@
             </div>
 <!-- Nesting SQL Aggregate Functions -->
 <!-- 2017-03-26 -->
-<p>This co-op term, I'm working for the <a href="https://www.jonahgroup.com/">Jonah Group</a>. My team is building a Big Data application for a corporate client, and I have spent a lot of my time writing the queries for canned reports that the client wishes to receive on their data. In the case of our project, we are storing all data using <a href="http://hadoop.apache.org/">Hadoop</a> and querying it using <a href="https://hive.apache.org/">Hive Query Language</a>, which closely resembles SQL.</p>
-<p>Before I started at the Jonah Group in January, I didn't have any experience writing database queries, so there were a few patterns in our codebase that took some getting used to. One construct in particular that I had trouble with was nesting aggregate functions (like <code>SUM</code> and <code>COUNT</code>). I didn't find many resources discussing these, so I thought I'd write my own.</p>
-<p>Like I said, I first came across these ideas while using Hive, but the same principles apply in other SQL implementations. As I write this, I'll be testing my code in <a href="https://www.postgresql.org/">PostgreSQL</a>.</p>
-<p>First things first, we'll need some example data to practice with. Here's the data I'll use:</p>
+<p>This co-op term, I’m working for the <a href="https://www.jonahgroup.com/">Jonah Group</a>. My team is building a Big Data application for a corporate client, and I have spent a lot of my time writing the queries for canned reports that the client wishes to receive on their data. In the case of our project, we are storing all data using <a href="http://hadoop.apache.org/">Hadoop</a> and querying it using <a href="https://hive.apache.org/">Hive Query Language</a>, which closely resembles SQL.</p>
+<p>Before I started at the Jonah Group in January, I didn’t have any experience writing database queries, so there were a few patterns in our codebase that took some getting used to. One construct in particular that I had trouble with was nesting aggregate functions (like <code>SUM</code> and <code>COUNT</code>). I didn’t find many resources discussing these, so I thought I’d write my own.</p>
+<p>Like I said, I first came across these ideas while using Hive, but the same principles apply in other SQL implementations. As I write this, I’ll be testing my code in <a href="https://www.postgresql.org/">PostgreSQL</a>.</p>
+<p>First things first, we’ll need some example data to practice with. Here’s the data I’ll use:</p>
 <table>
 <thead>
 <tr class="header">
@@ -85,7 +85,7 @@
 </table>
 <p>You can get the code to create this table, along with all of the queries discussed below, <a href="https://gist.github.com/jdw1996/036d10e4a5a32fac218fda6a4a864b29">here</a>.</p>
 <h2 id="overview-of-aggregate-functions">Overview of Aggregate Functions</h2>
-<p>Let's start by looking at the result of using <code>COUNT</code> and <code>SUM</code> over <code>amount</code> when we group by <code>year</code>. We use this query:</p>
+<p>Let’s start by looking at the result of using <code>COUNT</code> and <code>SUM</code> over <code>amount</code> when we group by <code>year</code>. We use this query:</p>
 <pre><code>SELECT year,
     COUNT(*) AS the_count,
     SUM(amount) AS the_sum
@@ -178,7 +178,7 @@ GROUP BY year, name;</code></pre>
 </table>
 <p>Now we are squashing together all the records with matching <code>year</code>s <em>and</em> matching <code>name</code>s. This means that we get the number of purchases each person made in each year, along with the total amount they spent in each year.</p>
 <h2 id="aggregating-the-results">Aggregating the Results</h2>
-<p>Let's suppose that we now want to find the percentage of the total money spent in a year that is spent by each person. You may have to read that sentence a couple of times to make sense of it. It may also help to explain the basic procedure we want to follow. It will be something like this:</p>
+<p>Let’s suppose that we now want to find the percentage of the total money spent in a year that is spent by each person. You may have to read that sentence a couple of times to make sense of it. It may also help to explain the basic procedure we want to follow. It will be something like this:</p>
 <ol style="list-style-type: decimal">
 <li>Find the total amount spent by each person, in each year.</li>
 <li>Find the total amount spent by everyone in each year.</li>
@@ -308,7 +308,7 @@ GROUP BY year, name;</code></pre>
 </table>
 <h2 id="a-note-on-mysql">A Note on MySQL</h2>
 <p>When I started writing this post, I was using <a href="https://www.mysql.com/">MySQL</a>, but then I realized that it does not support the <code>OVER</code> clause. At that point, I switched over to PostgreSQL.</p>
-<p>I don't have any special insight into <em>why</em> MySQL doesn't support this feature now, but hopefully they implement it in the near future, because it is very useful.</p>
+<p>I don’t have any special insight into <em>why</em> MySQL doesn’t support this feature now, but hopefully they implement it in the near future, because it is very useful.</p>
         </div>
         <div class="copyright">
             <p>&copy; 2018.  All rights reserved.</p>
