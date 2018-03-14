@@ -15,11 +15,12 @@ manipulation was more important than string manipulation, but decided the `os`
 module from Python's standard library worked well enough for what I needed.
 
 This went on until I came across
-[a discussion](https://news.ycombinator.com/item?id=16483889) about makefiles
-on [Hacker News](https://news.ycombinator.com/).  The comments were a fairly
-even mix of criticism and praise, but they were enough to convince me to
-consider switching my SSG to be a makefile instead of a Python script.  I had
-worked with `make` briefly for building C++ programs for my
+[a discussion](https://news.ycombinator.com/item?id=16483889) about makefiles a
+couple of weeks ago on [Hacker News](https://news.ycombinator.com/).  The
+comments were a fairly even mix of criticism and praise, but they were enough
+to convince me to consider switching my SSG to be a makefile instead of a
+Python script.  I had worked with `make` briefly for building C++ programs for
+my
 [object-oriented programming course](http://www.ucalendar.uwaterloo.ca/1718/COURSE/course-CS.html#CS246)
 but at the time it seemed unintuitive and I mainly just used a file the prof
 provided.  Going back and re-learning the tool, though, I realized how useful
@@ -29,8 +30,10 @@ writing the SSG automatically, without adding much overhead.  To paraphrase
 my Python script contained an ad-hoc, informally-specified, bug-ridden, slow
 implementation of half of `make`.  By making the switch, I went from 300 lines
 of Python and counting, to a little more than 40 lines of code in a makefile.
-I made a few adjustments to my plans to make the SSG easier to write for
-`make`, but all core functionality remains.
+It also went from something I worked on off and on for several months to
+something I finished in the course of a few nights.  I made a few adjustments
+to my plans to make the SSG easier to write for `make`, but all core
+functionality remains.
 
 As was planned from the beginning, my SSG, nicknamed "Muad'Dib", is designed
 with the layout of this website in mind, and so likely won't be suitable for
