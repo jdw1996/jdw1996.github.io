@@ -2,10 +2,10 @@
 <!-- 2018-03-12 -->
 
 Over the past couple of months I've been writing my own static site generator
-(SSG).  Previously, I had built this site using Jekyll, but I realized that I
-wasn't using a majority of the features it offered, and I wanted to have more
-control over how my SSG worked.  I also thought it would be fun to implement my
-own.
+(SSG).  Previously, I had built this site using
+[Jekyll](https://jekyllrb.com/), but I realized that I wasn't using a majority
+of the features it offered, and I wanted to have more control over how my SSG
+worked.  I also thought it would be fun to implement my own.
 
 At the beginning of January I started to implement the program in Python,
 because that's the language I have the most experience in, and I find it
