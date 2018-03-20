@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: "IBM Plex Sans", "Clear Sans", "Source Sans Pro", "Fira Sans", "Linux Biolinum", "Noto Sans", "Open Sans", "Segoe UI", "Lato", "Carlito", "Ubuntu", "Corbel", "DejaVu Sans", "Liberation Sans", "Arimo", "Geneva", "Roboto", "FreeSans", "TeX Gyre Heros", "Helvetica Neue", "Arial", "Verdana", sans-serif;
+    font-family: "IBM Plex Sans", "Clear Sans", "Source Sans Pro", "Fira Sans", "Linux Biolinum", "Noto Sans", "Open Sans", "Segoe UI", "Lato", "Carlito", "Ubuntu", "Corbel", "DejaVu Sans", "Liberation Sans", "Arimo", "Geneva", "Roboto", "FreeSans", "TeX Gyre Heros", "Helvetica Neue", sans-serif;
     line-height: 1.4;
     max-width: 45em;
     margin: 1em auto;
