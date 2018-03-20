@@ -17,7 +17,7 @@ module from Python's standard library worked well enough for what I needed.
 This went on until I came across
 [a discussion](https://news.ycombinator.com/item?id=16483889) about makefiles a
 couple of weeks ago on [Hacker News](https://news.ycombinator.com/).  The
-comments were a fairly even mix of criticism and praise, but they were enough
+comments were a fairly even mix of criticism and praise, but there were enough
 favourable ones to convince me to consider switching my SSG to be a makefile
 instead of a Python script.  I had worked with `make` briefly for building C++
 programs for my
