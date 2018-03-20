@@ -27,6 +27,7 @@ Feel free to send me an email at
 [GitHub profile](https://github.com/jdw1996), or read some of my blog posts:
 
 <!-- * [Title](/link) <span class="index-date">[date]</span> -->
+* [Website Redesign](/2018-03-19-website-redesign.html) <span class="index-date">[2018-03-19]</span>
 * [Writing My Own Static Site Generator with a Makefile](/2018-03-12-writing-my-own-static-site-generator-with-a-makefile.html) <span class="index-date">[2018-03-12]</span>
 * [Nesting SQL Aggregate Functions](/2017-03-26-nesting-sql-aggregate-functions.html) <span class="index-date">[2017-03-26]</span>
 * [Hello, World!](/2017-01-08-hello-world.html) <span class="index-date">[2017-01-08]</span>
