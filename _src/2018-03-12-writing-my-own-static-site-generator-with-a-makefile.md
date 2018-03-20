@@ -18,9 +18,9 @@ This went on until I came across
 [a discussion](https://news.ycombinator.com/item?id=16483889) about makefiles a
 couple of weeks ago on [Hacker News](https://news.ycombinator.com/).  The
 comments were a fairly even mix of criticism and praise, but they were enough
-to convince me to consider switching my SSG to be a makefile instead of a
-Python script.  I had worked with `make` briefly for building C++ programs for
-my
+favourable ones to convince me to consider switching my SSG to be a makefile
+instead of a Python script.  I had worked with `make` briefly for building C++
+programs for my
 [object-oriented programming course](http://www.ucalendar.uwaterloo.ca/1718/COURSE/course-CS.html#CS246)
 but at the time it seemed unintuitive and I mainly just used a file the prof
 provided.  Going back and re-learning the tool, though, I realized how useful
