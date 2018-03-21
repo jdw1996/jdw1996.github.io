@@ -19,12 +19,12 @@ fair warning, do contain quite a bit of profanity):
 want to have to load anything from external sources, set up any kind of fancy
 layout, or run any JavaScript.  Among other things, this means that the site
 will always use fonts you have installed on your device.  I'm using a pretty
-extensive font stack to minimize the chance of getting stuck with, for example
-Arial or Helvetica for text and Courier New for code, but I can't guarantee
-that you won't see one of those if you're using an old or uncommon platform.
-For this website, my first choices of text and code font are IBM Plex Sans and
-IBM Plex Mono, respectively, and if it's important to you, you can download
-them for free from [here](https://github.com/ibm/plex).
+extensive font stack to minimize the chance of getting stuck with, for example,
+Arial for text and Courier New for code, but I can't guarantee that you won't
+see one of those if you're using an old or uncommon platform.  For this
+website, my first choices of text and code font are IBM Plex Sans and IBM Plex
+Mono, respectively, and if it's important to you, you can download them for
+free from [here](https://github.com/ibm/plex).
 
 I also took inspiration from
 [Contrast Rebellion](http://contrastrebellion.com/) and
@@ -32,17 +32,16 @@ I also took inspiration from
 
 ## Structure
 
-It took a few iterations of planning before I settled on the current structure
-of the website.  Initially, I was planning on having separate pages for my work
+It took a few iterations before I settled on the current structure of the
+website.  Initially, I was planning on having separate pages for my work
 experience, projects, and blog, just as I had on the old version of the site.
 That changed when I came across
 [Vatsal Ambastha's blog](http://www.vatsalambastha.com/) while browsing
 [Brutalist Websites](http://brutalistwebsites.com/) for inspiration.  Reading
 it, I realized that there was no reason not to put all of the information about
 myself, along with links to blog posts, on the landing page.  After all, I
-don't have *that* much content I want to include.  This structure is simpler
-(which is what I was going for), easier to navigate, and less cluttered with
-links.
+don't have *that* much content I want to include.  This structure is simpler,
+easier to navigate, and less cluttered with links.
 
 ## Things Left to Do
 
@@ -56,7 +55,10 @@ There are a couple more ideas to improve the site that I'm toying with, too:
   share specific parts of posts, but I don't see a need for that coming up too
   often.  I also don't have an elegant way of implementing it given the current
   system for generating the site, so I'm going to hold off on this for now as
-  well.
+  well.  If you really need a link to a certain heading, convert the heading
+  title to lower-case, remove punctuation, and replace spaces with hyphens to
+  get the section ID.  Then you can append the ID after a `#` to the URL to get
+  a link to the heading.
 
 If you find any issues with the website, or think there's something that could
 be improved, send me an email at
