@@ -58,6 +58,9 @@ td {
     border-bottom: 1px dotted var(--fg-colour);
     padding: 0.1em 1em;
 }
+.tr-hl {
+  background-color: var(--code-bg-colour);
+}
 
 .post-heading {
     margin: 2em 0;
