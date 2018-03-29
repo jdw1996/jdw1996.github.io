@@ -99,7 +99,7 @@ Blue Jays are shaded in grey.
 <td align="center"><a href="https://www.baseball-reference.com/boxes/TOR/TOR201708250.shtml">August 25</a></td>
 <td align="center">Minnesota Twins</td> <td align="right">1</td> <td align="right">6</td> <td align="center">J. A. Happ</td> <td align="center">Bartolo Colón</td>
 </tr>
-<tr>
+<tr class="tr-hl">
 <td align="center"><a href="https://www.baseball-reference.com/boxes/TOR/TOR201709240.shtml">September 24</a></td>
 <td align="center">New York Yankees</td> <td align="right">9</td> <td align="right">5</td> <td align="center">Marcus Stroman</td> <td align="center">Jaime García</td>
 </tr>
