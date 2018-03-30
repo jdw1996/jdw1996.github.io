@@ -49,6 +49,7 @@ table {
     max-width: 80%;
     margin: 0 auto;
     border-spacing: 0;
+    font-size: 0.8em;
 }
 th {
     border-bottom: 1px solid var(--fg-colour);
