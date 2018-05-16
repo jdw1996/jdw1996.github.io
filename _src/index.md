@@ -10,10 +10,10 @@ and minors in [computer science](https://cs.uwaterloo.ca/) and
 [pure mathematics](https://uwaterloo.ca/pure-mathematics/).  I love
 programming, solving puzzles, watching baseball, and reading science fiction.
 
-I'm currently working on data statistics for query processing at
-[SAP](https://sap.com), but I've previously worked for the
-[Jonah Group](https://jonahgroup.com) and TrustPoint Innovation Technologies
-(now a part of [ESCRYPT](https://escrypt.com)).
+I've worked at [SAP](https://sap.com), [Jonah Group](https://jonahgroup.com)
+and TrustPoint Innovation Technologies
+(now a part of [ESCRYPT](https://escrypt.com)).  I'm currently looking for a
+co-op position for the Fall 2018 term.
 
 I also have some personal projects available online, including
 [a game called *Touch the Bees!*](https://github.com/jdw1996/touch-the-bees),
