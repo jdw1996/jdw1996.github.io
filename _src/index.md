@@ -8,7 +8,7 @@ I love programming, solving puzzles, watching baseball, and reading science fict
 I've worked at [SAP](https://sap.com), [Jonah Group](https://jonahgroup.com) and TrustPoint Innovation Technologies (now a part of [ESCRYPT](https://escrypt.com)).
 I'm currently looking for a co-op position for the Fall 2018 term.
 
-I also have some personal projects available online, including [a game called *Touch the Bees!*](https://github.com/jdw1996/touch-the-bees), [a command-line program to conjugate French verbs](https://github.com/jdw1996/french-conjugator), [a site to randomly generate names for pubs](https://github.com/jdw1996/pub-name-generator), and [my solutions](https://github.com/jdw1996/cryptopals) to the [Matasano Cryptopals challenges](https://cryptopals.com/).
+I also have some personal projects available online, including [a game called *Touch the Bees!*](https://github.com/jdw1996/touch-the-bees), [a game based on *Pong*](https://github.com/jdw1996/retro-table-tennis), [a command-line program to conjugate French verbs](https://github.com/jdw1996/french-conjugator), [a site to randomly generate names for pubs](https://github.com/jdw1996/pub-name-generator), and [my solutions](https://github.com/jdw1996/cryptopals) to the [Matasano Cryptopals challenges](https://cryptopals.com/).
 
 Feel free to send me an email at [jdwinters96@gmail.com](mailto:jdwinters96@gmail.com), check out my [GitHub profile](https://github.com/jdw1996), or read some of my blog posts:
 
