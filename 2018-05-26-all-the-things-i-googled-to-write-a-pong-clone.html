@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <link rel="stylesheet" href="/assets/style.css">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+        <title>
+             All the Things I Googled to Write a Pong Clone 
+        </title>
+    </head>
+    <body>
+        <a id="home-link" href="/">${HOME}</a>
+        <div class="post">
+            <div class="post-heading">
+                <div class="post-date"> 2019-01-01 </div>
+                <h1 class="post-title"> All the Things I Googled to Write a Pong Clone </h1>
+            </div>
+<!-- All the Things I Googled to Write a Pong Clone -->
+<!-- 2019-01-01 -->
+<p>In the past, I’ve written <a href="https://jdw1996.github.io/touch-the-bees">a game using the HTML5 canvas</a> and <a href="https://jdw1996.github.io/pub-name-generator">a project in Dart</a> but this is my first project using the two together. Since this is something a bit new for me, I thought it would be interesting to keep track of all the things I have to search for in order to create the game.</p>
+<p>A couple of things to note before I start:</p>
+<ul>
+<li>This isn’t intended to be a particularly complex or impressive project. My goal here is to get to know Dart and the canvas better.</li>
+<li>I will be using code from my previous projects for reference, so that will reduce my googling somewhat.</li>
+</ul>
+<p>I’d also like to point out that this project has no affiliation whatsoever with Atari, Atari’s <em>Pong</em> game, or any other game containing similar mechanics.</p>
+<p>With all that in mind, below are my searches and the solutions to my problems.</p>
+<h2 id="delete-master-branch-github">“delete master branch github”</h2>
+<p>When I create a project that’s solely meant to be viewed in a browser, I like to delete the <code>master</code> branch and just use the <code>gh-pages</code> branch (see <a href="https://pages.github.com/">here</a> for more on GitHub Pages). I’ve done it a few times, but have to look up how every time.</p>
+<p><a href="http://matthew-brett.github.io/pydagogue/gh_delete_master.html"><strong>Selected Solution.</strong></a></p>
+<p>The article is pretty concise, but I’ll quickly go over the specific steps I used:</p>
+<ol style="list-style-type: decimal">
+<li>Create and clone the repository.</li>
+<li><p>Execute:</p>
+<pre><code>$ git checkout -b gh-pages
+$ git branch -D master
+$ git push origin gh-pages</code></pre></li>
+<li>Navigate to your repo on GitHub and, under <strong>Settings &gt; Branches &gt; Default branch</strong> change the default branch to <code>gh-pages</code>.</li>
+<li><p>Execute:</p>
+<pre><code>$ git push origin :master</code></pre></li>
+</ol>
+<h2 id="ubuntu-install-dart">“ubuntu install dart”</h2>
+<p>Apparently I haven’t used Dart since I reinstalled my OS.</p>
+<p><a href="https://www.dartlang.org/install/linux"><strong>Selected Solution.</strong></a></p>
+<h2 id="dart-initializer-list">“dart initializer list”</h2>
+<p>In a few of my class constructors, it seemed all I was doing was initializing all the fields directly from arguments. I remembered seeing an initializer list in Dart, but wanted to check the syntax.</p>
+<p><a href="https://www.dartlang.org/guides/language/language-tour#initializer-list"><strong>Selected Solution.</strong></a></p>
+<p>It’s pretty much the same as in C++.</p>
+<h2 id="dart-abstract-class">“dart abstract class”</h2>
+<p>I want to have one parent class <code>Screen</code> from which all display modes inherit. There may not be a lot of common content, but I’ll be able to create a common interface this way.</p>
+<p><a href="https://stackoverflow.com/questions/33904494/abstract-base-class-in-dart"><strong>Selected Solution.</strong></a></p>
+<p>You can mark a class as abstract with the <code>abstract</code> keyword, and then to have pure virtual methods, you can simply leave out the function body. Then to create a child class, you can use <code>class Child extends Parent</code>, and override any methods from the parent by marking them with the <code>@override</code> decorator.</p>
+<h2 id="dart-get-mouse-click-on-canvas">“dart get mouse click on canvas”</h2>
+<p>While my plan is to have the game itself controlled with the arrow keys, it makes the most sense to use mouse navigation for menus.</p>
+<p><a href="https://books.google.ca/books?id=EcvjAwAAQBAJ&amp;pg=PA108&amp;lpg=PA108&amp;dq=dart+get+mouse+click+on+canvas&amp;source=bl&amp;ots=eEZ-bI6MdI&amp;sig=WPhmajDYn5yZmCGHLTG8Ol61Z9g&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjJ4sPjtZfaAhVLY6wKHeukAUgQ6AEIdDAI#v=onepage&amp;q=dart%20get%20mouse%20click%20on%20canvas&amp;f=false"><strong>Selected Solution.</strong></a></p>
+<p>I ended up using a few different code snippets from here. First, to get the canvas element, use:</p>
+<pre><code>CanvasElement canvas = querySelector(&quot;#mycanvas&quot;);</code></pre>
+<p>Now you can add a function to listen for mouse clicks:</p>
+<pre><code>canvas.onClick.listen(clickListener);</code></pre>
+<p>And, once you have a mouse event <code>e</code>, you can get the coordinates of the click by:</p>
+<pre><code>int clickX = e.offset.x;
+int clickY = e.offset.y;</code></pre>
+<h2 id="dart-canvas-draw-new-frame">“dart canvas draw new frame”</h2>
+<p>To make the game work, I’ll need to continually and repeatedly redraw the canvas. I recalled seeing a tutorial on building a Snake game with Dart and the HTML5 canvas, and I was hoping to find that. Sure enough, I did.</p>
+<p><a href="https://dart.academy/web-games-with-dart-and-the-html5-canvas/"><strong>Selected Solution.</strong></a></p>
+<p>If you’re interested in this topic, it would be best to go ahead and read the part of the tutorial that covers <code>window.animationFrame</code>. I plan on using the approach outlined there for displaying the game.</p>
+<h2 id="dart-tuple-and-dart-multiple-return">“dart tuple” and “dart multiple return”</h2>
+<p>I was hoping to be able to return the x- and y-coordinates of a mouse click from a function in a tuple, as I would in Python.</p>
+<p><a href="https://stackoverflow.com/questions/45326310/dart-function-return-multiple-values"><strong>Selected Solution.</strong></a></p>
+<p>There is no such functionality built into the language, but it is possible to return a list containing different types of values.</p>
+<h2 id="dart-check-if-variables-point-to-same-object">“dart check if variables point to same object”</h2>
+<p>When dealing with transitions between different <code>Screen</code>s, I’ll need to know what the current screen is. The easiest way I can see to do this is to compare my <code>currentScreen</code> with the screens themselves, to see which <code>currentScreen</code> is an alias for.</p>
+<p><a href="https://stackoverflow.com/questions/18428735/how-do-i-compare-two-objects-to-see-if-they-are-the-same-instance-in-dart"><strong>Selected Solution.</strong></a></p>
+<p>Determining if two variables <code>a</code> and <code>b</code> point to the same object is as simple as calling <code>identical(a, b)</code>.</p>
+<h2 id="dart-ternary-operator">“dart ternary operator”</h2>
+<p>I’d been assuming Dart had a ternary operator of the form <code>condition ? ifTrue : ifFalse</code>, like the one in C and many other languages, but I figured I should make sure.</p>
+<p><a href="https://code-maven.com/slides/dart-programming/ternary-operator"><strong>Selected Solution.</strong></a></p>
+<p>My assumption was correct, this does exist in Dart.</p>
+<h2 id="dart-enum">“dart enum”</h2>
+<p>To simplify the movement of the ball, I’m planning to have three set angles at which it can travel. To store which angle it is currently moving at, I’d like to set up an <code>enum</code>, ideally.</p>
+<p><a href="https://stackoverflow.com/questions/13899928/does-dart-support-enumerations"><strong>Selected Solution.</strong></a></p>
+<p>Dart supports <code>enum</code>s with very simple syntax:</p>
+<pre><code>enum Animal {
+  DOG, CAT, RABBIT
+}</code></pre>
+<h2 id="dart-trig-functions">“dart trig functions”</h2>
+<p>I’ll need to use some basic trig functions to calculate the movement of the ball as it bounces around the screen.</p>
+<p><a href="https://api.dartlang.org/stable/1.24.3/dart-math/dart-math-library.html"><strong>Selected Solution.</strong></a></p>
+<p>Importing <code>'dart:math'</code> gives access to <code>sin</code>, <code>cos</code>, and <code>tan</code>, among other functions. Each of these takes an angle in radians. To make this easier to deal with, the library also provides the constant <code>PI</code>.</p>
+<h2 id="dart-cast-double-to-int">“dart cast double to int”</h2>
+<p>The trig functions I’m using to figure out the movement of the ball output <code>double</code>s, but I need to convert these to integers so that I can use them as a number of pixels.</p>
+<p><a href="https://stackoverflow.com/questions/20788320/how-to-convert-a-double-to-an-int-in-dart"><strong>Selected Solution.</strong></a></p>
+<p>Dart <code>double</code>s have two different methods that do roughly what I want. To round a <code>double</code> to the nearest <code>int</code>, you can use <code>myDouble.round()</code> and to truncate it, you can use <code>myDouble.toInt()</code>.</p>
+<h2 id="dart-html-canvas-example">“dart html canvas example”</h2>
+<p>The Snake tutorial I found above showed the <code>fillRect</code> method for drawing rectangles, as for the paddles, on the canvas, but I had more trouble finding a way to draw a circle for the ball.</p>
+<p><a href="https://sites.google.com/site/dartlangexamples/api/dart-html/interface/eventtarget/node-nodeselector/element/canvaselement"><strong>Selected Solution.</strong></a></p>
+<p>There’s an example on this page that shows how to draw a circle. It boils down to creating an arc, then calling <code>stroke</code> or <code>fill</code>. This is very similar to the way I drew circles for the bees in my <em>Touch the Bees!</em> game.</p>
+<h2 id="how-to-debug-dart-js">“how to debug dart js”</h2>
+<p>I’m at the point now where I can transpile my Dart code to JavaScript without any warnings or errors, but the canvas remains blank. The console shows the error message: <code>TypeError: J.p(...) is null</code>. My code doesn’t have variables called <code>J</code> or <code>p</code>; rather, these are created by the transpiler. That does mean, though, that I don’t know how to interpret them. In my previous Dart project I didn’t have any problem with this sort of thing, because it was a much smaller program.</p>
+<p>I didn’t end up selecting a specific solution found online, but <a href="https://stackoverflow.com/questions/25624397/dart-to-js-how-to-debug-the-generated-javascript-errors">this StackOverflow question</a> prompted me to look again at the command I’m using to transpile. I was just using the same one as I had for my <a href="https://jdw1996.github.io/pub-name-generator">Pub Name Generator</a>, but I realized the <code>-m</code> flag was causing the JavaScript output to be minified. Removing it gives more easily understandable output.</p>
+<h2 id="dart-write-text-to-html5-canvas">“dart write text to html5 canvas”</h2>
+<p>For the settings screen and the end screen of the game both, I will need to display some text on the canvas.</p>
+<p><a href="https://stackoverflow.com/questions/19020591/how-to-stroke-a-text-in-dart-using-canvas-2d-context"><strong>Selected Solution.</strong></a></p>
+<p>Using a <code>CanvasRenderingContext2D</code> object, here named <code>context</code>, you can set the <code>font</code> and <code>fillStyle</code> attributes and then call <code>fillText</code> with arguments for the text to display, the <code>x</code> coordinate to display at, and the <code>y</code> coordinate to display at (note that the coordinates represent the bottom-left corner of the text). This can easily be written using Dart’s cascade operator as follows:</p>
+<pre><code>context
+  ..font = &quot;12pt Open Sans&quot;
+  ..fillStyle = &quot;black&quot;
+  ..fillText(&quot;Hello, World!&quot;, 10, 10);</code></pre>
+<h2 id="dart-zero-padded-number">“dart zero padded number”</h2>
+<p>To display the score required to win the game on the settings screen, and keep it aligned properly, I think the best way is to zero-pad it, so that it’s always two characters wide.</p>
+<p><a href="https://api.dartlang.org/stable/1.24.3/dart-core/String/padLeft.html"><strong>Selected Solution.</strong></a></p>
+<p>To pad a string <code>numericString</code> with zeros on the left, to a total width of two characters, we can use the following code:</p>
+<pre><code>numericString.padLeft(2, &quot;0&quot;);</code></pre>
+<h2 id="conclusion">Conclusion</h2>
+<p>Despite a roughly seven month break in the middle of this project and after many searches, I now have the game finished, and you can play it <a href="https://jdw1996.github.io/retro-table-tennis/">here</a>.</p>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2018.  All rights reserved.</p>
+        </div>
+    </body>
+</html>

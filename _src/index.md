@@ -27,6 +27,7 @@ Feel free to send me an email at
 [GitHub profile](https://github.com/jdw1996), or read some of my blog posts:
 
 <!-- * [Title](/link) <span class="index-date">[date]</span> -->
+* [All the Things I Googled to Write a Pong Clone](/2018-05-26-all-the-things-i-googled-to-write-a-pong-clone.html) <span class="index-date">[2018-05-26]</span>
 * [Blue Jays Games I Attended in 2017](/2018-03-29-blue-jays-games-i-attended-in-2017.html) <span class="index-date">[2018-03-29]</span>
 * [Website Redesign](/2018-03-19-website-redesign.html) <span class="index-date">[2018-03-19]</span>
 * [Writing My Own Static Site Generator with a Makefile](/2018-03-12-writing-my-own-static-site-generator-with-a-makefile.html) <span class="index-date">[2018-03-12]</span>
