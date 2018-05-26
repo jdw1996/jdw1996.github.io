@@ -1,5 +1,5 @@
 <!-- All the Things I Googled to Write a Pong Clone -->
-<!-- 2019-01-01 -->
+<!-- 2018-05-26 -->
 
 In the past, I've written [a game using the HTML5 canvas](https://jdw1996.github.io/touch-the-bees) and [a project in Dart](https://jdw1996.github.io/pub-name-generator) but this is my first project using the two together.
 Since this is something a bit new for me, I thought it would be interesting to keep track of all the things I have to search for in order to create the game.
