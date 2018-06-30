@@ -5,8 +5,8 @@
 I'm Joseph Winters and I'm a fourth-year student at the [University of Waterloo](https://uwaterloo.ca/), working towards a Bachelor of Mathematics degree with a major in [combinatorics and optimization](https://uwaterloo.ca/combinatorics-and-optimization/) and minors in [computer science](https://cs.uwaterloo.ca/) and [pure mathematics](https://uwaterloo.ca/pure-mathematics/).
 I love programming, solving puzzles, watching baseball, and reading science fiction.
 
-I've worked at [SAP](https://sap.com), [Jonah Group](https://jonahgroup.com) and TrustPoint Innovation Technologies (now a part of [ESCRYPT](https://escrypt.com)).
-I'm currently looking for a co-op position for the Fall 2018 term.
+During the Fall 2018 term, I'll be working at [Broadway Technology](http://www.broadwaytechnology.com/) in New York.
+In the past, I've worked at [SAP](https://sap.com), [Jonah Group](https://jonahgroup.com) and TrustPoint Innovation Technologies (now a part of [ESCRYPT](https://escrypt.com)).
 
 I also have some personal projects available online, including [a game called *Touch the Bees!*](https://github.com/jdw1996/touch-the-bees), [a game based on *Pong*](https://github.com/jdw1996/retro-table-tennis), [a command-line program to conjugate French verbs](https://github.com/jdw1996/french-conjugator), [a site to randomly generate names for pubs](https://github.com/jdw1996/pub-name-generator), and [my solutions](https://github.com/jdw1996/cryptopals) to the [Matasano Cryptopals challenges](https://cryptopals.com/).
 
