@@ -48,7 +48,9 @@ I remembered seeing an initializer list in Dart, but wanted to check the syntax.
 
 [**Selected Solution.**](https://www.dartlang.org/guides/language/language-tour#initializer-list)
 
-It's pretty much the same as in C++.
+<del>It's pretty much the same as in C++.</del>
+Clearly it had been a while since I'd used C++ when I wrote this.
+In Dart, the initializer list goes after a colon after the method signature, like in C++, but the list itself is written as a bunch of comma-separated assignments.
 
 ## "dart abstract class"
 
