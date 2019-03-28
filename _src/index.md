@@ -13,6 +13,7 @@ I also have some personal projects available online, including [a game called *T
 Feel free to send me an email at [jdwinters96@gmail.com](mailto:jdwinters96@gmail.com), check out my [GitHub profile](https://github.com/jdw1996), or read some of my blog posts:
 
 <!-- * [Title](/link) <span class="index-date">[date]</span> -->
+* [Baseball Games I Attended in 2018](/2019-03-28-baseball-games-i-attended-in-2018.html) <span class="index-date">[2019-03-28]</span>
 * [Things to See and Do in NYC](/2019-03-08-things-to-see-and-do-in-nyc) <span class="index-date">[2019-03-08]</span>
 * [All the Things I Googled to Write a Pong Clone](/2018-05-26-all-the-things-i-googled-to-write-a-pong-clone.html) <span class="index-date">[2018-05-26]</span>
 * [Blue Jays Games I Attended in 2017](/2018-03-29-blue-jays-games-i-attended-in-2017.html) <span class="index-date">[2018-03-29]</span>
