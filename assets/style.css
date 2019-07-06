@@ -22,7 +22,7 @@ body {
 
 code {
     font-family: monospace;
-    font-size: 1em;
+    font-size: 1.3em;
     padding: 1px 5px;
     background-color: var(--code-bg-colour)
 }
