@@ -27,7 +27,7 @@ code {
     background-color: var(--code-bg-colour)
 }
 pre {
-    font-size: 0.8em;
+    font-size: 1.3em;
     padding: 1em;
     background-color: var(--code-bg-colour);
 }
