@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: "IBM Plex Sans", "Clear Sans", "Source Sans Pro", "Fira Sans", "Linux Biolinum", "Noto Sans", "Open Sans", "Segoe UI", "Lato", "Carlito", "Ubuntu", "Corbel", "DejaVu Sans", "Liberation Sans", "Arimo", "Geneva", "Roboto", "FreeSans", "TeX Gyre Heros", "Helvetica Neue", sans-serif;
+    font-family: serif;
     line-height: 1.4;
     max-width: 45em;
     margin: 1em auto;
@@ -21,28 +21,15 @@ body {
 }
 
 code {
-    font-family: "IBM Plex Mono", "Hack", "Epiphyte Mono", "Source Code Pro", "Fira Mono", "Input", "Input Mono", "Iosevka Term", "Iosevka", "Iosevka Term Slab", "Iosevka Slab", "Anonymous Pro", "Consolas", "Cousine", "Liberation Mono", "Menlo", "DejaVu Sans Mono", monospace;
-    font-size: 1em;
+    font-family: monospace;
+    font-size: 1.3em;
     padding: 1px 5px;
     background-color: var(--code-bg-colour)
 }
 pre {
-    font-size: 0.8em;
+    font-size: 1em;
     padding: 1em;
     background-color: var(--code-bg-colour);
-    border-left: 3px solid var(--accent-colour);
-}
-
-a:link,
-a:visited {
-    text-decoration: none;
-    border-bottom: 1px solid var(--accent-colour);
-    color: var(--fg-colour);
-}
-a:hover {
-    text-decoration: none;
-    border-bottom: none;
-    color: var(--accent-colour);
 }
 
 table {
