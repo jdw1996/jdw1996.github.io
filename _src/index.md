@@ -7,7 +7,7 @@ In the past, I've worked at [SAP](https://sap.com), [Jonah Group](https://www.jo
 I graduated from the [University of Waterloo](https://uwaterloo.ca/) with a Bachelor of Mathematics degree with a major in [combinatorics and optimization](https://uwaterloo.ca/combinatorics-and-optimization/) and minors in [computer science](https://cs.uwaterloo.ca/) and [pure mathematics](https://uwaterloo.ca/pure-mathematics/).
 I love programming, solving puzzles, watching baseball, and reading science fiction.
 
-Some personal projects I've worked on are available online, including [a game called *Touch the Bees!*](https://github.com/jdw1996/touch-the-bees), [a game based on *Pong*](https://github.com/jdw1996/retro-table-tennis), [a command-line program to conjugate French verbs](https://github.com/jdw1996/french-conjugator), [a site to randomly generate names for pubs](https://github.com/jdw1996/pub-name-generator), and [my solutions](https://github.com/jdw1996/cryptopals) to the [Matasano Cryptopals challenges](https://cryptopals.com/).
+Some personal projects I've worked on are available online, including [a game called *Touch the Bees!*](/touch-the-bees), [a game based on *Pong*](/retro-table-tennis), [a command-line program to conjugate French verbs](https://github.com/jdw1996/french-conjugator), [a site to randomly generate names for pubs](https://github.com/jdw1996/pub-name-generator), and [my solutions](https://github.com/jdw1996/cryptopals) to the [Matasano Cryptopals challenges](https://cryptopals.com/).
 
 Feel free to send me an email at [jdwinters96@gmail.com](mailto:jdwinters96@gmail.com), check out my [GitHub profile](https://github.com/jdw1996), or read some of my blog posts:
 
