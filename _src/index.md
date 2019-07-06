@@ -3,7 +3,7 @@
 **You've reached my website.**
 
 I'm Joseph Winters and I'm a software engineer at [Broadway Technology](http://www.broadwaytechnology.com/) in New York City.
-In the past, I've worked at [SAP](https://sap.com), [Jonah Group](https://jonahgroup.com) and TrustPoint Innovation Technologies (now a part of [ESCRYPT](https://escrypt.com)).
+In the past, I've worked at [SAP](https://sap.com), [Jonah Group](https://www.jonahgroup.com) and TrustPoint Innovation Technologies (now a part of [ESCRYPT](https://escrypt.com)).
 I graduated from the [University of Waterloo](https://uwaterloo.ca/) with a Bachelor of Mathematics degree with a major in [combinatorics and optimization](https://uwaterloo.ca/combinatorics-and-optimization/) and minors in [computer science](https://cs.uwaterloo.ca/) and [pure mathematics](https://uwaterloo.ca/pure-mathematics/).
 I love programming, solving puzzles, watching baseball, and reading science fiction.
 
