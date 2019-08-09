@@ -41,7 +41,7 @@ I ended up being offered a full-time position at Broadway, starting in July 2019
 * __Grimaldi's__: One of the most famous NYC pizzerias, with locations in DUMBO, Manhattan, and Coney Island. Exactly what you expect from New York-style pizza.
 * __Joe's Shanghai__: I was at the Chinatown location and there was quite a wait for Saturday lunch. Joe's is famous for their soup dumplings, which you can get with either crab or pork, and I also recommend the scallion pancake and the "Lion's Head" meatballs, which are cooked in a dark, savoury gravy.
 * __Shake Shack__: A fast food chain, but a step above McDonald's and the like. There are locations across the US, but the franchise started in NYC and that's where they're most common. The burgers are good, but the shakes are the highlight for me.
-* __Spot Dessert Bar__: I've only been to the Koreatown location. The desserts are on the expensive side, but unique and very good, especially the "Cookie Camp", a mix of ice cream, pretzels, and a warm chocolate chip cookie.
+* __Spot Dessert Bar__: I've been to the locations in Koreatown and the East Village. The desserts are on the expensive side, but unique and very good, especially the "Cookie Camp", a mix of ice cream, pretzels, and a warm chocolate chip cookie.
 
 ## Attractions
 
