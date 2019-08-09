@@ -30,6 +30,11 @@ I ended up being offered a full-time position at Broadway, starting in July 2019
 
 * __Himalayan Yak__: Nepalese and Tibetan food in Jackson Heights. I recommend the momos (dumplings). I tried ordering two different kinds of yak meat when I was there, but they were out of both.
 
+### Jersey City
+
+* __Exchange Place Food Trucks__: While there are food trucks all around Manhattan, they can be a bit harder to find in the rest of the area. In Jersey City they congregate on the waterfront near Exchange Place. Enjoy some cheap Indian food with a great view of the Downtown skyline.
+* __Roman Nose__: An authentic Italian restaurant on the Newark Avenue pedestrian mall. The street is permanently closed and often fills up with vendors and tables for local restaurants.
+
 ### Multiple Boroughs
 
 * __Ben's Delicatessen__: I've only been to the one in Midtown Manhattan, but there are also locations on Long Island and in Florida. It's not quite as good as Katz's, but it's much cheaper and easier to get into.
