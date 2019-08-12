@@ -32,7 +32,7 @@ I ended up being offered a full-time position at Broadway, starting in July 2019
 
 ### Jersey City
 
-* __Exchange Place Food Trucks__: While there are food trucks all around Manhattan, they can be a bit harder to find in the rest of the area. In Jersey City they congregate on the waterfront near Exchange Place. Enjoy some cheap Indian food with a great view of the Downtown skyline.
+* __Exchange Place Food Trucks__: While there are food trucks all around Manhattan, they can be a bit harder to find in the rest of the area. In Jersey City they congregate on the waterfront near Exchange Place. Enjoy some cheap Indian food with a great view of the Downtown skyline. There's also a 9/11 Memorial, including a beam from the Twin Towers, worth seeing just south of where the food trucks usually are.
 * __Roman Nose__: An authentic Italian restaurant on the Newark Avenue pedestrian mall. The street is permanently closed and often fills up with vendors and tables for local restaurants.
 
 ### Multiple Boroughs
@@ -45,6 +45,7 @@ I ended up being offered a full-time position at Broadway, starting in July 2019
 
 ## Attractions
 
+* __9/11 Memorial__: In the former locations of the Twin Towers there are now huge fountains, lined with trees. I haven't been to the adjacent museum.
 * __American Museum of Natural History__: Featured in *Night at the Museum*, AMNH has lots of fossils and taxidermy and is too big to see in one visit. I give it a slight edge over the Met. It's on the Upper West Side.
 * __Central Park__: You've probably seen it in more movies and TV shows than you can remember, but it's worth seeing in person. The Park is massive and contains lots of very different areas, including lakes, fields, woods, a path for bicycles and horse-drawn carriages, and clearings with statues. Standing in the middle of any of the fields gives a good view of the Uptown and Midtown skylines.
 * __Citi Bikes__: These are ubiquitous and relatively cheap rental bicycles that you can use to commute or simply to see Manhattan. I'm too nervous to ride along streets, but there are good paths around Central Park and along the west side of Manhattan, all the way from the battery to Uptown.
@@ -57,6 +58,7 @@ I ended up being offered a full-time position at Broadway, starting in July 2019
 * __Rockefeller Center__: Located in Midtown, this area has a lot of high end shops, including the famous toy store FAO Schwarz. During the Christmas season, there is a very large tree set up, and nearby stores put light displays on their facades.
 * __Roosevelt Island__: There's a cable car from the east side of Manhattan over to Roosevelt Island with great views of Midtown and the Queensboro Bridge. The south end of the island is a park with a monument to FDR and the north end is residential with a bit of retail.
 * __Staten Island Ferry__: Free ferry from the Financial District to Staten Island. Great views of Brooklyn, New Jersey, and the skyline of Downtown Manhattan. Don't bother walking around Staten Island, though. I tried it and there was nothing there.
+* __Strand Books__: They have a huge selection of new and used books over multiple floors. This is the best bookstore I've found in NYC. Located near Union Square.
 * __Theodore Roosevelt Birthplace National Historic Site__: Free tours operate in this brownstone in the East Village.
 * __Times Square__: Most New Yorkers seem to hate it, but everyone should see it at least once. It's packed with crowds, souvenirs, retail, buskers, and video screens showing ads. It's busy every time of the night and day. Avoid going while it's raining if you don't want to get poked by hundreds of umbrellas.
 * __Unisphere__: A 43 metre high globe, built for the 1964 World's Fair in Flushing Meadows-Corona Park. It's a lengthy trip from Manhattan, but it's not far away if you're going to a Mets game anyway, and it's one of my favourite New York landmarks.
