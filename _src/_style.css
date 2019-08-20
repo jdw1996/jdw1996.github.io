@@ -60,11 +60,6 @@ td {
     font-size: 0.8em;
 }
 
-.copyright {
-    border-top: 1px solid var(--fg-colour);
-    padding: 0.5em;
-}
-
 .index-date {
     font-size: 0.8em;
 }
