@@ -28,7 +28,7 @@ I ended up being offered a full-time position at Broadway, starting in July 2019
 
 ### Queens
 
-* __Himalayan Yak__: Nepalese and Tibetan food in Jackson Heights. I recommend the momos (dumplings). I tried ordering two different kinds of yak meat when I was there, but they were out of both.
+* __Himalayan Yak__: Nepalese and Tibetan food in Jackson Heights. I recommend the momos (dumplings). I'm glad I tried the yak meat, but it is tough, so I probably wouldn't order it again.
 
 ### Jersey City
 
