@@ -168,6 +168,8 @@ With the Mets using the apple, it wasn't easy to figure out what regional symbol
 The Statue of Liberty would be natural, but I didn't like the idea of putting a second, smaller face in this logo, plus it would mean introducing green.
 The pizza is a little goofy, especially for the Yankees, but I went with it.
 
+By request, I made a variant that replaces the pizza with [the Empire State Building](/img/mlb-blue-jays/nyy-esb.svg).
+
 <img src="img/mlb-blue-jays/nyy.svg" style="width: 400px; height: 400px" />
 
 ## Oakland Athletics
