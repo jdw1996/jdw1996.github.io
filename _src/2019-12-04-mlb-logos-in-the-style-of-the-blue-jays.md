@@ -70,6 +70,8 @@ His moustache gave him the edge over Mr. Red.
 
 Between Cleveland and Cincinnati, I arbitrarily gave the outline of Ohio to the former and a simplified version of the state flag to the latter.
 
+By request, I made a variant that replaces the Ohio flag with [the Reds 'C' logo](/img/mlb-blue-jays/cin-c.svg).
+
 <img src="img/mlb-blue-jays/cin.svg" style="width: 400px; height: 400px" />
 
 ## Cleveland Indians
