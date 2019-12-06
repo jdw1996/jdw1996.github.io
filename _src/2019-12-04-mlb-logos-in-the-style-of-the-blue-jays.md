@@ -17,6 +17,9 @@ Hence, the styles of the results vary somewhat.
 This is the first project I've done with vector images (I used [Inkscape](https://inkscape.org/)), so while the execution may not be perfect, I think there are some interesting concepts here.
 Much credit goes to [Chris Creamer's SportsLogos.net](http://www.sportslogos.net/index.php), whose archive of old logos I referenced for just about every team, [Team Color Codes](https://teamcolorcodes.com/), which provided most of the colour codes I needed, and [U.S. Team Colors](https://usteamcolors.com/), which had the Royals' powder blue I needed.
 
+I posted this to Reddit [here](https://old.reddit.com/r/baseball/comments/e6bygs/oc_mlb_logos_in_the_style_of_the_blue_jays/) and got a great response, including a lot of suggestions for changes to the logos.
+I've linked the modified versions below in addition to my originals.
+
 ## Arizona Diamondbacks
 
 I'm pretty happy with the way this one turned out.
