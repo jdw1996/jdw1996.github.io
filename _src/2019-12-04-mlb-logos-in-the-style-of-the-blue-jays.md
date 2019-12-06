@@ -74,8 +74,8 @@ Between Cleveland and Cincinnati, I arbitrarily gave the outline of Ohio to the 
 
 Like I mentioned in the Braves blurb, I wasn't going to use Chief Wahoo for this logo.
 Atlanta already uses the tomahawk as a logo, so I settled on using a tepee for Cleveland.
-However, several Reddit users pointed out to me that using a tepee is also not an accurate representation of the Indigenous peoples local to the Cleveland area.
-You can see [the original tepee logo here](/mlb-blue-jays/cle-tepee.svg) but I've now switched it to a bow and arrow.
+However, several Reddit users pointed out to me that using a tepee is also not an accurate representation of the Indigenous peoples local to the Cleveland area either.
+You can see [the original tepee logo here](/img/mlb-blue-jays/cle-tepee.svg) but I've now switched it to a bow and arrow.
 
 As the "regional" symbol in the logo, I considered using a silhouette of the Rock & Roll Hall of Fame, but it didn't seem like it would be recognizable enough once simplified.
 
