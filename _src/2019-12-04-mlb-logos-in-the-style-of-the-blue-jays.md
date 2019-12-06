@@ -231,6 +231,8 @@ Here we have a fisherman (mariner) and a rain cloud, because Seattle is known fo
 
 On the flip-side of Seattle, Florida is the Sunshine State.
 
+By request, I made a variant that uses the [existing Rays sunbeam logo](/img/mlb-blue-jays/tbr-sunbeam.svg).
+
 <img src="img/mlb-blue-jays/tbr.svg" style="width: 400px; height: 400px" />
 
 ## Texas Rangers
