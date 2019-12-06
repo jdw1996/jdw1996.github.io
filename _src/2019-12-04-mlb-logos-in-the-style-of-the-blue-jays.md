@@ -43,6 +43,8 @@ I settled on the claw of a Maryland Blue Crab.
 
 Yes, I realize that one of the socks is blue.
 
+By request, I made some variants that replace Massachusetts with [a shamrock](/img/mlb-blue-jays/bos-shamrock.svg) and [a pine tree](/img/mlb-blue-jays/bos-pine.svg), to represent New England.
+
 <img src="img/mlb-blue-jays/bos.svg" style="width: 400px; height: 400px" />
 
 ## Chicago Cubs
