@@ -53,6 +53,8 @@ In picking a symbol for the city of Chicago, I felt the obvious choice was one o
 I didn't want to repeat that in both the Cubs and White Sox logos, but I had trouble finding a second symbol.
 Ultimately I decided to give the star to the Sox and let the Cubs use their usual 'C', which is a pretty widely recognized symbol of the city anyway.
 
+By request, here's a variant that replaces the 'C' with [a six-pointed star](/img/mlb-blue-jays/chc-star.svg).
+
 <img src="img/mlb-blue-jays/chc.svg" style="width: 400px; height: 400px" />
 
 ## Chicago White Sox
