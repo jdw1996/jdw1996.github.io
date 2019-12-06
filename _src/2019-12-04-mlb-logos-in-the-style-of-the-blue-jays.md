@@ -60,22 +60,22 @@ As I wrote in the Cubs blurb, the star comes from the flag of Chicago.
 
 <img src="img/cws.svg" style="width: 400px; height: 400px" />
 
-## Cleveland Indians
-
-Like I mentioned in the Braves blurb, I wasn't going to use Chief Wahoo for this logo.
-Atlanta already uses the tomahawk as a logo, so I settled on using a tepee for Cleveland.
-As the "regional" symbol in the logo, I considered using a silhouette of the Rock & Roll Hall of Fame, but it didn't seem like it would be recognizable enough once simplified.
-Instead, between Cleveland and Cincinnati, I arbitrarily gave the outline of Ohio to the former and a simplified version of the state flag to the latter.
-
-<img src="img/cle.svg" style="width: 400px; height: 400px" />
-
 ## Cincinnati Reds
 
 They were originally called the Reds because of their red socks, but that just gets confusing.
 I wasn't going to make another sock logo, so I went with Mr. Redlegs.
 His moustache gave him the edge over Mr. Red.
+Between Cleveland and Cincinnati, I arbitrarily gave the outline of Ohio to the former and a simplified version of the state flag to the latter.
 
 <img src="img/cin.svg" style="width: 400px; height: 400px" />
+
+## Cleveland Indians
+
+Like I mentioned in the Braves blurb, I wasn't going to use Chief Wahoo for this logo.
+Atlanta already uses the tomahawk as a logo, so I settled on using a tepee for Cleveland.
+As the "regional" symbol in the logo, I considered using a silhouette of the Rock & Roll Hall of Fame, but it didn't seem like it would be recognizable enough once simplified.
+
+<img src="img/cle.svg" style="width: 400px; height: 400px" />
 
 ## Colorado Rockies
 
