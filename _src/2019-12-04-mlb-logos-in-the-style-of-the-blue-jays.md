@@ -244,4 +244,6 @@ My hometown hockey team, the Kitchener Rangers, uses a cowboy theme (for example
 The Nationals whole brand is based on patriotism, so it made sense to use a bald eagle, just as the [Washington Capitals hockey team used to do](http://www.sportslogos.net/logos/view/215/Washington_Capitals/1998/Primary_Logo).
 At right is the Capitol Dome, as used in [this throwback Nationals logo](http://www.sportslogos.net/logos/view/57811432020/Washington_Nationals/2020/Cap).
 
+By request, here's a variant with [the outline of the District of Columbia](/img/mlb-blue-jays/wsh-dc.svg).
+
 <img src="img/mlb-blue-jays/wsh.svg" style="width: 400px; height: 400px" />
