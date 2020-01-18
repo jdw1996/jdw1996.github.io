@@ -18,6 +18,8 @@ These are simpler than the Blue Jays inspired ones, meaning that they were quick
 Much credit goes to [Chris Creamer's SportsLogos.net](http://www.sportslogos.net/index.php), whose archive of old logos I referenced for just about every team and [Team Color Codes](https://teamcolorcodes.com/), which provided most of the colour codes I needed.
 While it doesn't exactly match the Leafs font, I used [New Athletic M54](https://www.fontspace.com/justme54s/new-athletic-m54), which gives a similar feeling and is generously made free for personal use.
 
+I posted this to Reddit [here](https://www.reddit.com/r/hockey/comments/eqlutx/oc_nhl_logos_in_the_style_of_the_maple_leafs/) and got a great response, including some suggestions for improvement, which I've mentioned below.
+
 ## Anaheim Ducks
 
 I'm not a fan of the orange and gold, so I created an alternate in Mighty Ducks colours as well.
@@ -274,10 +276,12 @@ The home and road jerseys use their [current and original blue/green](http://www
 
 ## Vegas Golden Knights
 
-Vegas has little hockey history to draw on, so there's no alternate here.
+I originally wrote here that there would be no alternate, due to a lack of hockey history in Las Vegas.
+However, a commenter on Reddit pointed out that I could use the colours of the Las Vegas Wranglers, who played in the WCHL and ECHL.
 
 <img src="img/nhl-maple-leafs/vgk-home.svg" style="width: 300px; height: 300px" />
 <img src="img/nhl-maple-leafs/vgk-road.svg" style="width: 300px; height: 300px" />
+<img src="img/nhl-maple-leafs/vgk-alt.svg" style="width: 300px; height: 300px" />
 
 ## Washington Capitals
 
