@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="525.54201"
-     inkscape:cy="512.42709"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="525.17791"
+     inkscape:cy="548.70328"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -169,5 +169,11 @@
          id="path1028"
          inkscape:connector-curvature="0" />
     </g>
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.96874976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path837"
+       cx="194.70586"
+       cy="103.36322"
+       r="3.6081383" />
   </g>
 </svg>
