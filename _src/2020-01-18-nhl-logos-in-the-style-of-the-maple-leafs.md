@@ -20,6 +20,9 @@ While it doesn't exactly match the Leafs font, I used [New Athletic M54](https:/
 
 I posted this to Reddit [here](https://www.reddit.com/r/hockey/comments/eqlutx/oc_nhl_logos_in_the_style_of_the_maple_leafs/) and got a great response, including some suggestions for improvement, which I've mentioned below.
 
+This post also got linked from Uni Watch, which I found exciting.
+You can find it by searching "every NHL team logo" on [this page](https://uni-watch.com/2020/01/20/monday-morning-uni-watch-conference-championship-edition/).
+
 ## Anaheim Ducks
 
 I'm not a fan of the orange and gold, so I created an alternate in Mighty Ducks colours as well.
