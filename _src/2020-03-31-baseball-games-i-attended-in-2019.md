@@ -1,0 +1,334 @@
+<!-- Baseball Games I attended in 2019 -->
+<!-- 2020-03-31 -->
+
+Usually I plan on doing this write-up not long after the end of the World Series, and then it doesn't actually happen until Opening Day.
+Well Opening Day was supposed to be last Thursday, but due to the COVID-19 pandemic, the start of the season was delayed indefinitely.
+I was supposed to be at the Mets games against the World Series champion Nationals on Saturday and Sunday, but alas.
+I'm hoping they'll be able to get in at least a shortened season, but I'm not especially hopeful at this point.
+With luck, looking back on the games I went to last year will help soothe some part of my itch for baseball, along with watching Ken Burns' *Baseball*, which is [now streaming free on the PBS website](https://www.pbs.org/show/baseball/).
+
+## Cleveland Indians (7) @ Miami Marlins (4), Tuesday, April 30
+
+*Starting pitchers:* Trevor Bauer (Indians), Sandy Alcantara (Marlins)
+
+After I finished the last exams of my undergrad in April, I wasn't set to start full-time work for a couple months, and my brother Isaac had a week or two off prior to the start of his co-op term.
+So, at the last minute, we planned a trip to Miami.
+I'm not sure how important it was to him, but I made sure we got to a couple Marlins games while we were there.
+Marlins Park is right next to Little Havana, which makes it somewhat inconvenient to get to by public transit, but also makes it very convenient to get to after a delicious Cuban meal.
+The stadium itself is still pretty new, and nice, even if it is empty and pretty sterile, especially since the removal of the [home run sculpture](https://assets.sbnation.com/assets/1060543/sculp.gif).
+Unfortunately they didn't open the roof at either of the games we were at.
+
+I kept brief notes on the interesting events of each of the games I went to, and my interesting note from this game was that two Cleveland players hit home runs, Carlos Santana and Carlos Gónzalez, both of whom are named Carlos.
+For Miami, Curtis Granderson homered.
+Always nice to see, for the most likeable guy in baseball.
+
+## Cleveland Indians (2) @ Miami Marlins (4), Wednesday, May 1
+
+*Starting pitchers:* Corey Kluber (Indians), Caleb Smith (Marlins)
+
+Cleveland and Miami play each other for only three or four games every three years.
+They play in opposite leagues and they're not rivals geographically.
+They were the two contenders in the 1997 World Series, which Miami won, but to my knowledge there's not a lot of animosity left around from that.
+The additional fact that this series happened in April/May made it almost entirely inconsequential.
+One crack of the bat changed that though: in the bottom of the fifth, Brian Anderson came up to the plate to face Kluber, and hit a 102 MPH line drive straight back at him.
+Kluber left immediately with what was diagnosed as a fractured forearm.
+Cleveland went on to finish the season eight games behind Minnesota for the AL Central division lead, but just three behind Tampa Bay for the second wild card spot in the AL.
+Kluber won Cy Young Awards in 2014 and 2017 and came third in 2016 and 2018, so it's entirely possible he could have made up the three game difference.
+That turned out to be Kluber's last appearance for Cleveland, the only Major League team he had pitched for, as he was out the rest of the season and then was traded to Texas.
+
+## Barrie Baycats (11) @ Kitchener Panthers (9), Sunday, May 19
+
+These teams play in the [Intercounty Baseball League](https://en.wikipedia.org/wiki/Intercounty_Baseball_League), an independent league with teams in Southern Ontario.
+Barrie led 11-4 going into the ninth inning, with four of those runs coming from a grand slam, but Kitchener managed to score five runs in the bottom of the ninth.
+It wasn't quite enough, but the fact that the Panthers made it look possible for them to win---that's the sort of thing that makes me love baseball.
+
+Sunday, May 19, was also notable in my sports fandom as the night the Toronto Raptors started their comeback against the Milwaukee Bucks in the NBA's Eastern Conference finacomeback against the Milwaukee Bucks in the NBA's Eastern Conference finals.
+Toronto had lost the first two games of the best-of-seven, but on May 19 they won 112-118 in double overtime.
+They went on to win the next three straight, and then beat the Golden State Warriors in six to win the NBA championship for the first time in franchise history.
+More on that below.
+
+## Boston Red Sox (8) @ Toronto Blue Jays (2), Thursday, May 23
+
+*Starting pitchers:* Ryan Weber (Red Sox), Clayton Richard (Blue Jays)
+
+Like I said, I had a couple months of in spring/summer 2019 and my brother was working a co-op job in Toronto.
+The morning of May 23, I took the train from Kitchener to Toronto, where I was going to make a long weekend of visiting Isaac.
+There were a bunch of school kids on the train, which I didn't think much of at the time, but the Jays game that day turned out to be School Day, which explained the 12:37 PM first pitch time.
+I had to move seats a couple of times to avoid sitting in the middle of a class, but the huge number of kids in the dome gave an interesting atmosphere.
+The cheering was very loud and much higher pitched than it usually is.
+Also, at that time, Vladimir Guerrero Jr. was using [*Old Town Road* by Lil Nas X](https://www.youtube.com/watch?v=aA7xDP9sQzk) as his walk-up song, and each time he came up to bat, the entire stadium sang along.
+
+Speaking of which, this was the first time I saw Guerrero live.
+He went 0-for-4.
+The Red Sox starter was Ryan Weber, who had just been called up from the minors and throws a fastball that barely touches 90 MPH, so I expected the Jays might actually have a chance against the reigning World Series champs, but I was sorely mistaken, as Weber gave up just one run across six innings.
+
+One bright spot of the game was that I was named designated driver of the game.
+I never drink and I hadn't driven to the game anyway, I just wanted the voucher for the free pop.
+I didn't end up getting the pop, as school kids jammed the concession lines the whole game, but I did win a Jays cap and a T-shirt and beer cozy from Budweiser.
+
+## Los Angeles Angels (10) @ Toronto Blue Jays (5), Monday, June 17
+
+*Openers:* Luís Garcia (Angels), Derek Law (Blue Jays)
+
+*Bulk pitchers:* Felix Peña (Angels), Edwin Jackson (Blue Jays)
+
+As I mentioned, the Raptors won the 2019 NBA championship, and they scheduled their parade for June 17.
+While I had only started following basketball at the beginning of the 2018-2019 season, I was free and not far from Toronto, so I wanted to take the opportunity to go.
+I arrived at Nathan Phillips Square, meant to be the end of the parade, at about nine in the morning, and it was already packed.
+The parade was incredibly delayed, so that I was standing around shoulder to shoulder with strangers for seven or eight hours before the players actually arrived.
+People were passing out because of the heat and because nobody expected to be there so long, so they hadn't packed food.
+I was lucky in that my mom suggested I take along a sandwich, and that came in handy.
+Unfortunately, because of the size of the crowd, I couldn't get any phone signal to find out what was going on or let people know I was still OK.
+
+While the players were on stage, along with Mayor John Tory, Premier Doug Ford, and Prime Minister Justin Trudeau, there was at least one stabbing and at least one gunshot.
+A couple times, presumably in response to those incidents, the crowd lunged very quickly in one direction, so a lot of people were knocked over and many items were lost.
+When someone found a lost item, they held it up in the air and start a chant of the items name, like "Blue backpack! Blue backpack!"
+When the owner had been located, we passed it hand-to-hand back to them.
+
+Once the event was over, people started to dissipate, but downtown Toronto was more crowded than I've ever seen it, including New Year's just after midnight.
+I found something to drink and eventually met up with Isaac, whose office building near Dundas Square had been on lockdown as a result of the stabbing(s) and shooting(s).
+With that, we went to the Blue Jays game.
+It was a lot to fit into one day, but I wanted to take the opportunity to see the best player in baseball (Mike Trout) and the most interesting player in baseball (Shohei Ohtani), both of whom play for the Angels.
+Ohtani went 2-for-5 with a home run and Trout went 4-for-5, a triple short of the cycle.
+
+The game was also interesting because both teams used one inning openers prior to the pitchers that were to pitch the bulk of the innings.
+The opener strategy was pioneered in 2018 by the Tampa Bay Rays and came into wider use surprisingly quickly.
+In this game, it worked for the Jays, as Law didn't give up any runs to the hard-hitting top of the Angels lineup, but Edwin Jackson, who was supposed to be the "main" pitcher for the Jays, gave up seven runs and only got two outs.
+The Blue Jays were Jackson's 14th Major League team, giving him the record for most teams played for, breaking a tie with Octavio Dotel.
+
+Also of note, Cavan Biggio hit two home runs, driving in three of the Jays' five runs; Randal Grichuk drove in the other two and had a home run of his own.
+
+## Kansas City Royals (5) @ Toronto Blue Jays (7), Saturday, June 29
+
+*Starting pitchers:* Homer Bailey (Royals), Marcus Stroman (Blue Jays)
+
+This game was ten days before I moved back to the NYC area, so it was a sort of going away party with my family, my last Jays home game of the year.
+It was a great send-off: Cavan Biggio hit a grand slam in the bottom of the fifth, giving Toronto a 5-4 lead that lasted into the ninth inning.
+Kansas City tied it in the top of the ninth as Alex Gordon hit a sac fly to score Billy Hamilton, but Danny Jansen took the opportunity to walk it off with a two run shot in the bottom of the ninth.
+
+## Toronto Blue Jays (2) @ New York Yankees (4), Sunday, July 14
+
+*Starting pitchers:* Marcus Stroman (Blue Jays), Masahiro Tanaka (Yankees)
+
+I don't have any notes in particular on this game, but I did manage to get my roommate Taylor to come along.
+He's not a baseball fan but he felt bad for me going to the game alone.
+Little did he realize how many games I planned on attending, almost all alone.
+
+Also notable, this was the last time I saw Stroman pitch for the Blue Jays live, as he was traded to the New York Mets at the deadline.
+
+## San Diego Padres (2) @ New York Mets (5), Tuesday, July 23
+
+*Starting pitchers:* Chris Paddack (Padres), Jason Vargas (Mets)
+
+This was my first time seeing Pete Alonso live.
+There was some kind of Paddack/Alonso feud but Padres fans seemed to care about it more than anyone actually involved.
+At any rate, Alonso walked twice and grounded out against Paddack in this game.
+
+This was Vargas's second-to-last start for the Mets before being traded to the Philadelphia Phillies, and he went six innings without allowing a run.
+
+The big story of the game, though, was Robinson Canó hitting three home runs, which drove in all five Mets runs.
+
+## Lowell Spinners (1) @ Staten Island Yankees (4), Saturday, July 27
+
+This was the first game I attended on Staten Island.
+Staten Island doesn't have a great reputation, and I haven't spent much time there, but the waterfront around St. George was nice enough, and there's a great view of Manhattan over the outfield wall of the park.
+With Lowell being a Red Sox affiliate, I didn't have a rooting interest in this game, but I was glad to finally see a home game for New York's fourth professional baseball team, and in my fourth different borough.
+Only Manhattan is missing, but there's no professional team playing home games in Manhattan.
+
+## Miami Marlins (2) @ New York Mets (6), Monday, August 5
+
+*Starting pitchers:* Robert Dugger (Marlins), Jacob deGrom (Mets)
+
+This was the first game of a single admission double header; I arrived in time to watch Edwin Díaz pitch the top of the ninth.
+Also notable was that another Díaz, Marlins second baseman Isan, debuted in this game.
+He was born two days before me.
+
+## Miami Marlins (4) @ New York Mets (5), Monday, August 5
+
+*Starting pitchers:* Sandy Alcantara (Marlins), Walker Lockett (Mets)
+
+This was the second game of the double header.
+Marlins reliever Jeff Brigham gave up three home runs in the bottom of the seventh, to J. D. Davis, Michael Conforto, and Pete Alonso.
+Those three solo home runs made the game 5-4, where it remained, giving the Mets their 11th win in 12 games, putting them over .500 at 57-56, and putting them 2.5 games back of the second NL wild card spot.
+
+## Connecticut Tigers (1) @ Brooklyn Cyclones (12), Friday, August 9
+
+This was the night of Marcus Stroman's debut for the Mets, and I would have gone to that except that my company planned an outing to the Cyclones game, an annual tradition.
+There was a rain delay between the first inning and the second, but that didn't stop the Cyclones from routing Connecticut.
+I was sitting with a group of coworkers who aren't big baseball fans, so I was a bit worried that people would be ignoring the game altogether, but they patiently let me explain some of what was going on on the field.
+In theme for Coney Island, where the Cyclones play, we went on the bumper cars after the game, and some people ate fried frog legs.
+
+## Washington Nationals (7) @ New York Mets (4), Sunday, August 11
+
+*Starting pitchers:* Aníbal Sánchez (Nationals), Jacob deGrom (Mets)
+
+Washington scored three runs in the top of the first before I could get into the stadium, and their last two came off Edwin Díaz in the top of the ninth.
+If the Mets had won, they would have moved into a wild card position, but they couldn't pull it off.
+
+## Baltimore Orioles (3) @ New York Yankees (8), Tuesday, August 13
+
+*Starting pitchers:* John Means (Orioles), Domingo Germán (Yankees)
+
+I think I just went to this game because the Mets were on a road trip.
+I don't like either of these teams, and it turned out just the way you might expect, a lopsided Yankees win.
+
+## Cleveland Indians (2) @ New York Mets (9), Tuesday, August 20
+
+*Starting pitchers:* Shane Bieber (Indians), Steven Matz (Mets)
+
+Yasiel Puig played for Cleveland, one of just 49 games he played after being traded from Cincinnati and before becoming a free agent.
+He's still a free agent as of this writing.
+
+Also interesting, both J. D. Davis and Rajai Davis played left field for the Mets in this game.
+
+## Atlanta Braves (2) @ New York Mets (1), Friday, August 23
+
+*Starting pitchers:* Mike Foltynewicz (Braves), Jacob deGrom (Mets)
+
+This game went 14 innings.
+Citi Field was extra loud for the tenth, but very quiet for the rest of the game.
+The extra innings allowed Mets pitchers to reach a franchise record 26 strikeouts.
+Jacob deGrom was responsible for 13 of those strikeouts and recorded his 200th of the year.
+He also hit a home run, for the lone Mets run of the game.
+He went seven innings and allowed a single run, but Foltynewicz did the same for the Braves.
+
+## Chicago Cubs (5) @ New York Mets (2), Tuesday, August 27
+
+*Starting pitchers:* Yu Darvish (Cubs), Marcus Stroman (Mets)
+
+This was the third time in the 2019 season that I saw Stroman start a game, and the first for the Mets.
+Pete Alonso hit his 42nd home run of the season, setting a new franchise record.
+The other Mets run came from a J. D. Davis homer in the bottom of the ninth.
+
+## Philadelphia Phillies (4) @ New York Mets (5), Friday, September 6
+
+*Starting pitchers:* Zach Eflin (Phillies), Steven Matz (Mets)
+
+In the top of the third inning, Phillies right fielder Bryce Harper was hit high in the back hand, and though he wasn't replaced on the bases, he was substituted out for Sean Rodriguez in the bottom of the third.
+In addition, Phillies shortstop Jean Segura was brushed back twice, by two different pitchers.
+
+Todd Frazier got his 1000th career hit.
+
+After eight innings, the Mets were up 4-2 and so they brought in Edwin Díaz, who was for some reason still the closer, to try to finish it out.
+He blew the save, giving up two runs on a J. T. Realmuto home run.
+In the bottom of the ninth, Juan Lagares and J. D. Davis singled and Jeff McNeil was hit by a pitch, setting the stage for Pete Alonso to draw a walk-off walk.
+This made Díaz the winning pitcher, giving another example of how dumb pitcher wins are, as if deGrom weren't good enough evidence already.
+DeGrom won back-to-back Cy Young Awards in 2018 and 2019 with a combined 21-17 record.
+
+## Philadelphia Phillies (10) @ New York Mets (7), Sunday, September 8
+
+*Starting pitchers:* Vince Velasquez (Phillies), Noah Syndergaard (Mets)
+
+Wilson Ramos was a triple short of the cycle in this game, although it's hard to imagine him ever getting closer; he has two career triples.
+This game went very long despite being just nine innings; Baseball Reference clocked it at 4:29.
+While Philadelphia won, New York out-hit them 14-13.
+In the bottom of the first, Wilson Ramos and Robinson Canó hit back-to-back home runs for the Mets.
+
+Jed Lowrie made his second appearance as a Met, pinch-hitting and striking out, just as he had the night before.
+
+## Lowell Spinners (3) @ Brooklyn Cyclones (1), Monday, September 9
+
+Brooklyn and Lowell met in the finals of the New York-Penn League.
+It was a best of three, with the first game in Lowell and the second and, if necessary, third in Brooklyn.
+The Cyclones won game one in Lowell and this was game two.
+All four of the runs in the game scored in the second inning and Brooklyn missed the chance to clinch, although they did so the following night, marking the first championship for a Brooklyn-based professional sports team since the 1955 Dodgers won the World Series.
+
+## Arizona Diamondbacks (0) @ New York Mets (9), Wednesday, September 11
+
+*Starting pitchers:* Robbie Ray (Diamondbacks), Steven Matz (Mets)
+
+In the first inning, Todd Frazier and Brandon Nimmo hit back-to-back home runs.
+Ray was allowed to face one more batter after that, giving up a double to Juan Lagares, before being pulled with a final line of two outs recorded and five runs against, all earned.
+In the game as a whole, Frazier and Jeff McNeil each hit two home runs.
+Additionally, Sam Haggerty of the Mets made his first MLB plate appearance, a strike out.
+He had previously pinch run twice.
+
+## Los Angeles Dodgers (3) @ New York Mets (2), Sunday, September 15
+
+*Starting pitchers:* Walker Buehler (Dodgers), Zack Wheeler (Mets)
+
+Both Mets runs scored on a second inning triple by Nimmo.
+Wheeler pitched seven innings, giving up just one run, but, as was a recurring theme, the bullpen couldn't hold the lead.
+Justin Wilson and Seth Lugo each gave up a run.
+
+## Los Angeles Angels (0) @ New York Yankees (8), Thursday, September 17
+
+*Starting pitchers:* Noé Ramirez (Angels), Luis Severino (Yankees)
+
+Luis Severino made his season debut, pitching four scoreless innings.
+While that would be a valid enough reason for me to go to the game, when I bought the ticket, I didn't know it would be Severino's debut.
+Really I just wanted to see Trout and Ohtani again, but both were already shut down for the season by the time the game actually happened.
+Justin Upton was also out, but Andrelton Simmons played, which he hadn't when I saw the Angels in Toronto.
+I was also one day early for Giancarlo Stanton's return to the Yankees lineup.
+
+## Toronto Blue Jays (2) @ New York Yankees (7), Saturday, September 21
+
+*Starting pitchers:* T. J. Zeuch (Blue Jays), James Paxton (Yankees)
+
+I went to this game with my Uncle John, when he and my Aunt Brooke visited NYC for a few days.
+It was great to be able to spend that time together, though the game did not go so well for the Jays.
+No Blue Jay had more than one hit and none had more than two total bases.
+The only note I have on the game is that Yankees manager Aaron Boone was ejected for arguing balls and strikes.
+
+## Miami Marlins (4) @ New York Mets (5), Tuesday, September 24
+
+*Starting pitchers:* Sandy Alcantara (Marlins), Noah Syndergaard (Mets)
+
+This was the third time I saw Alcantara pitch in 2019.
+For the Marlins, Jon Berti stole four bases and Miguel Rojas and Jorge Alfaro stole one each.
+The Mets trailed 4-0 after the fifth inning but scored in each of the seventh and the ninth Michael Conforto hit a two run home run.
+In the eleventh inning, Miami intentionally walked Todd Frazier to load the bases and then brought in Berti from centre field to act as a fifth infielder.
+Wilson Ramos hit a weak grounder and Miami got the force out at home.
+Then Brandon Nimmo came up and took a walk-off walk.
+If the Mets had lost this game, they would have been eliminated from playoff contention, so they were able to stave that off for one more night, at least.
+
+## Atlanta Braves (2) @ New York Mets (4), Friday, September 27
+
+*Starting pitchers:* Dallas Keuchel (Braves), Marcus Stroman (Mets)
+
+In the first inning, Pete Alonso hit his 52nd home run of the season, tying Aaron Judge's record for home runs as a rookie.
+Seth Lugo also pitched his 80th inning of the year, which is where he ended his season.
+He ended with a .900 WHIP, the best ever for a Mets pitcher with at least 50 innings pitched.
+I can't remember where I read that originally, but I was able to verify it using Baseball Reference's play index feature.
+
+## Atlanta Braves (6) @ New York Mets (7), Sunday, September 29
+
+*Starting pitchers:* Mike Soroka (Braves), Noah Syndergaard (Mets)
+
+This was the second year in a row that I was at a Noah Syndergaard home start on the last day of the regular season.
+Syndergaard recorded his 200th strikeout.
+Adeiny Hechavarría, who had spent some time on the Mets earlier in the season and subsequently bad-mouthed the organization, played for the Braves and was duly booed by Mets fans.
+Nonetheless, he homered, in both the ninth and eleventh innings, uncharacteristic for a player with a .352 career slugging mark.
+Adam Duvall also homered in the top of the eleventh, giving Atlanta a 6-4 lead.
+Even before the home runs, Dominic Smith replaced Pete Alonso at first base in the top of the eleventh, making his first appearance since July 26; he had missed time as a result of a foot injury.
+In the bottom of the eleventh, Smith got a chance to bat and hit a three run home run to walk it off for the Mets.
+It was a great ending to what I expected to be my last baseball game of the year.
+
+## Houston Astros (8) @ New York Yankees (3), Thursday, October 17
+
+*Starting pitchers:* Zack Greinke (Astros), Masahiro Tanaka (Yankees)
+
+Game four of the ALCS.
+I wasn't going to go, but my dad pointed out that I didn't know the next time I would be in New York to see a Yankees playoff game.
+There was supposed to be a game on October 16 but it got rained out, and so the second and third games in New York got pushed back a day.
+The Astros win put them up 3-1 in the series.
+I was cheering for the Astros at the time, as the evidence of their cheating in 2017 had not yet been widely publicized.
+If I went to an Astros vs Yankees game now, I don't think I'd be cheering for either side.
+
+I did wear my Blue Jays hat and jersey, which drew some strange looks and at least one "USA!" chant.
+
+This was C. C. Sabathia's last career game.
+He came in in relief in the top of the eighth inning and recorded two outs before throwing out his shoulder.
+He tried to continue, but couldn't manage it.
+Sabathia pitched until he physically could not pitch any more.
+
+## 2020 Season
+
+Well, I'm living in Jersey City still, and had tickets to some Mets and Yankees games already, but it's unclear when or if the MLB season will happen this year.
+I'll be very happy if it does, but I'm not optimistic.
+Until then, I'll be watching replays of old games, especially those that happened before I started following baseball during the Blue Jays 2015 playoff run.
+Tonight I saw Doc Halladay's postseason no-hitter for the Phillies.
+
+Last year I wrote, "Looking forward to another great season of baseball!"
+This year I'll say that I can't wait until baseball starts again.
+In the meantime, stay safe.
