@@ -1,4 +1,4 @@
-<!-- Baseball Games I attended in 2019 -->
+<!-- Baseball Games I Attended in 2019 -->
 <!-- 2020-03-31 -->
 
 Usually I plan on doing this write-up not long after the end of the World Series, and then it doesn't actually happen until Opening Day.
@@ -42,8 +42,8 @@ These teams play in the [Intercounty Baseball League](https://en.wikipedia.org/w
 Barrie led 11-4 going into the ninth inning, with four of those runs coming from a grand slam, but Kitchener managed to score five runs in the bottom of the ninth.
 It wasn't quite enough, but the fact that the Panthers made it look possible for them to win---that's the sort of thing that makes me love baseball.
 
-Sunday, May 19, was also notable in my sports fandom as the night the Toronto Raptors started their comeback against the Milwaukee Bucks in the NBA's Eastern Conference finacomeback against the Milwaukee Bucks in the NBA's Eastern Conference finals.
-Toronto had lost the first two games of the best-of-seven, but on May 19 they won 112-118 in double overtime.
+Sunday, May 19, was also notable in my sports fandom as the night the Toronto Raptors started their comeback against the Milwaukee Bucks in the NBA's Eastern Conference finals.
+Toronto had lost the first two games of the best-of-seven, but on May 19 they won 118-112 in double overtime.
 They went on to win the next three straight, and then beat the Golden State Warriors in six to win the NBA championship for the first time in franchise history.
 More on that below.
 
@@ -51,9 +51,9 @@ More on that below.
 
 *Starting pitchers:* Ryan Weber (Red Sox), Clayton Richard (Blue Jays)
 
-Like I said, I had a couple months of in spring/summer 2019 and my brother was working a co-op job in Toronto.
+Like I said, I had a couple months off in spring/summer 2019 and my brother was working a co-op job in Toronto.
 The morning of May 23, I took the train from Kitchener to Toronto, where I was going to make a long weekend of visiting Isaac.
-There were a bunch of school kids on the train, which I didn't think much of at the time, but the Jays game that day turned out to be School Day, which explained the 12:37 PM first pitch time.
+There were a bunch of school kids on the train, which I didn't think much of at the time, but the Jays game that day turned out to be School Day, which explained the 12:37 PM first pitch time as well.
 I had to move seats a couple of times to avoid sitting in the middle of a class, but the huge number of kids in the dome gave an interesting atmosphere.
 The cheering was very loud and much higher pitched than it usually is.
 Also, at that time, Vladimir Guerrero Jr. was using [*Old Town Road* by Lil Nas X](https://www.youtube.com/watch?v=aA7xDP9sQzk) as his walk-up song, and each time he came up to bat, the entire stadium sang along.
@@ -82,7 +82,7 @@ Unfortunately, because of the size of the crowd, I couldn't get any phone signal
 
 While the players were on stage, along with Mayor John Tory, Premier Doug Ford, and Prime Minister Justin Trudeau, there was at least one stabbing and at least one gunshot.
 A couple times, presumably in response to those incidents, the crowd lunged very quickly in one direction, so a lot of people were knocked over and many items were lost.
-When someone found a lost item, they held it up in the air and start a chant of the items name, like "Blue backpack! Blue backpack!"
+When someone found a lost item, they held it up in the air and started a chant of the item's description, like "Blue backpack! Blue backpack!"
 When the owner had been located, we passed it hand-to-hand back to them.
 
 Once the event was over, people started to dissipate, but downtown Toronto was more crowded than I've ever seen it, including New Year's just after midnight.
@@ -96,7 +96,7 @@ The opener strategy was pioneered in 2018 by the Tampa Bay Rays and came into wi
 In this game, it worked for the Jays, as Law didn't give up any runs to the hard-hitting top of the Angels lineup, but Edwin Jackson, who was supposed to be the "main" pitcher for the Jays, gave up seven runs and only got two outs.
 The Blue Jays were Jackson's 14th Major League team, giving him the record for most teams played for, breaking a tie with Octavio Dotel.
 
-Also of note, Cavan Biggio hit two home runs, driving in three of the Jays' five runs; Randal Grichuk drove in the other two and had a home run of his own.
+Also of note, Cavan Biggio hit two home runs, driving in three of the Jays' five runs; Randal Grichuk drove in the other two with a home run of his own.
 
 ## Kansas City Royals (5) @ Toronto Blue Jays (7), Saturday, June 29
 
@@ -110,7 +110,7 @@ Kansas City tied it in the top of the ninth as Alex Gordon hit a sac fly to scor
 
 *Starting pitchers:* Marcus Stroman (Blue Jays), Masahiro Tanaka (Yankees)
 
-I don't have any notes in particular on this game, but I did manage to get my roommate Taylor to come along.
+I don't have any notes in particular on this game, but my roommate Taylor did come along.
 He's not a baseball fan but he felt bad for me going to the game alone.
 Little did he realize how many games I planned on attending, almost all alone.
 
@@ -213,13 +213,12 @@ After eight innings, the Mets were up 4-2 and so they brought in Edwin Díaz, wh
 He blew the save, giving up two runs on a J. T. Realmuto home run.
 In the bottom of the ninth, Juan Lagares and J. D. Davis singled and Jeff McNeil was hit by a pitch, setting the stage for Pete Alonso to draw a walk-off walk.
 This made Díaz the winning pitcher, giving another example of how dumb pitcher wins are, as if deGrom weren't good enough evidence already.
-DeGrom won back-to-back Cy Young Awards in 2018 and 2019 with a combined 21-17 record.
 
 ## Philadelphia Phillies (10) @ New York Mets (7), Sunday, September 8
 
 *Starting pitchers:* Vince Velasquez (Phillies), Noah Syndergaard (Mets)
 
-Wilson Ramos was a triple short of the cycle in this game, although it's hard to imagine him ever getting closer; he has two career triples.
+Wilson Ramos was a triple short of the cycle in this game, although it's hard to imagine him ever getting closer; he has just two career triples.
 This game went very long despite being just nine innings; Baseball Reference clocked it at 4:29.
 While Philadelphia won, New York out-hit them 14-13.
 In the bottom of the first, Wilson Ramos and Robinson Canó hit back-to-back home runs for the Mets.
@@ -248,7 +247,7 @@ He had previously pinch run twice.
 *Starting pitchers:* Walker Buehler (Dodgers), Zack Wheeler (Mets)
 
 Both Mets runs scored on a second inning triple by Nimmo.
-Wheeler pitched seven innings, giving up just one run, but, as was a recurring theme, the bullpen couldn't hold the lead.
+Wheeler pitched seven innings, giving up just one run, but, as was a recurring theme for the Mets this season, the bullpen couldn't hold the lead.
 Justin Wilson and Seth Lugo each gave up a run.
 
 ## Los Angeles Angels (0) @ New York Yankees (8), Thursday, September 17
@@ -276,7 +275,7 @@ The only note I have on the game is that Yankees manager Aaron Boone was ejected
 
 This was the third time I saw Alcantara pitch in 2019.
 For the Marlins, Jon Berti stole four bases and Miguel Rojas and Jorge Alfaro stole one each.
-The Mets trailed 4-0 after the fifth inning but scored in each of the seventh and the ninth Michael Conforto hit a two run home run.
+The Mets trailed 4-0 after the fifth inning but in each of the seventh and the ninth Michael Conforto hit a two run home run.
 In the eleventh inning, Miami intentionally walked Todd Frazier to load the bases and then brought in Berti from centre field to act as a fifth infielder.
 Wilson Ramos hit a weak grounder and Miami got the force out at home.
 Then Brandon Nimmo came up and took a walk-off walk.
@@ -287,7 +286,7 @@ If the Mets had lost this game, they would have been eliminated from playoff con
 *Starting pitchers:* Dallas Keuchel (Braves), Marcus Stroman (Mets)
 
 In the first inning, Pete Alonso hit his 52nd home run of the season, tying Aaron Judge's record for home runs as a rookie.
-Seth Lugo also pitched his 80th inning of the year, which is where he ended his season.
+Seth Lugo also pitched his 80th and final inning of the year.
 He ended with a .900 WHIP, the best ever for a Mets pitcher with at least 50 innings pitched.
 I can't remember where I read that originally, but I was able to verify it using Baseball Reference's play index feature.
 
@@ -311,7 +310,7 @@ It was a great ending to what I expected to be my last baseball game of the year
 Game four of the ALCS.
 I wasn't going to go, but my dad pointed out that I didn't know the next time I would be in New York to see a Yankees playoff game.
 There was supposed to be a game on October 16 but it got rained out, and so the second and third games in New York got pushed back a day.
-The Astros win put them up 3-1 in the series.
+The Astros win in this game put them up 3-1 in the series.
 I was cheering for the Astros at the time, as the evidence of their cheating in 2017 had not yet been widely publicized.
 If I went to an Astros vs Yankees game now, I don't think I'd be cheering for either side.
 
@@ -320,13 +319,13 @@ I did wear my Blue Jays hat and jersey, which drew some strange looks and at lea
 This was C. C. Sabathia's last career game.
 He came in in relief in the top of the eighth inning and recorded two outs before throwing out his shoulder.
 He tried to continue, but couldn't manage it.
-Sabathia pitched until he physically could not pitch any more.
+Sabathia pitched until he could not pitch any more.
 
 ## 2020 Season
 
 Well, I'm living in Jersey City still, and had tickets to some Mets and Yankees games already, but it's unclear when or if the MLB season will happen this year.
 I'll be very happy if it does, but I'm not optimistic.
-Until then, I'll be watching replays of old games, especially those that happened before I started following baseball during the Blue Jays 2015 playoff run.
+Until baseball is back, I'll be watching replays of old games, especially those that happened before I started following baseball during the Blue Jays 2015 playoff run.
 Tonight I saw Doc Halladay's postseason no-hitter for the Phillies.
 
 Last year I wrote, "Looking forward to another great season of baseball!"
