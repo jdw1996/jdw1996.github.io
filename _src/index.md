@@ -12,6 +12,7 @@ Some personal projects I've worked on are available online, including [a game ca
 Feel free to send me an email at [jdwinters96@gmail.com](mailto:jdwinters96@gmail.com), check out my [GitHub profile](https://github.com/jdw1996), or read some of my blog posts:
 
 <!-- * [Title](/link) <span class="index-date">[date]</span> -->
+* [Miscellaneous Logo Designs](/2020-04-11-miscellaneous-logo-designs.html) <span class="index-date">[2020-04-11]</span>
 * [Baseball Games I Attended in 2019](/2020-03-31-baseball-games-i-attended-in-2019.html) <span class="index-date">[2020-03-31]</span>
 * [NHL Logos in the Style of the Maple Leafs](/2020-01-18-nhl-logos-in-the-style-of-the-maple-leafs.html) <span class="index-date">[2020-01-18]</span>
 * [MLB Logos in the Style of the Blue Jays](/2019-12-04-mlb-logos-in-the-style-of-the-blue-jays.html) <span class="index-date">[2019-12-04]</span>
