@@ -81,9 +81,9 @@ Tallahassee, the capital of Florida, would still be an option, but "Tallahassee 
 
 When I first started thinking about state nicknames as team nicknames, I was a bit worried about how they would all translate, so, to play devil's advocate, I tried to think of the least intimidating state nickname.
 While there are others I was forgetting, it was the Sunshine State that came to mind.
-Sunshine is not very intimidating (sorry Phoenix Suns) but then it occurred to me, that I could alter it to "Shiners", which sounds to me like a tough, old-school kind of hockey team, since "shiner" is slang for a black eye.
+Sunshine is not very intimidating (sorry Phoenix Suns) but then it occurred to me that I could alter it to "Shiners", which sounds to me like a tough, old-school kind of hockey team, since "shiner" is slang for a black eye.
 Hence, the primary logo is a pun; it's a hockey mask with a black eye, except the black eye is a bit of sunshine.
-The secondary logo, which appears on the shoulders of all three jerseys, depicts the state of Florida with a similar sunshine pattern centred on the Sarasota of the Gulf Coast.
+The secondary logo, which appears on the shoulders of all three jerseys, depicts the state of Florida with a similar sunshine pattern centred on Sarasota on the Gulf Coast.
 Admittedly the geometry of this secondary logo was another part of the reason I chose Sarasota.
 
 <img src="img/state-nickname-teams/fl-primary.svg" style="width: 300px; height: 300px" />
@@ -98,5 +98,5 @@ And, of course, the jerseys:
 <img src="img/state-nickname-teams/fl-uniforms.svg" style="width: 600px; height: 900" />
 
 I played around with several different colour schemes, including yellow/orange/double green and yellow/orange/black/turquoise, but ultimately the cleaner look of yellow/orange/black prevailed.
-As you can see, I added green for the alligator on the alternate jersey, and I considered adding more green throughout that jersey as well, but eventually decided to focus on team colours outside of the necessary green in the logo.
+As you can see, I added green for the alligator on the alternate jersey, and I considered adding more throughout that jersey as well, but eventually decided to focus on team colours outside of the necessary green in the logo.
 The black base with orange and yellow gives it a strong ['80s Canucks vibe](http://www.sportslogos.net/logos/view/f26e97kyhdhn4m9v338hh7316/Vancouver_Canucks/1986/Dark_Uniform), but I think the colour scheme makes more sense for a Florida team than it did for a Vancouver team.
