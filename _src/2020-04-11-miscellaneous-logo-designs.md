@@ -1,5 +1,5 @@
 <!-- Miscellaneous Logo Designs -->
-<!-- 2020-03-11 -->
+<!-- 2020-04-11 -->
 
 Rather than posting one-off logo designs I work on as separate posts, which would result in a lot of clutter, I'll just append them to this post.
 
