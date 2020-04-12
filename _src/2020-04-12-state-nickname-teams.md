@@ -42,7 +42,7 @@ California | Golden State | Sacramento Gold | Baseball
 Colorado | Centennial State | Lakewood Centennials | Hockey
 Connecticut | Constitution State | Hartford Constitution | Basketball
 Delaware | First State | Wilmington Firsts | Hockey
-Florida | Sunshine State | Sarasota Shiners | Hockey
+Florida | Sunshine State | [Sarasota Shiners](#florida-sarasota-shiners) | Hockey
 Georgia | Peach State | Savannah Peaches | Basketball
 Hawaii | Aloha State | Honolulu Alohas | Basketball
 Idaho | Gem State | Boise Gems | Football
