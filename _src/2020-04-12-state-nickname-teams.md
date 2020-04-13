@@ -93,7 +93,7 @@ The alternate logo is a reference to Florida's unofficial nickname, "Alligator S
 
 <img src="img/state-nickname-teams/fl-alt.svg" style="width: 500px; height: 500px" />
 
-And, of course, the jerseys:
+And, of course, the jerseys, which use the [Face Off M54 font](https://www.fontspace.com/face-off-m54-font-f10758) and which use [Steven Grant's template](http://stevengrantdesign.blogspot.com/p/templates.html):
 
 <img src="img/state-nickname-teams/fl-uniforms.svg" style="width: 600px; height: 900" />
 
