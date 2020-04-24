@@ -50,7 +50,7 @@ Illinois | Prairie State | ????? | ?????
 Kansas | Sunflower State | Wichita Sunflowers | Basketball
 Kentucky | Bluegrass State | Lexington Bluegrass | Baseball
 Massachusetts | Bay State | Provincetown Bays | Baseball
-Maryland | Old State | ????? | ?????
+Maryland | Old Line State | ????? | ?????
 Maine | Pine Tree State | Augusta Pines | Hockey
 Minnesota | Land of 10,000 Lakes | Twin Cities Lakers | Baseball
 Missouri | Show-Me State | ????? | ?????
