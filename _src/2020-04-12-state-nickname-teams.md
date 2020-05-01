@@ -58,7 +58,7 @@ Mississippi | Magnolia State | Jackson Magnolias | Soccer
 Montana | Treasure State | Helena Treasures | Football
 Nevada | Silver State | Silver Carson City | Soccer
 New Hampshire | Granite State | Manchester Granites | Baseball
-New Jersey | Garden State | Jersey City Gardeners | Baseball
+New Jersey | Garden State | [Jersey City Gardeners](#new-jersey-jersey-city-gardeners) | Baseball
 New Mexico | Land of Enchantment | Santa Fe Enchanters | Hockey
 New York | Empire State | Staten Island Emperors | Basketball
 North Dakota | Peace Garden State | ????? | ?????
@@ -100,3 +100,37 @@ And, of course, the jerseys, which use the [Face Off M54 font](https://www.fonts
 I played around with several different colour schemes, including yellow/orange/double green and yellow/orange/black/turquoise, but ultimately the cleaner look of yellow/orange/black prevailed.
 As you can see, I added green for the alligator on the alternate jersey, and I considered adding more throughout that jersey as well, but eventually decided to focus on team colours outside of the necessary green in the logo.
 The black base with orange and yellow gives it a strong ['80s Canucks vibe](http://www.sportslogos.net/logos/view/f26e97kyhdhn4m9v338hh7316/Vancouver_Canucks/1986/Dark_Uniform), but I think the colour scheme makes more sense for a Florida team than it did for a Vancouver team.
+
+## NEW JERSEY: Jersey City Gardeners
+
+*April 2020*
+
+I started thinking about this one pretty early in the process of conceptualizing teams, since I live in Jersey City.
+Some of the earliest organized baseball was played in [Elysian Fields in Hoboken](https://en.wikipedia.org/wiki/Elysian_Fields,_Hoboken,_New_Jersey), just north of Jersey City, and "Gardeners" is the sort of timeless, non-threatening nickname I think of old baseball teams using (e.g. Athletics, Red Sox, Dodgers), so it seemed natural to make this a baseball team.
+
+I knew from the beginning that I had to use green for a team named the Gardeners, but the rest of the colour palette was open for debate.
+Just before starting this project, I was on a bus from Hoboken to East Rutherford, to see the inaugural game for the [New York Guardians](https://en.wikipedia.org/wiki/New_York_Guardians) of the reincarnated XFL.
+Somewhere along the way, I'm no longer sure if it was Weehawken or Union City or North Bergen or Secaucus, I saw a red brick building, of the sort common throughout Hudson County, with the trim around the top painted lime green.
+I quite liked the combination, so that's what I stuck with for the Gardeners, along with the addition of buff, one of the state colours of New Jersey and the background colour of the [state flag](https://en.wikipedia.org/wiki/Coat_of_arms_and_flag_of_New_Jersey).
+
+The cap logo is a "JC" monogram with a few leaves representing the team name; that seemed the best fit for the classic look I was aiming for with the two regular uniforms for the team.
+I also created an "NJ" monogram in the same style to represent the state.
+
+<img src="img/state-nickname-teams/nj-primary.svg" style="width: 500px; height: 500px" />
+
+I also created a secondary "green thumb" logo that's used on the sleeves of the home and away jerseys, and on the fronts of the two alternates.
+
+<img src="img/state-nickname-teams/nj-secondary.svg" style="width: 500px; height: 500px" />
+
+The uniforms use [Academic M54 font](https://www.fontspace.com/academic-m54-font-f8942) and a template based on the [one found here](https://www.azsnakepit.com/2014/4/18/5620778/the-wild-card-expansion-franchise-thought-experiment).
+
+<img src="img/state-nickname-teams/nj-uniforms.svg" style="width: 600px; height: 1200" />
+
+Traditionally, the road uniform should be grey, but that would have clashed with the brick red and green and especially the buff of the team's actual colour scheme.
+Hence, I settled on buff jerseys with an otherwise traditional look.
+I'm not completely happy with the script on the home jersey, but I think it gets the point across, and I think the initial "G" did turn out quite well.
+
+The alternates depart rather significantly from the traditional look.
+The first of those two includes a sublimated brick pattern, representing all those red brick buildings I mentioned before.
+The second is a blue-purple colour to represent the New Jersey state flower, the violet.
+I didn't come across any inspiring nicknames for the state other than the well known "Garden State", but I thought it appropriate for a team named the Gardeners to pay tribute to the state flower.
