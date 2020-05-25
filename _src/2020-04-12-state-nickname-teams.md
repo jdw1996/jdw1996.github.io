@@ -59,7 +59,7 @@ Montana | Treasure State | Helena Treasures | Football
 Nevada | Silver State | Silver Carson City | Soccer
 New Hampshire | Granite State | Manchester Granites | Baseball
 New Jersey | Garden State | [Jersey City Gardeners](#new-jersey-jersey-city-gardeners) | Baseball
-New Mexico | Land of Enchantment | Santa Fe Enchanters | Hockey
+New Mexico | Land of Enchantment | [Santa Fe Enchanters](#new-mexico-santa-fe-enchanters) | Football
 New York | Empire State | Staten Island Emperors | Basketball
 North Dakota | Peace Garden State | ????? | ?????
 Pennsylvania | Keystone State | Harrisburg Keystones | Football
@@ -134,3 +134,35 @@ The alternates depart rather significantly from the traditional look.
 The first of those two includes a sublimated brick pattern, representing all those red brick buildings I mentioned before.
 The second is a blue-purple colour to represent the New Jersey state flower, the violet.
 I didn't come across any inspiring nicknames for the state other than the well known "Garden State", but I thought it appropriate for a team named the Gardeners to pay tribute to the state flower.
+
+## NEW MEXICO: Santa Fe Enchanters
+
+*May 2020*
+
+I've never been to New Mexico, and I don't know too much about it.
+That being said, I am a big fan of the [New Mexico state flag](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/1280px-Flag_of_New_Mexico.svg.png).
+It is distinctive both in its red and yellow colour scheme and its use of the sun symbol of the Zia people.
+Before Florida claimed the title more officially, New Mexico was known to some as the "Sunshine State".
+
+The stripes of the sun play more of a role in the uniforms and the tertiary logo, but I had trouble figuring out how to represent the "Enchanters".
+Eventually I settled on a throwback-style cartoon of a wizard playing football, similar to the old [Dallas Texans](https://www.sportslogos.net/logos/view/414/Dallas_Texans/1960/Primary_Logo) and [Kansas City Chiefs](https://www.sportslogos.net/logos/view/2aqyixgohws3xwl7zir9/Kansas_City_Chiefs/1963/Primary_Logo) logos.
+I decided to put the character's head on the team's helmets and though the full-body version doesn't appear anywhere on the uniforms, I imagine it being used in branding and merchandise.
+
+<img src="img/state-nickname-teams/nm-primary.svg" style="width: 300px; height: 300px" />
+<img src="img/state-nickname-teams/nm-secondary.svg" style="width: 300px; height: 300px" />
+
+The tertiary logo is a football with the laces replaced with the stripes from the Zia sun symbol.
+
+<img src="img/state-nickname-teams/nm-tertiary.svg" style="width: 500px; height: 300px" />
+
+The uniforms use [K. O. Activista font](https://fontlibrary.org/en/font/k-o-activista) and a template I created myself.
+
+<img src="img/state-nickname-teams/nm-uniforms.svg" style="width: 500px; height: 2350px" />
+
+The uniforms include jerseys and pants in red, yellow, and white, such that they could be mixed and matched.
+The four stripe pattern appears four times on each of the first three uniforms: on either side of the pants, on the helmet, and in the logo on the left sleeve.
+Four is the sacred number of the Zia.
+The right sleeves have the silhouette of [Shiprock](https://en.wikipedia.org/wiki/Shiprock) on them, representing New Mexico's natural beauty.
+The fourth jersey is based on the official state question: "Red or green?"
+This refers to red or green chile, and so the uniform balances red and green elements, with opposite coloured sleeves and pant stripes.
+The helmet retains its yellow base but has a green chile pepper on one side and a red one on the other; this look was inspired by the [Chargers helmet](https://www.sportslogos.net/logos/view/t9h02xxxn7vsg0fsljijhofxu/San_Diego_Chargers/2007/Helmet), but using peppers in place of lightning bolts.
