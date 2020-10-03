@@ -12,6 +12,7 @@ Essentially, I decided I didn't want to have to load anything from external sour
 Among other things, this means that the site will always use fonts you have installed on your device.
 I'm using a pretty extensive font stack to minimize the chance of getting stuck with, for example, Arial for text and Courier New for code, but I can't guarantee that you won't see one of those if you're using an old or uncommon platform.
 For this website, my first choices of text and code font are IBM Plex Sans and IBM Plex Mono, respectively, and if it's important to you, you can download them for free from [here](https://github.com/ibm/plex).
+*(EDIT 2020-10-03: I've since removed that font stack, and so your browser default font will be used. If you don't like it, I suggest you change it.)*
 
 I also took inspiration from [Contrast Rebellion](http://contrastrebellion.com/) and [SB Nation](https://www.sbnation.com).
 
@@ -19,7 +20,7 @@ I also took inspiration from [Contrast Rebellion](http://contrastrebellion.com/)
 
 It took a few iterations before I settled on the current structure of the website.
 Initially, I was planning on having separate pages for my work experience, projects, and blog, just as I had on the old version of the site.
-That changed when I came across [Vatsal Ambastha's blog](http://www.vatsalambastha.com/) while browsing [Brutalist Websites](http://brutalistwebsites.com/) for inspiration.
+That changed when I came across [Vatsal Ambastha's blog](https://web.archive.org/web/20180222160448/http://www.vatsalambastha.com/) while browsing [Brutalist Websites](http://brutalistwebsites.com/) for inspiration.
 Reading it, I realized that there was no reason not to put all of the information about myself, along with links to blog posts, on the landing page.
 After all, I don't have *that* much content I want to include.
 This structure is simpler, easier to navigate, and less cluttered with links.
