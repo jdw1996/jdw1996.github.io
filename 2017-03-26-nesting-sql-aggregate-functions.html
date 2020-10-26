@@ -5,6 +5,17 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+		<!-- favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#603cba">
+		<meta name="theme-color" content="#ffffff">
+		<!-- /favicon -->
+
         <title>
              Nesting SQL Aggregate Functions 
         </title>
@@ -25,61 +36,61 @@
 <table>
 <thead>
 <tr class="header">
-<th align="center">name</th>
-<th align="right">amount</th>
-<th align="right">year</th>
+<th style="text-align: center;">name</th>
+<th style="text-align: right;">amount</th>
+<th style="text-align: right;">year</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="center">Gene</td>
-<td align="right">234.04</td>
-<td align="right">2015</td>
+<td style="text-align: center;">Gene</td>
+<td style="text-align: right;">234.04</td>
+<td style="text-align: right;">2015</td>
 </tr>
 <tr class="even">
-<td align="center">Paul</td>
-<td align="right">56.99</td>
-<td align="right">2015</td>
+<td style="text-align: center;">Paul</td>
+<td style="text-align: right;">56.99</td>
+<td style="text-align: right;">2015</td>
 </tr>
 <tr class="odd">
-<td align="center">Peter</td>
-<td align="right">23.95</td>
-<td align="right">2015</td>
+<td style="text-align: center;">Peter</td>
+<td style="text-align: right;">23.95</td>
+<td style="text-align: right;">2015</td>
 </tr>
 <tr class="even">
-<td align="center">Peter</td>
-<td align="right">102.76</td>
-<td align="right">2015</td>
+<td style="text-align: center;">Peter</td>
+<td style="text-align: right;">102.76</td>
+<td style="text-align: right;">2015</td>
 </tr>
 <tr class="odd">
-<td align="center">Ace</td>
-<td align="right">5.49</td>
-<td align="right">2016</td>
+<td style="text-align: center;">Ace</td>
+<td style="text-align: right;">5.49</td>
+<td style="text-align: right;">2016</td>
 </tr>
 <tr class="even">
-<td align="center">Ace</td>
-<td align="right">19.41</td>
-<td align="right">2016</td>
+<td style="text-align: center;">Ace</td>
+<td style="text-align: right;">19.41</td>
+<td style="text-align: right;">2016</td>
 </tr>
 <tr class="odd">
-<td align="center">Ace</td>
-<td align="right">22.77</td>
-<td align="right">2016</td>
+<td style="text-align: center;">Ace</td>
+<td style="text-align: right;">22.77</td>
+<td style="text-align: right;">2016</td>
 </tr>
 <tr class="even">
-<td align="center">Gene</td>
-<td align="right">166.30</td>
-<td align="right">2016</td>
+<td style="text-align: center;">Gene</td>
+<td style="text-align: right;">166.30</td>
+<td style="text-align: right;">2016</td>
 </tr>
 <tr class="odd">
-<td align="center">Paul</td>
-<td align="right">65.99</td>
-<td align="right">2016</td>
+<td style="text-align: center;">Paul</td>
+<td style="text-align: right;">65.99</td>
+<td style="text-align: right;">2016</td>
 </tr>
 <tr class="even">
-<td align="center">Peter</td>
-<td align="right">89.90</td>
-<td align="right">2016</td>
+<td style="text-align: center;">Peter</td>
+<td style="text-align: right;">89.90</td>
+<td style="text-align: right;">2016</td>
 </tr>
 </tbody>
 </table>
@@ -95,21 +106,21 @@ GROUP BY year;</code></pre>
 <table>
 <thead>
 <tr class="header">
-<th align="center">year</th>
-<th align="right">the_count</th>
-<th align="right">the_sum</th>
+<th style="text-align: center;">year</th>
+<th style="text-align: right;">the_count</th>
+<th style="text-align: right;">the_sum</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="center">2015</td>
-<td align="right">4</td>
-<td align="right">417.74</td>
+<td style="text-align: center;">2015</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">417.74</td>
 </tr>
 <tr class="even">
-<td align="center">2016</td>
-<td align="right">6</td>
-<td align="right">369.86</td>
+<td style="text-align: center;">2016</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">369.86</td>
 </tr>
 </tbody>
 </table>
@@ -125,61 +136,61 @@ GROUP BY year, name;</code></pre>
 <table>
 <thead>
 <tr class="header">
-<th align="right">year</th>
-<th align="center">name</th>
-<th align="right">the_count</th>
-<th align="right">the_sum</th>
+<th style="text-align: right;">year</th>
+<th style="text-align: center;">name</th>
+<th style="text-align: right;">the_count</th>
+<th style="text-align: right;">the_sum</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="right">2015</td>
-<td align="center">Gene</td>
-<td align="right">1</td>
-<td align="right">234.04</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: center;">Gene</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">234.04</td>
 </tr>
 <tr class="even">
-<td align="right">2015</td>
-<td align="center">Paul</td>
-<td align="right">1</td>
-<td align="right">56.99</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: center;">Paul</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">56.99</td>
 </tr>
 <tr class="odd">
-<td align="right">2015</td>
-<td align="center">Peter</td>
-<td align="right">2</td>
-<td align="right">126.71</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: center;">Peter</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">126.71</td>
 </tr>
 <tr class="even">
-<td align="right">2016</td>
-<td align="center">Ace</td>
-<td align="right">3</td>
-<td align="right">47.67</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Ace</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">47.67</td>
 </tr>
 <tr class="odd">
-<td align="right">2016</td>
-<td align="center">Gene</td>
-<td align="right">1</td>
-<td align="right">166.30</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Gene</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">166.30</td>
 </tr>
 <tr class="even">
-<td align="right">2016</td>
-<td align="center">Paul</td>
-<td align="right">1</td>
-<td align="right">65.99</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Paul</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">65.99</td>
 </tr>
 <tr class="odd">
-<td align="right">2016</td>
-<td align="center">Peter</td>
-<td align="right">1</td>
-<td align="right">89.90</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Peter</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">89.90</td>
 </tr>
 </tbody>
 </table>
 <p>Now we are squashing together all the records with matching <code>year</code>s <em>and</em> matching <code>name</code>s. This means that we get the number of purchases each person made in each year, along with the total amount they spent in each year.</p>
 <h2 id="aggregating-the-results">Aggregating the Results</h2>
 <p>Let’s suppose that we now want to find the percentage of the total money spent in a year that is spent by each person. You may have to read that sentence a couple of times to make sense of it. It may also help to explain the basic procedure we want to follow. It will be something like this:</p>
-<ol style="list-style-type: decimal">
+<ol type="1">
 <li>Find the total amount spent by each person, in each year.</li>
 <li>Find the total amount spent by everyone in each year.</li>
 <li>Divide the first number by the second, for each person and each year. (And multiply by 100 to get a percentage.)</li>
@@ -198,54 +209,54 @@ GROUP BY year, name;</code></pre>
 <table>
 <thead>
 <tr class="header">
-<th align="right">year</th>
-<th align="center">name</th>
-<th align="right">numerator</th>
-<th align="right">denominator</th>
+<th style="text-align: right;">year</th>
+<th style="text-align: center;">name</th>
+<th style="text-align: right;">numerator</th>
+<th style="text-align: right;">denominator</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="right">2015</td>
-<td align="center">Gene</td>
-<td align="right">234.04</td>
-<td align="right">417.74</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: center;">Gene</td>
+<td style="text-align: right;">234.04</td>
+<td style="text-align: right;">417.74</td>
 </tr>
 <tr class="even">
-<td align="right">2015</td>
-<td align="center">Paul</td>
-<td align="right">56.99</td>
-<td align="right">417.74</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: center;">Paul</td>
+<td style="text-align: right;">56.99</td>
+<td style="text-align: right;">417.74</td>
 </tr>
 <tr class="odd">
-<td align="right">2015</td>
-<td align="center">Peter</td>
-<td align="right">126.71</td>
-<td align="right">417.74</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: center;">Peter</td>
+<td style="text-align: right;">126.71</td>
+<td style="text-align: right;">417.74</td>
 </tr>
 <tr class="even">
-<td align="right">2016</td>
-<td align="center">Ace</td>
-<td align="right">47.67</td>
-<td align="right">369.86</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Ace</td>
+<td style="text-align: right;">47.67</td>
+<td style="text-align: right;">369.86</td>
 </tr>
 <tr class="odd">
-<td align="right">2016</td>
-<td align="center">Gene</td>
-<td align="right">166.30</td>
-<td align="right">369.86</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Gene</td>
+<td style="text-align: right;">166.30</td>
+<td style="text-align: right;">369.86</td>
 </tr>
 <tr class="even">
-<td align="right">2016</td>
-<td align="center">Paul</td>
-<td align="right">65.99</td>
-<td align="right">369.86</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Paul</td>
+<td style="text-align: right;">65.99</td>
+<td style="text-align: right;">369.86</td>
 </tr>
 <tr class="odd">
-<td align="right">2016</td>
-<td align="center">Peter</td>
-<td align="right">89.90</td>
-<td align="right">369.86</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Peter</td>
+<td style="text-align: right;">89.90</td>
+<td style="text-align: right;">369.86</td>
 </tr>
 </tbody>
 </table>
@@ -263,46 +274,46 @@ GROUP BY year, name;</code></pre>
 <table>
 <thead>
 <tr class="header">
-<th align="right">year</th>
-<th align="center">name</th>
-<th align="right">pct_of_spending</th>
+<th style="text-align: right;">year</th>
+<th style="text-align: center;">name</th>
+<th style="text-align: right;">pct_of_spending</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="right">2015</td>
-<td align="center">Gene</td>
-<td align="right">56.0252788816009958</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: center;">Gene</td>
+<td style="text-align: right;">56.0252788816009958</td>
 </tr>
 <tr class="even">
-<td align="right">2015</td>
-<td align="center">Paul</td>
-<td align="right">13.6424570306889453</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: center;">Paul</td>
+<td style="text-align: right;">13.6424570306889453</td>
 </tr>
 <tr class="odd">
-<td align="right">2015</td>
-<td align="center">Peter</td>
-<td align="right">30.3322640877100589</td>
+<td style="text-align: right;">2015</td>
+<td style="text-align: center;">Peter</td>
+<td style="text-align: right;">30.3322640877100589</td>
 </tr>
 <tr class="even">
-<td align="right">2016</td>
-<td align="center">Ace</td>
-<td align="right">12.8886605742713459</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Ace</td>
+<td style="text-align: right;">12.8886605742713459</td>
 </tr>
 <tr class="odd">
-<td align="right">2016</td>
-<td align="center">Paul</td>
-<td align="right">17.8418861190720813</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Paul</td>
+<td style="text-align: right;">17.8418861190720813</td>
 </tr>
 <tr class="even">
-<td align="right">2016</td>
-<td align="center">Peter</td>
-<td align="right">24.3064943492132158</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Peter</td>
+<td style="text-align: right;">24.3064943492132158</td>
 </tr>
 <tr class="odd">
-<td align="right">2016</td>
-<td align="center">Gene</td>
-<td align="right">44.9629589574433569</td>
+<td style="text-align: right;">2016</td>
+<td style="text-align: center;">Gene</td>
+<td style="text-align: right;">44.9629589574433569</td>
 </tr>
 </tbody>
 </table>

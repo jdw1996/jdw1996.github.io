@@ -5,6 +5,17 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+		<!-- favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#603cba">
+		<meta name="theme-color" content="#ffffff">
+		<!-- /favicon -->
+
         <title>
              All the Things I Googled to Write a Pong Clone 
         </title>
@@ -30,16 +41,18 @@
 <p>When I create a project that’s solely meant to be viewed in a browser, I like to delete the <code>master</code> branch and just use the <code>gh-pages</code> branch (see <a href="https://pages.github.com/">here</a> for more on GitHub Pages). I’ve done it a few times, but have to look up how every time.</p>
 <p><a href="http://matthew-brett.github.io/pydagogue/gh_delete_master.html"><strong>Selected Solution.</strong></a></p>
 <p>The article is pretty concise, but I’ll quickly go over the specific steps I used:</p>
-<ol style="list-style-type: decimal">
+<ol type="1">
 <li>Create and clone the repository.</li>
-<li><p>Execute:</p>
+<li>Execute:</li>
+</ol>
 <pre><code>$ git checkout -b gh-pages
 $ git branch -D master
-$ git push origin gh-pages</code></pre></li>
+$ git push origin gh-pages</code></pre>
+<ol start="3" type="1">
 <li>Navigate to your repo on GitHub and, under <strong>Settings &gt; Branches &gt; Default branch</strong> change the default branch to <code>gh-pages</code>.</li>
-<li><p>Execute:</p>
-<pre><code>$ git push origin :master</code></pre></li>
+<li>Execute:</li>
 </ol>
+<pre><code>$ git push origin :master</code></pre>
 <h2 id="ubuntu-install-dart">“ubuntu install dart”</h2>
 <p>Apparently I haven’t used Dart since I reinstalled my OS.</p>
 <p><a href="https://www.dartlang.org/install/linux"><strong>Selected Solution.</strong></a></p>
