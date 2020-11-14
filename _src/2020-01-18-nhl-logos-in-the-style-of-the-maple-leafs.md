@@ -18,7 +18,7 @@ These are simpler than the Blue Jays inspired ones, meaning that they were quick
 Much credit goes to [Chris Creamer's SportsLogos.net](http://www.sportslogos.net/index.php), whose archive of old logos I referenced for just about every team and [Team Color Codes](https://teamcolorcodes.com/), which provided most of the colour codes I needed.
 While it doesn't exactly match the Leafs font, I used [New Athletic M54](https://www.fontspace.com/justme54s/new-athletic-m54), which gives a similar feeling and is generously made free for personal use.
 
-I posted this to Reddit [here](https://www.reddit.com/r/hockey/comments/eqlutx/oc_nhl_logos_in_the_style_of_the_maple_leafs/) and got a great response, including some suggestions for improvement, which I've mentioned below.
+I posted this to Reddit (since deleted) and got a great response, including some suggestions for improvement, which I've mentioned below.
 
 This post also got linked from Uni Watch, which I found exciting.
 You can find it by searching "every NHL team logo" on [this page](https://uni-watch.com/2020/01/20/monday-morning-uni-watch-conference-championship-edition/).
