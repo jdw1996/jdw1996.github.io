@@ -11,6 +11,7 @@ Feel free to send me an email at [jdwinters96@gmail.com](mailto:jdwinters96@gmai
 
 <!-- * [Title](/link) <span class="index-date">[date]</span> -->
 
+- [Looking Them in the Eye](/2020-12-25-looking-them-in-the-eye.html) <span class="index-date">[2020-12-25]</span>
 - [2020 Person of the Year](/2020-12-20-2020-person-of-the-year.html) <span class="index-date">[2020-12-20]</span>
 - [Canadian Identity](/2020-12-02-canadian-identity.html) <span class="index-date">[2020-12-02]</span>
 - [Canadian Exceptionalism](/2020-12-01-canadian-exceptionalism.html) <span class="index-date">[2020-12-01]</span>
