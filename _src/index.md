@@ -7,7 +7,7 @@ I graduated from the [University of Waterloo](https://uwaterloo.ca/) in 2019 wit
 ## Personal Projects
 
 - [Algorithmic Art](/algorithmic-art)
-- [French Conjugator](/french-conjugator)
+- [French Conjugator](https://github.com/jdw1996/french-conjugator)
 - [Jothello](/jothello)
 - [Pub Name Generator](/pub-name-generator)
 - [Retro Table Tennis](/retro-table-tennis)
