@@ -2,12 +2,18 @@
 
 I'm Joseph Winters and I'm a full-stack developer at [HomeX](https://homex.com/).
 In the past, I've worked at [Broadway Technology](http://www.broadwaytechnology.com/), [SAP](https://sap.com), [Jonah Group](https://www.jonahgroup.com) and TrustPoint Innovation Technologies (now a part of [ESCRYPT](https://escrypt.com)).
-I graduated from the [University of Waterloo](https://uwaterloo.ca/) with a Bachelor of Mathematics degree with a major in [combinatorics and optimization](https://uwaterloo.ca/combinatorics-and-optimization/) and minors in [computer science](https://cs.uwaterloo.ca/) and [pure mathematics](https://uwaterloo.ca/pure-mathematics/).
-I love programming, solving puzzles, watching baseball, and reading science fiction.
+I graduated from the [University of Waterloo](https://uwaterloo.ca/) in 2019 with a Bachelor of Mathematics degree with a major in [combinatorics and optimization](https://uwaterloo.ca/combinatorics-and-optimization/) and minors in [computer science](https://cs.uwaterloo.ca/) and [pure mathematics](https://uwaterloo.ca/pure-mathematics/).
 
-Some personal projects I've worked on are available online, including [a game called _Touch the Bees!_](/touch-the-bees), [a game based on _Pong_](/retro-table-tennis), [a command-line program to conjugate French verbs](https://github.com/jdw1996/french-conjugator), [a site to randomly generate names for pubs](https://github.com/jdw1996/pub-name-generator), and [my solutions](https://github.com/jdw1996/cryptopals) to the [Matasano Cryptopals challenges](https://cryptopals.com/).
+## Personal Projects
 
-Feel free to send me an email at [jdwinters96@gmail.com](mailto:jdwinters96@gmail.com), check out my [GitHub profile](https://github.com/jdw1996), or read some of my blog posts:
+- [Algorithmic Art](/algorithmic-art)
+- [French Conjugator](/french-conjugator)
+- [Jothello](/jothello)
+- [Pub Name Generator](/pub-name-generator)
+- [Retro Table Tennis](/retro-table-tennis)
+- [Touch the Bees!](/touch-the-bees)
+
+## Blog Posts
 
 <!-- * [Title](/link) <span class="index-date">[date]</span> -->
 
@@ -30,3 +36,7 @@ Feel free to send me an email at [jdwinters96@gmail.com](mailto:jdwinters96@gmai
 - [Nesting SQL Aggregate Functions](/2017-03-26-nesting-sql-aggregate-functions.html) <span class="index-date">[2017-03-26]</span>
 - [Hello, World!](/2017-01-08-hello-world.html) <span class="index-date">[2017-01-08]</span>
 - [A Student of the IoT](/2016-08-26-a-student-of-the-iot.html) <span class="index-date">[2016-08-26]</span>
+
+## Contact
+
+Feel free to send me an email at [jdwinters96@gmail.com](mailto:jdwinters96@gmail.com).
