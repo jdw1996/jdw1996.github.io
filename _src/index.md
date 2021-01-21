@@ -17,6 +17,7 @@ I graduated from the [University of Waterloo](https://uwaterloo.ca/) in 2019 wit
 
 <!-- * [Title](/link) <span class="index-date">[date]</span> -->
 
+- [Annoying Moustache](/2021-01-21-stubbed-toe.html) <span class="index-date">[2021-01-21]</span>
 - [Annoying Moustache](/2020-12-28-annoying-moustache.html) <span class="index-date">[2020-12-28]</span>
 - [Looking Them in the Eye](/2020-12-25-looking-them-in-the-eye.html) <span class="index-date">[2020-12-25]</span>
 - [2020 Person of the Year](/2020-12-20-2020-person-of-the-year.html) <span class="index-date">[2020-12-20]</span>
