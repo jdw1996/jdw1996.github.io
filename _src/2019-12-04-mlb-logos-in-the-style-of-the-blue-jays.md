@@ -6,10 +6,10 @@ I decided not to go into architecture and mostly stopped after that, but recentl
 I had the idea to create logos for the other 29 Major League Baseball (MLB) teams in the style of [the logo of my favourite team, the Toronto Blue Jays](http://www.sportslogos.net/logos/view/xxaqweqffuesooh5n4euube6n/Toronto_Blue_Jays/2012/Alternate_Logo).
 My interpretation of this is as follows:
 
-* Most of the logo is either the thing the team is named after or the team mascot, in profile and facing left where applicable.
-* That part is illustrated in two colours on a white background, where the top half is one colour and the bottom is the other.
-* At the right-hand side of the logo there is a symbol representative of the city, state, or region the team represents.
-* This symbol is in a third colour.
+- Most of the logo is either the thing the team is named after or the team mascot, in profile and facing left where applicable.
+- That part is illustrated in two colours on a white background, where the top half is one colour and the bottom is the other.
+- At the right-hand side of the logo there is a symbol representative of the city, state, or region the team represents.
+- This symbol is in a third colour.
 
 For the most part I tried to keep the logos simple, to match the Jays' style, but several times I found myself getting away from that.
 Hence, the styles of the results vary somewhat.
@@ -20,20 +20,16 @@ Much credit goes to [Chris Creamer's SportsLogos.net](http://www.sportslogos.net
 I posted this to Reddit (since deleted) and got a great response, including a lot of suggestions for changes to the logos.
 I've linked the modified versions below in addition to my originals.
 
+**[2021-10-29 EDIT]** Originally I included logos for the Atlanta and Cleveland MLB franchises.
+I tried to make my designs as respectful as possible, but there is no way to respectfully represent such team names.
+The Cleveland team has since announced their name change to "Guardians" and hopefully the Atlanta team will soon follow suit.
+
 ## Arizona Diamondbacks
 
 I'm pretty happy with the way this one turned out.
 I considered using the Dbacks' original purple/teal/gold colour scheme, but I decided that maroon/sand/black was more representative of Arizona, in part because it matches the Arizona Coyotes' look.
 
 <img src="img/mlb-blue-jays/ari.svg" style="width: 400px; height: 400px" />
-
-## Atlanta Braves
-
-Both the Braves and the Cleveland Indians have used caricatures of Native Americans as their logos in the past, but I had no interest in emulating such offensive imagery.
-Instead, I used the Braves' tomahawk here and a ~~tepee~~ bow and arrow for Cleveland (see below).
-When designing this, I had in mind the Chicago Blackhawks [crossed tomahawks logo](http://www.sportslogos.net/logos/view/785342000/Chicago_Blackhawks/2000/Alternate_Logo), forgetting that the Braves [have their own version](http://www.sportslogos.net/logos/view/bmgndhhvp8d9dllfh3vnf8g5u/Atlanta_Braves/2012/Alternate_Logo).
-
-<img src="img/mlb-blue-jays/atl.svg" style="width: 400px; height: 400px" />
 
 ## Baltimore Orioles
 
@@ -78,17 +74,6 @@ Between Cleveland and Cincinnati, I arbitrarily gave the outline of Ohio to the 
 By request, I made a variant that replaces the Ohio flag with [the Reds 'C' logo](/img/mlb-blue-jays/cin-c.svg).
 
 <img src="img/mlb-blue-jays/cin.svg" style="width: 400px; height: 400px" />
-
-## Cleveland Indians
-
-Like I mentioned in the Braves blurb, I wasn't going to use Chief Wahoo for this logo.
-Atlanta already uses the tomahawk as a logo, so I settled on using a tepee for Cleveland.
-However, several Reddit users pointed out to me that using a tepee is not an accurate representation of the Indigenous peoples local to the Cleveland area either.
-You can see [the original tepee logo here](/img/mlb-blue-jays/cle-tepee.svg) but I've now switched it to a bow and arrow.
-
-As the "regional" symbol in the logo, I considered using a silhouette of the Rock & Roll Hall of Fame, but it didn't seem like it would be recognizable enough once simplified.
-
-<img src="img/mlb-blue-jays/cle.svg" style="width: 400px; height: 400px" />
 
 ## Colorado Rockies
 
