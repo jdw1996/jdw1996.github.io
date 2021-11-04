@@ -17,6 +17,7 @@ I graduated from the [University of Waterloo](https://uwaterloo.ca/) in 2019 wit
 
 <!-- * [Title](/link) <span class="index-date">[date]</span> -->
 
+- [Boltzmann Lemon](/2021-11-02-boltzmann-lemon.html) <span class="index-date">[2021-11-02]</span>
 - [They Play Where Now?](/2021-08-01-they-play-where-now.html) <span class="index-date">[2021-08-01]</span>
 - [Bullpen](/2021-07-02-bullpen.html) <span class="index-date">[2021-07-02]</span>
 - [End of Quarantine](/2021-06-27-end-of-quarantine.html) <span class="index-date">[2021-06-27]</span>
