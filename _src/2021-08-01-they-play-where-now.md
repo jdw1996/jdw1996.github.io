@@ -25,3 +25,11 @@ It really is about answering "They Play Where Now?" so I'm not surprised when I 
 ## 2021 NHL Free Agency
 
 <img src="img/they-play-where-now/2021-nhl-free-agency.png" style="width: 100%" />
+
+## 2022 NHL Trade Deadline
+
+<img src="img/they-play-where-now/2022-nhl-trade-deadline.png" style="width: 100%" />
+
+## 2022 F1
+
+<img src="img/they-play-where-now/2022-f1.png" style="width: 100%" />
