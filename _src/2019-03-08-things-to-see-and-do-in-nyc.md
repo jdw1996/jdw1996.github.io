@@ -19,8 +19,9 @@ I ended up being offered a full-time position at Broadway, starting in July 2019
 - **NY Pizza Suprema**: Counter-serve pizza right across from Madison Square Garden, established in 1964. It's more expensive than the dollar-slice counters you'll see every few blocks (though those are also good!), and it's worth it if you're looking for a slice that's a tier better, but still not at all fancy.
 - **North Dumpling**: Take out ten pork dumplings for $3. Good spot to visit before walking across the Manhattan Bridge or Williamsburg Bridge.
 - **Prince Street Pizza**: While they serve New York-style pizza from their counter as well, it's the thick, square, Detroit-style slices that they're better known for. The wait can be 45 minutes outside the storefront in Nolita.
+- **Scarr's**: They make the best pizza I've had in New York. Both New York-style and Sicilian are available, both are delicious. They have no sign.
 - **Shinka Ramen**: The beef bone marrow ramen is easily the best ramen I've had. It's very rich and filling and has wagyu brisket in it, too. It's on the first floor of a hotel in Chinatown.
-- **TsuruTonTan**: I went to the Union Square location and had the Wagyu beef and truffle udon, which was excellent. You can order a small or a large, but they're both the same price.
+- **TsuruTonTan**: I've had the Wagyu beef and truffle udon, which is excellent, at both the Union Square and Midtown locations.
 - **Veselka**: Ukrainian food in the East Village, near NYU. Open 24 hours; I've always had to wait outside, but it's worth it.
 
 ### Brooklyn
