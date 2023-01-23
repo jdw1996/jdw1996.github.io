@@ -47,3 +47,7 @@ Note that Sean Manaea was traded from Oakland to San Diego after I made this gra
 ## 2022 NHL Free Agency
 
 <img src="img/they-play-where-now/2022-nhl-free-agency.png" style="width: 100%" />
+
+## 2023 F1
+
+<img src="img/they-play-where-now/2023-f1.png" style="width: 100%" />
