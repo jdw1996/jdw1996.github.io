@@ -13,33 +13,33 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 #### Kitchener-Waterloo
 
-- **La Cucina**: Really nice Italian in downtown Kitchener.
-- **Lancaster Smokehouse**: My favourite restaurant in KW, they do really solid southern-style barbeque. The pulled pork is my recommendation.
+- _La Cucina_: Really nice Italian in downtown Kitchener.
+- _Lancaster Smokehouse_: My favourite restaurant in KW, they do really solid southern-style barbeque. The pulled pork is my recommendation.
 
 #### Toronto
 
-- **Burgers n' Fries Forever**: Very good burgers and fries.
-- **Matt's Burger Lab**: Excellent burgers.
-- **Milagro**: Slightly upscale Mexican close to the Skydome.
-- **Planta**: Vegan food that you wouldn't guess was vegan. There are a few locations but the Asian fusion one on Queen West is my favourite.
-- **Salad King**: Cheap Thai and other southeast Asian food, there are a couple locations.
+- _Burgers n' Fries Forever_: Very good burgers and fries.
+- _Matt's Burger Lab_: Excellent burgers.
+- _Milagro_: Slightly upscale Mexican close to the Skydome.
+- _Planta_: Vegan food that you wouldn't guess was vegan. There are a few locations but the Asian fusion one on Queen West is my favourite.
+- _Salad King_: Cheap Thai and other southeast Asian food, there are a couple locations.
 
 ### United States
 
 #### Nashville (March 2022)
 
 - Eat
-  - **Biscuit Love**: Best biscuits I've ever had. They're flaky like a croissant, but still distinctly biscuits. Try the chronic bacon too.
-  - **Cheap Charlie's Taco Shop**: Best tacos I've ever had, served out of a trailer in a gas station parking lot.
-  - **DeSano Pizza Bakery**: It's weird to say that the best pizza you've ever had is at a chain in Nashville, Tennessee. I was skeptical too until I tried it.
-  - **Hattie B's Hot Chicken**: Best chicken tenders I've ever had.
-  - **Martin's Bar-B-Que Joint**: Best ribs I've ever had. Tender but not fatty or greasy.
+  - _Biscuit Love_: Best biscuits I've ever had. They're flaky like a croissant, but still distinctly biscuits. Try the chronic bacon too.
+  - _Cheap Charlie's Taco Shop_: Best tacos I've ever had, served out of a trailer in a gas station parking lot.
+  - _DeSano Pizza Bakery_: It's weird to say that the best pizza you've ever had is at a chain in Nashville, Tennessee. I was skeptical too until I tried it.
+  - _Hattie B's Hot Chicken_: Best chicken tenders I've ever had.
+  - _Martin's Bar-B-Que Joint_: Best ribs I've ever had. Tender but not fatty or greasy.
 - See
-  - **The Listening Room**: Pretty modern venue that books good shows, with a variety of singer-songwriters. The food is good too.
-  - **Station Inn**: A dive bar with good music, especially bluegrass. My favourite show in Nashville was the bluegrass drop-in they hold every Sunday night.
-  - **Hatch Show Print**: Take a tour of the print shop to see how Nashville concert posters are made.
+  - _The Listening Room_: Pretty modern venue that books good shows, with a variety of singer-songwriters. The food is good too.
+  - _Station Inn_: A dive bar with good music, especially bluegrass. My favourite show in Nashville was the bluegrass drop-in they hold every Sunday night.
+  - _Hatch Show Print_: Take a tour of the print shop to see how Nashville concert posters are made.
 - Do
-  - **Korean War Veterans Memorial Bridge** or **John Seigenthaler Pedestrian Bridge**: Walking over either bridge gives a good view of the city skyline.
+  - _Korean War Veterans Memorial Bridge_ or _John Seigenthaler Pedestrian Bridge_: Walking over either bridge gives a good view of the city skyline.
 
 #### New York City (June 2022)
 
@@ -51,19 +51,19 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 #### Berlin (October 2022)
 
-- **Brammibal's Donuts**: Delicious vegan doughnuts.
-- **Shakespeare and Sons**: Bagels and books.
+- _Brammibal's Donuts_: Delicious vegan doughnuts.
+- _Shakespeare and Sons_: Bagels and books.
 
 ### Spain
 
 #### Barcelona (October 2022)
 
-- **Amigo doner kebab y pizzería**: Delicious doner not far from Park Güell.
+- _Amigo doner kebab y pizzería_: Delicious doner not far from Park Güell.
 
 #### Granada (October 2022)
 
-- **Grana Pizza**: Delicious and cheap pizza.
-- **Jerusalem Restaurant**: Best falafel I've ever had, and super cheap.
+- _Grana Pizza_: Delicious and cheap pizza.
+- _Jerusalem Restaurant_: Best falafel I've ever had, and super cheap.
 
 ## Africa
 
@@ -72,12 +72,12 @@ The idea is to update this list over time instead of posting new lists in the fu
 #### Cape Town (October-November 2022)
 
 - Eat
-  - **Bihari**: Nice Indian restaurant in a hotel.
-  - **The Black Sheep**: Very well done food, from a variety of cultures. I had pappardelle with braised beef and mushrooms.
-  - **Eastern Food Bazaar**: A series of counters with different south and east Asian food. Huge portions for cheap.
-  - **GOLD Restaurant**: Many dishes from across Africa, in combination with dancing, singing, and drumming.
-  - **Tadka**: Nice Indian restaurant. One of Cape Town's rolling blackouts started while we were there, which made for an interesting atmosphere.
+  - _Bihari_: Nice Indian restaurant in a hotel.
+  - _The Black Sheep_: Very well done food, from a variety of cultures. I had pappardelle with braised beef and mushrooms.
+  - _Eastern Food Bazaar_: A series of counters with different south and east Asian food. Huge portions for cheap.
+  - _GOLD Restaurant_: Many dishes from across Africa, in combination with dancing, singing, and drumming.
+  - _Tadka_: Nice Indian restaurant. One of Cape Town's rolling blackouts started while we were there, which made for an interesting atmosphere.
 - See
-  - **Table Mountain**: Take the cable car to the top for incredible views on all sides.
+  - _Table Mountain_: Take the cable car to the top for incredible views on all sides.
 - Do
-  - **Ocean Wonder**: Ride around the harbour in a very small boat to get up-close views of local wildlife.
+  - _Ocean Wonder_: Ride around the harbour in a very small boat to get up-close views of local wildlife.
