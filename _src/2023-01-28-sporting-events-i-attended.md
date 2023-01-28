@@ -1,5 +1,5 @@
 <!-- Sporting Events I Attended -->
-<!-- 2023-01-22 -->
+<!-- 2023-01-28 -->
 
 For a few years I made posts about baseball games I'd attended in the preceding year.
 I haven't done that since the pandemic, but I've been tracking the sporting events I've attended in my own notes.
@@ -184,3 +184,212 @@ Alejandro Kirk recorded his 100th career hit.
 Toronto batted around in the bottom of the fifth.
 Baltimore challenged a 1-3 ground out, saying it was a hit by pitch.
 The ruling was that he was hit by the pitch, but the batter clearly swung and it was strike three, so I'm not sure why they bothered.
+
+## 2022-06-16
+
+|                    | Score | Starting Quarterback   |
+| ------------------ | ----- | ---------------------- |
+| Montreal Alouettes | 19    | Trevor Harris          |
+| Toronto Argonauts  | 20    | McLeod Bethel-Thompson |
+
+The game had a total of seven field goals, five singles, and only two touchdowns.
+Boris Bede kicked a field goal for the Argos with 0:01 left in the second quarter.
+Montreal attempted a would-be game winning field goal with about 0:18 left in the game, but it was deflected for a single.
+
+## 2022-06-27
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Boston Red Sox    | 2     | Connor Seabold   |
+| Toronto Blue Jays | 7     | Kevin Gausman    |
+
+## 2022-06-29
+
+|                | Score | Starting Pitcher |
+| -------------- | ----- | ---------------- |
+| Houston Astros | 2     | Justin Verlander |
+| New York Mets  | 0     | Taijuan Walker   |
+
+Ender Inciarte recorded his first hit as a Met.
+Walker pitched 7.1 innings and Verlander pitched 8.0.
+Jeremy Peña and Yordán Álvarez collided in the oufield in the bottom of the eighth, Álvarez left on a cart, and both left the game, though neither went on to miss significant time.
+Jason Castro of the Astros hit a two-run home run in the top of the ninth for the only runs of the game; he entered the game 7-for-74 on the season.
+
+## 2022-07-12
+
+|                       | Score | Starting Pitcher |
+| --------------------- | ----- | ---------------- |
+| Philadelphia Phillies | 3     | Andrew Bellatti  |
+| Toronto Blue Jays     | 4     | José Berríos     |
+
+Mark Appel was the bulk pitcher for Philly.
+Berríos struck out 13, the most ever for a Jays starter through six innings.
+Toronto out-hit Philadelphia 14-7.
+This was Charlie Montoyo's last game managing Toronto.
+
+## 2022-07-13
+
+|                     | Score |
+| ------------------- | ----- |
+| Barrie Baycats      | 4     |
+| Toronto Maple Leafs | 20    |
+
+Toronto scored nine runs in the first inning.
+
+## 2022-07-14
+
+|                    | Score | Starting Pitcher |
+| ------------------ | ----- | ---------------- |
+| Kansas City Royals | 3     | Ángel Zerpa      |
+| Toronto Blue Jays  | 1     | Kevin Gausman    |
+
+Ten unvaccinated Royals weren't allowed to enter Canada.
+
+## 2022-07-17
+
+| Place | Driver           | Team                |
+| ----- | ---------------- | ------------------- |
+| 1     | Scott Dixon      | Chip Ganassi Racing |
+| 2     | Colton Herta     | Andretti Autosport  |
+| 3     | Felix Rosenqvist | Arrow McLaren SP    |
+
+Honda Indy Toronto.
+
+## 2022-07-27
+
+|                     | Score | Starting Pitcher |
+| ------------------- | ----- | ---------------- |
+| St. Louis Cardinals | 6     | Adam Wainwright  |
+| Toronto Blue Jays   | 1     | Kevin Gausman    |
+
+Nolan Arenado and Paul Goldschmidt of the Cardinals were unable to enter Canada since they were unvaccinated.
+Albert Pujols made his final appearance in Toronto and hit his 686th career home run.
+Cavan Biggio completed a double play unassisted in the top of the eighth inning.
+
+## 2022-07-28
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Detroit Tigers    | 3     | Tyler Alexander  |
+| Toronto Blue Jays | 5     | Yusei Kikuchi    |
+
+Matt Chapman hit two home runs.
+
+## 2022-07-31
+
+|                   | Score | Starting Quarterback   |
+| ----------------- | ----- | ---------------------- |
+| Ottawa REDBLACKS  | 23    | Caleb Evans            |
+| Toronto Argonauts | 13    | McLeod Bethel-Thompson |
+
+On the Toronto touchdown, Kurleigh Gittens Jr. surpassed 1000 career receiving yards.
+Bethel-Thompson surpassed 10 000 career passing yards.
+Ottawa entered the game 0-6 for the year.
+
+## 2022-08-23
+
+|                     | Score |
+| ------------------- | ----- |
+| London Majors       | 14    |
+| Toronto Maple Leafs | 4     |
+
+## 2022-08-27
+
+|                    | Score | Starting Pitcher |
+| ------------------ | ----- | ---------------- |
+| Los Angeles Angels | 2     | Shohei Ohtani    |
+| Toronto Blue Jays  | 0     | Alek Manoah      |
+
+Before the game, the Blue Jays hosted a ceremony in honour of the 1992 World Series winning team.
+Both starting pitchers pitched 7.0 innings.
+
+## 2022-08-29
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Chicago Cubs      | 4     | Javier Assad     |
+| Toronto Blue Jays | 5     | José Berríos     |
+
+Danny Jansen hit a home run and an 11th inning walk-off single for four RBI.
+
+## 2022-08-30
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Chicago Cubs      | 3     | Marcus Stroman   |
+| Toronto Blue Jays | 5     | Kevin Gausman    |
+
+This was Stroman's first career start against Toronto.
+
+## 2022-09-22
+
+|                     | Score |
+| ------------------- | ----- |
+| London Majors       | 8     |
+| Toronto Maple Leafs | 7     |
+
+London won the league championship in this, game six of the series, after scoring five runs in the top of the ninth.
+
+## 2022-09-24
+
+|                     | Score |
+| ------------------- | ----- |
+| Ottawa Senators     | 1     |
+| Toronto Maple Leafs | 4     |
+
+This was the Leafs' first preseason game.
+
+## 2022-09-26
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| New York Yankees  | 2     | Luís Severino    |
+| Toronto Blue Jays | 3     | Kevin Gausman    |
+
+Aaron Judge was stuck on 60 home runs and was intentionally walked in the top of the 10th inning.
+
+## 2022-09-27
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| New York Yankees  | 5     | Jameson Taillon  |
+| Toronto Blue Jays | 2     | José Berríos     |
+
+Berríos recorded his 1000th career strikeout.
+Judge remained stuck on 60 home runs.
+
+## 2022-09-28
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| New York Yankees  | 8     | Gerrit Cole      |
+| Toronto Blue Jays | 3     | Mitch White      |
+
+White left after allowing three earned runs in 3.2 innings pitched but he got Judge out twice.
+Judge hit his 61st home run of the year off Time Mayza in the top of the seventh, tying the American League record.
+
+## 2022-10-01
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Boston Red Sox    | 0     | Brayan Bello     |
+| Toronto Blue Jays | 10    | Ross Stripling   |
+
+Teoscar Hernández of Toronto got his 600th career hit.
+Otto López of Toronto got his first career hit.
+
+## 2022-10-19
+
+|                      | Score |
+| -------------------- | ----- |
+| Panathinaikos Athens | 65    |
+| Alba Berlin          | 94    |
+
+## 2022-11-13
+
+|                    | Score | Starting Quarterback   |
+| ------------------ | ----- | ---------------------- |
+| Montreal Alouettes | 27    | Trevor Harris          |
+| Toronto Argonauts  | 34    | McLeod Bethel-Thompson |
+
+This was the East Division final.
