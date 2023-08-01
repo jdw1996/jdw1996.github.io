@@ -19,21 +19,24 @@ The idea is to update this list over time instead of posting new lists in the fu
 #### Toronto
 
 - _Burgers n' Fries Forever_: Very good burgers and fries.
+- _Little India_: A little more formal than some Indian restaurants, they have excellent lamb vindaloo.
 - _Matt's Burger Lab_: Excellent burgers.
 - _Milagro_: Slightly upscale Mexican close to the Skydome.
 - _Planta_: Vegan food that you wouldn't guess was vegan. There are a few locations but the Asian fusion one on Queen West is my favourite.
 - _Salad King_: Cheap Thai and other southeast Asian food, there are a couple locations.
+- _Sizzler Kabab_: My favourite butter chicken, with big chunks of meat and lots of flavour. And delicious garlic naan slathered in butter.
 
 ### United States
 
-#### Nashville (March 2022)
+#### Nashville (March 2023)
 
 - Eat
   - _Biscuit Love_: Best biscuits I've ever had. They're flaky like a croissant, but still distinctly biscuits. Try the chronic bacon too.
   - _Cheap Charlie's Taco Shop_: Best tacos I've ever had, served out of a trailer in a gas station parking lot.
   - _DeSano Pizza Bakery_: It's weird to say that the best pizza you've ever had is at a chain in Nashville, Tennessee. I was skeptical too until I tried it.
   - _Hattie B's Hot Chicken_: Best chicken tenders I've ever had.
-  - _Martin's Bar-B-Que Joint_: Best ribs I've ever had. Tender but not fatty or greasy.
+  - _Martin's Bar-B-Que Joint_: Best ribs I've ever had, until I went to Peg Leg Porker. Tender but not fatty or greasy.
+  - _Peg Leg Porker BBQ_: Everything I liked about Martin's ribs, but even better.
 - See
   - _The Listening Room_: Pretty modern venue that books good shows, with a variety of singer-songwriters. The food is good too.
   - _Station Inn_: A dive bar with good music, especially bluegrass. My favourite show in Nashville was the bluegrass drop-in they hold every Sunday night.
@@ -44,6 +47,17 @@ The idea is to update this list over time instead of posting new lists in the fu
 #### New York City (June 2022)
 
 [See my separate post on NYC.](/2019-03-08-things-to-see-and-do-in-nyc)
+
+### Trinidad and Tobago (July 2023)
+
+#### Trinidad
+
+- _Wings Roti Shop_: You get to choose from a variety of veggie and meat curries, eaten with roti. All that I tried were good but the pumpkin and mango stand out.
+- _Swaggy's Roti_: I had their stew chicken and it was delicious.
+
+#### Tobago
+
+- _Crusty Crab_: I wasn't too fond of crab and dumplings, which Tobago is famous for, but their stew chicken, steamed fish, ground provisions, and beans were all delicious.
 
 ## Europe
 
