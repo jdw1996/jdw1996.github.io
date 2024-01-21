@@ -35,7 +35,7 @@ The idea is to update this list over time instead of posting new lists in the fu
   - _Cheap Charlie's Taco Shop_: Best tacos I've ever had, served out of a trailer in a gas station parking lot.
   - _DeSano Pizza Bakery_: It's weird to say that the best pizza you've ever had is at a chain in Nashville, Tennessee. I was skeptical too until I tried it.
   - _Hattie B's Hot Chicken_: Best chicken tenders I've ever had.
-  - _Martin's Bar-B-Que Joint_: Best ribs I've ever had, until I went to Peg Leg Porker. Tender but not fatty or greasy.
+  - _Martin's Bar-B-Que Joint_: Best ribs I'd ever had, until I went to Peg Leg Porker. Tender but not fatty or greasy.
   - _Peg Leg Porker BBQ_: Everything I liked about Martin's ribs, but even better.
 - See
   - _The Listening Room_: Pretty modern venue that books good shows, with a variety of singer-songwriters. The food is good too.
@@ -58,6 +58,69 @@ The idea is to update this list over time instead of posting new lists in the fu
 #### Tobago
 
 - _Crusty Crab_: I wasn't too fond of crab and dumplings, which Tobago is famous for, but their stew chicken, steamed fish, ground provisions, and beans were all delicious.
+
+## South America
+
+### Brazil
+
+#### Rio de Janeiro (December 2023)
+
+- Eat
+  - _Churrascaria Palace_: Really excellent Brazilian barbeque near Copacabana Beach. They just keep bringing different meats, but the salad bar is full of delicious dishes as well.
+- See
+  - _Catedral Metropolitana de São Sebastião_: This cathedral was like nothing I'd seen before. The outside is hideous, but the inside is an awe-inspiring surprise.
+
+### Chile
+
+#### San Pedro de Atacama (December 2023)
+
+- Eat
+  - _Ckunza Tilar_: We didn't have any bad meals in San Pedro, but Ckunza Tilar was the best value. Their preset lunch menu was great (including the falafel!) and they serve dinner as well.
+  - Many restaurants serve the local specialty _pil pil_, in which chicken or seafood are served in a spicy, creamy garlic sauce with crispy potatoes.
+- See
+  - _Valle de la Luna_: I think this is where we had the most incredible views of our honeymoon. Be sure to take a tour; it's not very far from San Pedro. There's a great lookout point to watch the sunset from.
+- Do
+  - _Lagunas Escondidas_: The hidden lagoons are saltier than the Dead Sea, so you float right on top, in the middle of the desert, with a view of the Andes in the distance. Swimming there was like something from a dream.
+
+#### Santiago (December 2023)
+
+- Eat
+  - _Chipe Libre_: The menu has both Peruvian and Chilean food, and everything we ate there was good. They're known for the many varieties of pisco that they serve.
+- See
+  - _Catedral Metropolitano de Santiago de Chile_: Situated on Plaza de Armas, the cathedral is huge and beautiful.
+- Do
+  - _San Cristóbal Hill_: Take the cable car to the top of the hill for an amazing view of the city.
+
+### Colombia
+
+#### Bogotá (August 2023)
+
+- Eat
+  - _Azúl Restaurante_: At lunchtime, this place is full of locals enjoying the preset menu. We would each get a drink, soup, meat, rice, plantains, and a side of beans or pasta for COP 12 000.
+  - _Restaurante Balcones de la Candelaria_: It's a little bit tourist-y, but the hearty soup and giant tamale were excellent.
+- See
+  - _Botero Museum_: I didn't really appreciate Botero's work until seeing so much of it in Colombia. This museum is free and shows you Botero's influences and growth as an artist.
+- Do
+  - _Monserrate_: Take the cable car up Monserrate for the best view of Bogotá. The city itself is at high altitude, but going up Monserrate makes it even more noticeable.
+- Don't
+  - _Casa Museo Quinta de Bolívar_: Don't bother visiting this reconstruction of a house Simón Bolívar lived in. There's not much to see.
+
+#### Medellín (August 2023)
+
+- Eat
+  - I can't give a specific location, but we drank _guarapo_ from a stand on the street and it was fantastic. It's a drink made by juicing sugar cane and limes together.
+- See
+  - _Centro Comercial Palacio Nacional_: The former palace of justice is now a shopping mall, but it retains its opulent interior.
+- Do
+  - Take a ride on one of the cable cars that form part of the city's public transportation network. They're designed to help people commute from the mountainous suburbs, but they also give a great view.
+  - _Guatapé_: Take a day trip to see the rock of Guatapé and climb the stairs to the peak. Tours also stop in the town of Guatapé, the most colourful in the Americas, where each building is required by law to feature either bright colours or a mural.
+
+### Perú
+
+#### Lima (January 2023)
+
+- _Barra Maretazo_: We found this place near our hotel, open on New Year's Day. It is tourist-y but the traditional Peruvian food is well-executed.
+- Most restaurants serve _chicha morada_, a sweet purple corn juice. You wouldn't know from the taste that it's made of corn and it's really delicious.
 
 ## Europe
 
