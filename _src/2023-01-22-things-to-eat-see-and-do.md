@@ -117,7 +117,7 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 ### Perú
 
-#### Lima (January 2023)
+#### Lima (January 2024)
 
 - _Barra Maretazo_: We found this place near our hotel, open on New Year's Day. It is tourist-y but the traditional Peruvian food is well-executed.
 - Most restaurants serve _chicha morada_, a sweet purple corn juice. You wouldn't know from the taste that it's made of corn and it's really delicious.
