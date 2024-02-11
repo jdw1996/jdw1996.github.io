@@ -366,7 +366,7 @@ Judge remained stuck on 60 home runs.
 | Toronto Blue Jays | 3     | Mitch White      |
 
 White left after allowing three earned runs in 3.2 innings pitched but he got Judge out twice.
-Judge hit his 61st home run of the year off Time Mayza in the top of the seventh, tying the American League record.
+Judge hit his 61st home run of the year off Tim Mayza in the top of the seventh, tying the American League record.
 
 ## 2022-10-01
 
@@ -393,3 +393,132 @@ Otto López of Toronto got his first career hit.
 | Toronto Argonauts  | 34    | McLeod Bethel-Thompson |
 
 This was the East Division final.
+
+## 2023-02-25
+
+|                 | Score | Starting Goalie |
+| --------------- | ----- | --------------- |
+| Laval Rocket    | 2     | Cayden Primeau  |
+| Toronto Marlies | 3     | Erik Källgren   |
+
+## 2023-03-14
+
+|                       | Score |
+| --------------------- | ----- |
+| Vanderbilt Commodores | 15    |
+| Belmont Bruins        | 6     |
+
+Vanderbilt wore Lou Gehrig tribute uniforms, all with #4 on the back.
+
+## 2023-04-11
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Detroit Tigers    | 3     | Matt Manning     |
+| Toronto Blue Jays | 9     | Alek Manoah      |
+
+This game was the home opener and the public reveal of the all the new renovations to Rogers Centre.
+Kevin Kiermaier stole a home run and hit one of his own.
+
+## 2023-04-13
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Detroit Tigers    | 3     | Spencer Turnbull |
+| Toronto Blue Jays | 1     | Chris Bassitt    |
+
+## 2023-04-25
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Chicago White Sox | 0     | Mike Clevinger   |
+| Toronto Blue Jays | 7     | José Berríos     |
+
+Kevin Kiermaier hit a triple in the bottom of the fourth inning.
+Danny Jansen hit two home runs.
+Nate Pearson made his season debut.
+
+## 2023-04-28
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Seattle Mariners  | 2     | Luís Castillo    |
+| Toronto Blue Jays | 3     | Alek Manoah      |
+
+Teoscar Hernández made his return from injury.
+Both catchers, Cal Raleigh and Alejandro Kirk, hit second inning solo home runs.
+
+## 2023-05-21
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Baltimore Orioles | 8     | Dean Kremer      |
+| Toronto Blue Jays | 3     | Kevin Gausman    |
+
+## 2023-05-30
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Milwaukee Brewers | 2     | Adrian Houser    |
+| Toronto Blue Jays | 7     | Yusei Kikuchi    |
+
+Kikuchi recorded his 500th career strikeout.
+
+## 2023-06-08
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Houston Astros    | 2     | Framber Valdez   |
+| Toronto Blue Jays | 3     | José Berríos     |
+
+Brandon Belt recorded his 600th career RBI.
+
+## 2023-07-12
+
+|                     | Score |
+| ------------------- | ----- |
+| Barrie Baycats      | 5     |
+| Toronto Maple Leafs | 3     |
+
+Barrie turned a triple play: line drive to first; tag the runner from first, who didn't tag up; step on third base because the runner on third didn't tag and ran all the way home.
+
+## 2023-07-14
+
+|                      | Score | Starting Pitcher |
+| -------------------- | ----- | ---------------- |
+| Arizona Diamondbacks | 2     | Ryne Nelson      |
+| Toronto Blue Jays    | 7     | José Berríos     |
+
+This was Gabriel Moreno and Lourdes Gurriel Jr.'s first game back in Toronto.
+It was also the first game with the Blue Jays wearing advertising patches on their jerseys.
+
+## 2023-07-18
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| San Diego Padres  | 9     | Joe Musgrove     |
+| Toronto Blue Jays | 1     | Alek Manoah      |
+
+## 2023-09-09
+
+|                    | Score | Starting Pitcher |
+| ------------------ | ----- | ---------------- |
+| Kansas City Royals | 1     | James McArthur   |
+| Toronto Blue Jays  | 5     | Kevin Gausman    |
+
+## 2023-09-29
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Tampa Bay Rays    | 4     | Aaron Civale     |
+| Toronto Blue Jays | 11    | Yusei Kikuchi    |
+
+In the bottom of the fourth, Cavan Biggio hit an inside-the-park home run, but it was scored as a single and E8.
+Cam Eden had his first major league at-bat.
+
+## 2023-09-30
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Tampa Bay Rays    | 7     | Shawn Armstrong  |
+| Toronto Blue Jays | 4     | Hyun-Jin Ryu     |
