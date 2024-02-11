@@ -8,23 +8,23 @@ This post is about state nicknames.
 Every state except Wisconsin has an official one, and most states have a few additional descriptive, well-known, unofficial nicknames.
 There are a lot of teams, especially college teams, that use their state's nickname either directly or as inspiration for their mascot; here are the ones I've found:
 
-**State** | **Nickname** | **Team Name** | **League/Association**
-----------|--------------|---------------|-----------------------
-Arkansas | Natural State | Northwest Arkansas Naturals | Texas League
-Indiana | Hoosier State | Indiana Hoosiers | NCAA
-Iowa | Hawkeye State | Iowa Hawkeyes | NCAA
-Louisiana | Pelican State | New Orleans Pelicans | NBA
-Michigan | Wolverine State | Michigan Wolverines | NCAA
-Nebraska | Cornhusker State | Nebraska Cornhuskers | NCAA
-North Carolina | Tar Heel State | North Carolina Tar Heels | NCAA
-Ohio | Buckeye State | Ohio State Buckeyes | NCAA
-Oklahoma | Sooner State | Oklahoma Sooners | NCAA
-Oregon | Beaver State | Oregon State Beavers | NCAA
-South Dakota | Mount Rushmore State | Rapid City Rush | ECHL
-Tennessee | Volunteer State | Tennessee Volunteers | NCAA
-Utah | Beehive State | Salt Lake Bees | Pacific Coast League
-West Virginia | Mountain State | West Virginia Mountaineers | NCAA
-Wisconsin | Badger State | Wisconsin Badgers | NCAA
+| **State**      | **Nickname**         | **Team Name**               | **League/Association** |
+| -------------- | -------------------- | --------------------------- | ---------------------- |
+| Arkansas       | Natural State        | Northwest Arkansas Naturals | Texas League           |
+| Indiana        | Hoosier State        | Indiana Hoosiers            | NCAA                   |
+| Iowa           | Hawkeye State        | Iowa Hawkeyes               | NCAA                   |
+| Louisiana      | Pelican State        | New Orleans Pelicans        | NBA                    |
+| Michigan       | Wolverine State      | Michigan Wolverines         | NCAA                   |
+| Nebraska       | Cornhusker State     | Nebraska Cornhuskers        | NCAA                   |
+| North Carolina | Tar Heel State       | North Carolina Tar Heels    | NCAA                   |
+| Ohio           | Buckeye State        | Ohio State Buckeyes         | NCAA                   |
+| Oklahoma       | Sooner State         | Oklahoma Sooners            | NCAA                   |
+| Oregon         | Beaver State         | Oregon State Beavers        | NCAA                   |
+| South Dakota   | Mount Rushmore State | Rapid City Rush             | ECHL                   |
+| Tennessee      | Volunteer State      | Tennessee Volunteers        | NCAA                   |
+| Utah           | Beehive State        | Salt Lake Bees              | Pacific Coast League   |
+| West Virginia  | Mountain State       | West Virginia Mountaineers  | NCAA                   |
+| Wisconsin      | Badger State         | Wisconsin Badgers           | NCAA                   |
 
 With these in mind, I thought it would be interesting to see how other state nicknames would translate to team names, logos, and uniform designs.
 I'll add designs to this post as I finish them.
@@ -33,47 +33,47 @@ I'm not going to work in any particular order.
 
 Here are the ideas for teams I have so far, subject to change:
 
-**State** | **Nickname** | **Team Name** | **Sport**
-----------|--------------|---------------|----------
-Alabama | Yellowhammer State | Montgomery Yellowhammers | Hockey
-Alaska | The Last Frontier | Fairbanks Frontiersmen | Hockey
-Arizona | Grand Canyon State | Flagstaff Canyon SC | Soccer
-California | Golden State | Sacramento Gold | Baseball
-Colorado | Centennial State | Lakewood Centennials | Hockey
-Connecticut | Constitution State | Hartford Constitution | Basketball
-Delaware | First State | Wilmington Firsts | Hockey
-Florida | Sunshine State | [Sarasota Shiners](#florida-sarasota-shiners) | Hockey
-Georgia | Peach State | Savannah Peaches | Basketball
-Hawaii | Aloha State | Honolulu Alohas | Basketball
-Idaho | Gem State | Boise Gems | Football
-Illinois | Prairie State | ????? | ?????
-Kansas | Sunflower State | Wichita Sunflowers | Basketball
-Kentucky | Bluegrass State | Lexington Bluegrass | Baseball
-Massachusetts | Bay State | Provincetown Bays | Baseball
-Maryland | Old Line State | ????? | ?????
-Maine | Pine Tree State | Augusta Pines | Hockey
-Minnesota | Land of 10,000 Lakes | Twin Cities Lakers | Baseball
-Missouri | Show-Me State | ????? | ?????
-Mississippi | Magnolia State | Jackson Magnolias | Soccer
-Montana | Treasure State | Helena Treasures | Football
-Nevada | Silver State | Silver Carson City | Soccer
-New Hampshire | Granite State | Manchester Granites | Baseball
-New Jersey | Garden State | [Jersey City Gardeners](#new-jersey-jersey-city-gardeners) | Baseball
-New Mexico | Land of Enchantment | [Santa Fe Enchanters](#new-mexico-santa-fe-enchanters) | Football
-New York | Empire State | Staten Island Emperors | Basketball
-North Dakota | Peace Garden State | ????? | ?????
-Pennsylvania | Keystone State | Harrisburg Keystones | Football
-Rhode Island | Ocean State | Providence Ocean SC | Soccer
-South Carolina | Palmetto State | Charleston Palmettos | Basketball
-Texas | Lone Star State | Austin Lone Stars | Football
-Vermont | Green Mountain State | ????? | ?????
-Virginia | Old Dominion State | Norfolk Dominion SC | Soccer
-Washington | Evergreen State | Olympia Evergreen SC | Soccer
-Wyoming | Equality State | ????? | ?????
+| **State**      | **Nickname**         | **Team Name**                                              | **Sport**  |
+| -------------- | -------------------- | ---------------------------------------------------------- | ---------- |
+| Alabama        | Yellowhammer State   | Montgomery Yellowhammers                                   | Hockey     |
+| Alaska         | The Last Frontier    | Fairbanks Frontiersmen                                     | Hockey     |
+| Arizona        | Grand Canyon State   | Flagstaff Canyon SC                                        | Soccer     |
+| California     | Golden State         | Sacramento Gold                                            | Baseball   |
+| Colorado       | Centennial State     | Lakewood Centennials                                       | Hockey     |
+| Connecticut    | Constitution State   | Hartford Constitution                                      | Basketball |
+| Delaware       | First State          | Wilmington Firsts                                          | Hockey     |
+| Florida        | Sunshine State       | [Sarasota Shiners](#florida-sarasota-shiners)              | Hockey     |
+| Georgia        | Peach State          | Savannah Peaches                                           | Basketball |
+| Hawaii         | Aloha State          | Honolulu Alohas                                            | Basketball |
+| Idaho          | Gem State            | Boise Gems                                                 | Football   |
+| Illinois       | Prairie State        | ?????                                                      | ?????      |
+| Kansas         | Sunflower State      | Wichita Sunflowers                                         | Basketball |
+| Kentucky       | Bluegrass State      | Lexington Bluegrass                                        | Baseball   |
+| Massachusetts  | Bay State            | Provincetown Bays                                          | Baseball   |
+| Maryland       | Old Line State       | ?????                                                      | ?????      |
+| Maine          | Pine Tree State      | Augusta Pines                                              | Hockey     |
+| Minnesota      | Land of 10,000 Lakes | Twin Cities Lakers                                         | Baseball   |
+| Missouri       | Show-Me State        | ?????                                                      | ?????      |
+| Mississippi    | Magnolia State       | Jackson Magnolias                                          | Soccer     |
+| Montana        | Treasure State       | Helena Treasures                                           | Football   |
+| Nevada         | Silver State         | Silver Carson City                                         | Soccer     |
+| New Hampshire  | Granite State        | Manchester Granites                                        | Baseball   |
+| New Jersey     | Garden State         | [Jersey City Gardeners](#new-jersey-jersey-city-gardeners) | Baseball   |
+| New Mexico     | Land of Enchantment  | [Santa Fe Enchanters](#new-mexico-santa-fe-enchanters)     | Football   |
+| New York       | Empire State         | Staten Island Emperors                                     | Basketball |
+| North Dakota   | Peace Garden State   | ?????                                                      | ?????      |
+| Pennsylvania   | Keystone State       | Harrisburg Keystones                                       | Football   |
+| Rhode Island   | Ocean State          | Providence Ocean SC                                        | Soccer     |
+| South Carolina | Palmetto State       | Charleston Palmettos                                       | Basketball |
+| Texas          | Lone Star State      | Austin Lone Stars                                          | Football   |
+| Vermont        | Green Mountain State | ?????                                                      | ?????      |
+| Virginia       | Old Dominion State   | Norfolk Dominion SC                                        | Soccer     |
+| Washington     | Evergreen State      | Olympia Evergreen SC                                       | Soccer     |
+| Wyoming        | Equality State       | ?????                                                      | ?????      |
 
 ## FLORIDA: Sarasota Shiners
 
-*February-April 2020*
+_February-April 2020_
 
 In a lot of cases I've chosen state capitals or largest cities to base these teams in, but that wasn't the case here.
 I'm trying to avoid putting teams in cities that already have teams playing at the top level of the same sport, which ruled out the Miami and Tampa Bay areas.
@@ -103,7 +103,7 @@ The black base with orange and yellow gives it a strong ['80s Canucks vibe](http
 
 ## NEW JERSEY: Jersey City Gardeners
 
-*April 2020*
+_April 2020_
 
 I started thinking about this one pretty early in the process of conceptualizing teams, since I live in Jersey City.
 Some of the earliest organized baseball was played in [Elysian Fields in Hoboken](https://en.wikipedia.org/wiki/Elysian_Fields,_Hoboken,_New_Jersey), just north of Jersey City, and "Gardeners" is the sort of timeless, non-threatening nickname I think of old baseball teams using (e.g. Athletics, Red Sox, Dodgers), so it seemed natural to make this a baseball team.
@@ -137,7 +137,7 @@ I didn't come across any inspiring nicknames for the state other than the well k
 
 ## NEW MEXICO: Santa Fe Enchanters
 
-*May 2020*
+_May 2020_
 
 I've never been to New Mexico, and I don't know too much about it.
 That being said, I am a big fan of the [New Mexico state flag](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_New_Mexico.svg/1280px-Flag_of_New_Mexico.svg.png).
