@@ -1,6 +1,6 @@
 <!-- Joseph Winters -->
 
-I'm Joseph Winters and I'm a software developer.
+I'm Joseph Winters and I'm a software developer at [Kijiji](https://www.kijiji.ca/).
 In the past, I've worked at [HomeX](https://homex.com/), [Broadway Technology](http://www.broadwaytechnology.com/), [SAP](https://sap.com), [Jonah Group](https://www.jonahgroup.com) and TrustPoint Innovation Technologies (now a part of [ESCRYPT](https://escrypt.com)).
 I graduated from the [University of Waterloo](https://uwaterloo.ca/) in 2019 with a Bachelor of Mathematics degree with a major in [combinatorics and optimization](https://uwaterloo.ca/combinatorics-and-optimization/) and minors in [computer science](https://cs.uwaterloo.ca/) and [pure mathematics](https://uwaterloo.ca/pure-mathematics/).
 
