@@ -32,6 +32,8 @@ I have either the neighbourhood or venue of the concert recorded for each
 | 2023-01-20              | David James Allen, Union Duke                                                  | The Garrison             |                   | Toronto   |
 | 2023-03-03              | Magi Merlin, Busty and the Bass                                                | Drake Underground        |                   | Toronto   |
 | 2023-03-31              | Basement Apartment, Sister Swire                                               | Black Pearl              |                   | Toronto   |
+| 2023-04-22              | Adult Recreation Centre                                                        | The Hub                  |                   | Kitchener |
 | 2023-05-05              | Marina Allen, Andy Shauf                                                       | Massey Hall              |                   | Toronto   |
 | 2023-06-04              | Stephen Wilson Jr., Charley Crockett                                           | Danforth Music Hall      |                   | Toronto   |
 | 2023-07-08              | Cancer Bats, Cypress Hill, Billy Talent                                        | Budweiser Stage          |                   | Toronto   |
+| 2023-11-17              | Adult Recreation Centre, Halloween Animals, Red Output                         | The Hub                  |                   | Kitchener |
