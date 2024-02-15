@@ -86,16 +86,16 @@ Hence, the primary logo is a pun; it's a hockey mask with a black eye, except th
 The secondary logo, which appears on the shoulders of all three jerseys, depicts the state of Florida with a similar sunshine pattern centred on Sarasota on the Gulf Coast.
 Admittedly the geometry of this secondary logo was another part of the reason I chose Sarasota.
 
-<img src="img/state-nickname-teams/fl-primary.svg" style="width: 300px; height: 300px" />
-<img src="img/state-nickname-teams/fl-secondary.svg" style="width: 300px; height: 300px" />
+<img src="img/state-nickname-teams/fl-primary.svg" class="image-300" />
+<img src="img/state-nickname-teams/fl-secondary.svg" class="image-300" />
 
 The alternate logo is a reference to Florida's unofficial nickname, "Alligator State".
 
-<img src="img/state-nickname-teams/fl-alt.svg" style="width: 500px; height: 500px" />
+<img src="img/state-nickname-teams/fl-alt.svg" class="image-500" />
 
 And, of course, the jerseys, which use the [Face Off M54 font](https://www.fontspace.com/face-off-m54-font-f10758) and [Steven Grant's template](http://stevengrantdesign.blogspot.com/p/templates.html):
 
-<img src="img/state-nickname-teams/fl-uniforms.svg" style="width: 600px; height: 900" />
+<img src="img/state-nickname-teams/fl-uniforms.svg" class="image-600" />
 
 I played around with several different colour schemes, including yellow/orange/double green and yellow/orange/black/turquoise, but ultimately the cleaner look of yellow/orange/black prevailed.
 As you can see, I added green for the alligator on the alternate jersey, and I considered adding more throughout that jersey as well, but eventually decided to focus on team colours outside of the necessary green in the logo.
@@ -116,15 +116,15 @@ I quite liked the combination, so that's what I stuck with for the Gardeners, al
 The cap logo is a "JC" monogram with a few leaves representing the team name; that seemed the best fit for the classic look I was aiming for with the two regular uniforms for the team.
 I also created an "NJ" monogram in the same style to represent the state.
 
-<img src="img/state-nickname-teams/nj-primary.svg" style="width: 500px; height: 500px" />
+<img src="img/state-nickname-teams/nj-primary.svg" class="image-500" />
 
 I also created a secondary "green thumb" logo that's used on the sleeves of the home and away jerseys, and on the fronts of the two alternates.
 
-<img src="img/state-nickname-teams/nj-secondary.svg" style="width: 500px; height: 500px" />
+<img src="img/state-nickname-teams/nj-secondary.svg" class="image-500" />
 
 The uniforms use [Academic M54 font](https://www.fontspace.com/academic-m54-font-f8942) and a template based on the [one found here](https://www.azsnakepit.com/2014/4/18/5620778/the-wild-card-expansion-franchise-thought-experiment).
 
-<img src="img/state-nickname-teams/nj-uniforms.svg" style="width: 600px; height: 1200" />
+<img src="img/state-nickname-teams/nj-uniforms.svg" class="image-600" />
 
 Traditionally, the road uniform should be grey, but that would have clashed with the brick red and green and especially the buff of the team's actual colour scheme.
 Hence, I settled on buff jerseys with an otherwise traditional look.
@@ -148,16 +148,16 @@ The stripes of the sun play more of a role in the uniforms and the tertiary logo
 Eventually I settled on a throwback-style cartoon of a wizard playing football, similar to the old [Dallas Texans](https://www.sportslogos.net/logos/view/414/Dallas_Texans/1960/Primary_Logo) and [Kansas City Chiefs](https://www.sportslogos.net/logos/view/2aqyixgohws3xwl7zir9/Kansas_City_Chiefs/1963/Primary_Logo) logos.
 I decided to put the character's head on the team's helmets and though the full-body version doesn't appear anywhere on the uniforms, I imagine it being used in branding and merchandise.
 
-<img src="img/state-nickname-teams/nm-primary.svg" style="width: 300px; height: 300px" />
-<img src="img/state-nickname-teams/nm-secondary.svg" style="width: 300px; height: 300px" />
+<img src="img/state-nickname-teams/nm-primary.svg" class="image-300" />
+<img src="img/state-nickname-teams/nm-secondary.svg" class="image-300" />
 
 The tertiary logo is a football with the laces replaced with the stripes from the Zia sun symbol.
 
-<img src="img/state-nickname-teams/nm-tertiary.svg" style="width: 500px; height: 300px" />
+<img src="img/state-nickname-teams/nm-tertiary.svg" class="image-500" />
 
 The uniforms use [K. O. Activista font](https://fontlibrary.org/en/font/k-o-activista) and a template I created myself.
 
-<img src="img/state-nickname-teams/nm-uniforms.svg" style="width: 500px; height: 2350px" />
+<img src="img/state-nickname-teams/nm-uniforms.svg" class="image-500" />
 
 The uniforms include jerseys and pants in red, yellow, and white, such that they could be mixed and matched.
 The four stripe pattern appears four times on each of the first three uniforms: on either side of the pants, on the helmet, and in the logo on the left sleeve.

@@ -1,7 +1,6 @@
 :root {
   --fg-colour: black;
   --bg-colour: white;
-  --accent-colour: #0044ee;
   --code-bg-colour: #f4f4f4;
 }
 
@@ -62,4 +61,24 @@ td {
 
 .index-date {
   font-size: 0.8em;
+}
+
+.image-full-width {
+  width: 100%;
+}
+.image-300 {
+  max-width: 100%;
+  width: 300px;
+}
+.image-400 {
+  max-width: 100%;
+  width: 400px;
+}
+.image-500 {
+  max-width: 100%;
+  width: 500px;
+}
+.image-600 {
+  max-width: 100%;
+  width: 600px;
 }

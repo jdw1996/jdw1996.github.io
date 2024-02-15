@@ -12,6 +12,7 @@ Like the real life Silver Hawks, I used green, yellow, and silver, but I came up
 The 'S' in the monogram is based on the 'S' in [the Studebaker script](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Studewheellogo.jpg/200px-Studewheellogo.jpg), but with a wing, to represent the Hawks, and a baseball, inspired by [the old Phillies logo](http://www.sportslogos.net/logos/view/xpq3kkv2xh3lketdfm89/Philadelphia_Phillies/1982/Primary_Logo).
 I do realize that birds don't have teeth, but I wanted to include them as a callback to the [old hawk logo](http://www.sportslogos.net/logos/view/hhfyfy05nzeyflxjvuegmd2eu/South_Bend_Silver_Hawks/2009/Alternate_Logo).
 
-<img src="img/misc-logos/monogram-on-green.svg" style="width: 300px; height: 300px" />
-<img src="img/misc-logos/monogram-on-silver.svg" style="width: 300px; height: 300px" /><br>
-<img src="img/misc-logos/hawk-fin.svg" style="width: 500px; height: 500px" />
+<img src="img/misc-logos/monogram-on-green.svg" class="image-300" />
+<img src="img/misc-logos/monogram-on-silver.svg" class="image-300" />
+
+<img src="img/misc-logos/hawk-fin.svg" class="image-500" />

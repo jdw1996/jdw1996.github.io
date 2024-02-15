@@ -20,34 +20,34 @@ It really is about answering "They Play Where Now?" so I'm not surprised when I 
 
 ## 2021 MLB Trade Deadline
 
-<img src="img/they-play-where-now/2021-mlb-trade-deadline.png" style="width: 100%" />
+<img src="img/they-play-where-now/2021-mlb-trade-deadline.png" class="image-full-width" />
 
 ## 2021 NHL Free Agency
 
-<img src="img/they-play-where-now/2021-nhl-free-agency.png" style="width: 100%" />
+<img src="img/they-play-where-now/2021-nhl-free-agency.png" class="image-full-width" />
 
 ## 2022 NHL Trade Deadline
 
-<img src="img/they-play-where-now/2022-nhl-trade-deadline.png" style="width: 100%" />
+<img src="img/they-play-where-now/2022-nhl-trade-deadline.png" class="image-full-width" />
 
 ## 2022 F1
 
-<img src="img/they-play-where-now/2022-f1.png" style="width: 100%" />
+<img src="img/they-play-where-now/2022-f1.png" class="image-full-width" />
 
 ## 2021 MLB Free Agency
 
 Note that Sean Manaea was traded from Oakland to San Diego after I made this graphic, but before the start of the season.
 
-<img src="img/they-play-where-now/2021-mlb-free-agency.png" style="width: 100%" />
+<img src="img/they-play-where-now/2021-mlb-free-agency.png" class="image-full-width" />
 
 ## 2022 MLB Trade Deadline
 
-<img src="img/they-play-where-now/2022-mlb-trade-deadline.png" style="width: 100%" />
+<img src="img/they-play-where-now/2022-mlb-trade-deadline.png" class="image-full-width" />
 
 ## 2022 NHL Free Agency
 
-<img src="img/they-play-where-now/2022-nhl-free-agency.png" style="width: 100%" />
+<img src="img/they-play-where-now/2022-nhl-free-agency.png" class="image-full-width" />
 
 ## 2023 F1
 
-<img src="img/they-play-where-now/2023-f1.png" style="width: 100%" />
+<img src="img/they-play-where-now/2023-f1.png" class="image-full-width" />
