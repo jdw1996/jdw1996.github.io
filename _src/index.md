@@ -17,6 +17,7 @@ I graduated from the [University of Waterloo](https://uwaterloo.ca/) in 2019 wit
 
 <!-- - [Title](/link) <span class="index-date">[date]</span> -->
 
+- [Championship Posters](/2024-02-17-championship-posters.html) <span class="index-date">[2024-02-17]</span>
 - [Concerts I Attended](/2024-02-11-concerts-i-attended.html) <span class="index-date">[2024-02-11]</span>
 - [Sporting Events I Attended](/2023-01-28-sporting-events-i-attended.html) <span class="index-date">[2023-01-28]</span>
 - [Things to Eat, See, and Do](/2023-01-22-things-to-eat-see-and-do.html) <span class="index-date">[2023-01-22]</span>
