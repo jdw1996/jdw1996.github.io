@@ -75,7 +75,7 @@ Both use gold prominently, along with red and a darker shade, black and grey for
 Both have shields in their logos.
 I averaged a colour between Vegas grey and Florida navy for the background and picked a shield shape somewhere between the two.
 The main imagery was a split between the Knights' mask and the Panther head, but I went back to the [superior front-facing panther for inspiration, specifically the simplified one in the roundel](https://www.sportslogos.net/logos/view/ejsvf6ira3ggsff4mjrxh4ree/Florida_Panthers/2010/Alternate_Logo).
-When Florida went through their most recent redesign, they introduced an [updated front-facing panther](https://www.sportslogos.net/logos/view/1322432017/Florida_Panthers/2017/Alternate_Logo) but then never used it on a jersey, which is a waste because it's a much more unique logo.
+When Florida went through their most recent redesign, they introduced an [updated front-facing panther](https://www.sportslogos.net/logos/view/1322432017/Florida_Panthers/2017/Alternate_Logo) but then never used it on a jersey, which is a waste because it's a much more impactful logo.
 
 <img src="img/2024-02-17-championship-posters/2023-stanley-cup.png" class="image-full-width" />
 
