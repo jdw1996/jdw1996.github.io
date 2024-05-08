@@ -57,8 +57,10 @@ The idea is to update this list over time instead of posting new lists in the fu
   - _Swaggy's Roti_: I had their stew chicken and it was delicious.
   - You can't visit Trinidad without trying _doubles_. This is the most iconic Trini street food and consists of two _bara_ (fried bread), _chana_ (curried chickpeas), and lots of different sauces as toppings. They are incredibly delicious. Proper procedure is to wash your hands (even doubles carts will provide some water to wash up), order, eat, and then pay after you're done eating. Just a few will fill you, and they are cheap at about six TT dollars apiece.
 - See
-  - _Ariapita Avenue_: This is the key nightlife street in Port of Spain. You can have a nice self-guided food tour by going to the food trucks on the Savannah and then visiting the Avenue.
   - _Queen's Park Savannah_: This large park is in the middle of the world's largest roundabout. It has carnival facilities, an area for food stalls, and other attractions.
+- Do
+  - _Ariapita Avenue_: This is the key nightlife street in Port of Spain. You can have a nice self-guided food tour by going to the food trucks on the Savannah and then visiting the Avenue.
+  - _Las Cuevas_: Of the beaches I've been to in Trinidad, Las Cuevas was my favourite. It's a little farther than Maracas, which is the most popular beach on the island, but it's calmer and has some cool caves along the beach. You can spend a day driving up to Maracas and Las Cuevas, with a stop for bake and shark for lunch on Maracas Beach.
 
 #### Tobago
 
