@@ -28,7 +28,17 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 ### United States
 
-#### Nashville (March 2023)
+#### Miami, FL (May 2019)
+
+- Eat
+  - _El Mago de las Fritas_: A little out of the way, but it's worth the trip for the Cuban _fritas_, a version of hamburgers.
+  - _El Rey de las Fritas_: On Calle Ocho, walking distance from the baseball stadium, they serve delicious fritas.
+- See
+  - _Vizcaya Museum & Gardens_: This old mansion was turned into a museum with a beautiful garden and ocean views.
+- Do
+  - You can walk over the causeway from downtown Miami to Miami Beach. It takes a while and the sun can be hot, but it's really cool to walk across the water and see all the houses along the way.
+
+#### Nashville, TN (March 2023)
 
 - Eat
   - _Biscuit Love_: Best biscuits I've ever had. They're flaky like a croissant, but still distinctly biscuits. Try the chronic bacon too.
@@ -44,11 +54,15 @@ The idea is to update this list over time instead of posting new lists in the fu
 - Do
   - _Korean War Veterans Memorial Bridge_ or _John Seigenthaler Pedestrian Bridge_: Walking over either bridge gives a good view of the city skyline.
 
-#### New York City (June 2022)
+#### New York, NY (June 2022)
 
 [See my separate post on NYC.](/2019-03-08-things-to-see-and-do-in-nyc)
 
-### Trinidad and Tobago (July 2023)
+#### Syracuse, NY (June 2024)
+
+- _Dinosaur Bar-B-Que_: Delicious southern barbeque in central New York state; I'm partial to the pulled pork.
+
+### Trinidad and Tobago (May 2024)
 
 #### Trinidad
 
