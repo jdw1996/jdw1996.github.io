@@ -11,12 +11,24 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 ### Canada
 
-#### Kitchener-Waterloo
+#### Kitchener-Waterloo, ON
 
 - _La Cucina_: Really nice Italian in downtown Kitchener.
 - _Lancaster Smokehouse_: My favourite restaurant in KW, they do really solid southern-style barbeque. The pulled pork is my recommendation.
 
-#### Toronto
+#### Montreal, QC
+
+- _Brit & Chips_: They serve nice and crispy fish and chips in a cool diner. The maple battered fish was good, but not as good as the traditional version.
+- _Satay Brothers Resto_: This Singaporean restaurant was packed the night we were there, and we really enjoyed trying a variety of dishes. The bao buns were a highlight.
+
+#### Ottawa, ON
+
+- Eat
+  - _Khao Thai_: Our best meal in Ottawa was at this Thai restaurant in Byward Market.
+- See
+  - _Royal Canadian Mint_: The Mint has a really cool tour where you can see the factory floor where they make coins.
+
+#### Toronto, ON
 
 - _Burgers n' Fries Forever_: Very good burgers and fries.
 - _Little India_: A little more formal than some Indian restaurants, they have excellent lamb vindaloo.
@@ -27,6 +39,10 @@ The idea is to update this list over time instead of posting new lists in the fu
 - _Sizzler Kabab_: My favourite butter chicken, with big chunks of meat and lots of flavour. And delicious garlic naan slathered in butter.
 
 ### United States
+
+#### Chicago, IL (October 2024)
+
+- _Pizzeria Due_: A second location for the famous Pizzeria Uno, located one block away. The deep dish and tavern-style pizza were both delicious.
 
 #### Miami, FL (May 2019)
 
