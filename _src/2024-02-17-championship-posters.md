@@ -104,3 +104,26 @@ From there I extrapolated similar monograms for every team in the league and inc
 Of course I let SF and KC stand out in the middle, and generally kept NFC teams on the left and AFC on the right, with playoff teams closer to the centre.
 
 <img src="img/2024-02-17-championship-posters/sblviii.png" class="image-full-width" />
+
+## 2024 NBA Finals
+
+Boston Celtics 4, Dallas Mavericks 1
+
+"First ever all-'\*ic(k)(s)' NBA finals match-up. Among five NBA teams with '\*ic(k)(s)' names (Celtics, Knicks, Magic, Mavericks, Supersonics), no pair had ever faced off in the finals before this year."
+
+The Mavericks' 'M' fits into the Celtics' shamrock well.
+The background is half parquet for the Celtics and half a wavy pattern inspired by the Mavericks' infamous "trash bag" uniforms.
+
+<img src="img/2024-02-17-championship-posters/2024-nba-finals.png" class="image-full-width" />
+
+## 2024 Stanley Cup Finals
+
+Florida Panthers 4, Edmonton Oilers 3
+
+"First all-'\*ers' Stanley Cup final match-up outside the '80s, when the Oilers, Flyers, and Islanders all played each other."
+
+Panthers colours are surprisingly close to the old copper/red/navy Oilers uniforms.
+While oil drips down from the top of the circle, the sun rises from the bottom.
+The Panthers have used logos featuring the sun before, plus they play in the city of Sunrise.
+
+<img src="img/2024-02-17-championship-posters/2024-stanley-cup.png" class="image-full-width" />
