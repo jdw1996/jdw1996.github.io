@@ -127,3 +127,13 @@ While oil drips down from the top of the circle, the sun rises from the bottom.
 The Panthers have used logos featuring the sun before, plus they play in the city of Sunrise.
 
 <img src="img/2024-02-17-championship-posters/2024-stanley-cup.png" class="image-full-width" />
+
+## 2024 World Series
+
+Los Angeles Dodgers 4, New York Yankees 1
+
+Bronx Bombers vs Brooklyn Bums
+
+This is a simple design for two teams with classic looks: the Dodgers flying ball and the Yankees' pinstripes.
+
+<img src="img/2024-02-17-championship-posters/2024-world-series.png" class="image-full-width" />
