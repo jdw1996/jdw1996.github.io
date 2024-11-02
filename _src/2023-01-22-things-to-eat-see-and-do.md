@@ -16,12 +16,12 @@ The idea is to update this list over time instead of posting new lists in the fu
 - _La Cucina_: Really nice Italian in downtown Kitchener.
 - _Lancaster Smokehouse_: My favourite restaurant in KW, they do really solid southern-style barbeque. The pulled pork is my recommendation.
 
-#### Montreal, QC
+#### Montreal, QC (August 2024)
 
 - _Brit & Chips_: They serve nice and crispy fish and chips in a cool diner. The maple battered fish was good, but not as good as the traditional version.
 - _Satay Brothers Resto_: This Singaporean restaurant was packed the night we were there, and we really enjoyed trying a variety of dishes. The bao buns were a highlight.
 
-#### Ottawa, ON
+#### Ottawa, ON (August 2024)
 
 - Eat
   - _Khao Thai_: Our best meal in Ottawa was at this Thai restaurant in Byward Market.
@@ -78,9 +78,9 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 - _Dinosaur Bar-B-Que_: Delicious southern barbeque in central New York state; I'm partial to the pulled pork.
 
-### Trinidad and Tobago (May 2024)
+### Trinidad and Tobago
 
-#### Trinidad
+#### Trinidad (May 2024)
 
 - Eat
   - _Wings Roti Shop_: You get to choose from a variety of veggie and meat curries, eaten with roti. All that I tried were good but the pumpkin and mango stand out.
@@ -92,7 +92,7 @@ The idea is to update this list over time instead of posting new lists in the fu
   - _Ariapita Avenue_: This is the key nightlife street in Port of Spain. You can have a nice self-guided food tour by going to the food trucks on the Savannah and then visiting the Avenue.
   - _Las Cuevas_: Of the beaches I've been to in Trinidad, Las Cuevas was my favourite. It's a little farther than Maracas, which is the most popular beach on the island, but it's calmer and has some cool caves along the beach. You can spend a day driving up to Maracas and Las Cuevas, with a stop for bake and shark for lunch on Maracas Beach.
 
-#### Tobago
+#### Tobago (June 2023)
 
 - _Crusty Crab_: I wasn't too fond of crab and dumplings, which Tobago is famous for, but their stew chicken, steamed fish, ground provisions, and beans were all delicious.
 
@@ -183,7 +183,7 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 ### South Africa
 
-#### Cape Town (October-November 2022)
+#### Cape Town (November 2022)
 
 - Eat
   - _Bihari_: Nice Indian restaurant in a hotel.
