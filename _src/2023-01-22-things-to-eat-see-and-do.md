@@ -80,11 +80,12 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 ### Trinidad and Tobago
 
-#### Trinidad (May 2024)
+#### Trinidad (December 2024)
 
 - Eat
-  - _Wings Roti Shop_: You get to choose from a variety of veggie and meat curries, eaten with roti. All that I tried were good but the pumpkin and mango stand out.
+  - _Jenny's on the Boulevard_: I didn't really understand Trini Chinese food until I went to Jenny's. It's more flavourful than what I've had anywhere else.
   - _Swaggy's Roti_: I had their stew chicken and it was delicious.
+  - _Wings Roti Shop_: You get to choose from a variety of veggie and meat curries, eaten with roti. All that I tried were good but the pumpkin and mango stand out.
   - You can't visit Trinidad without trying _doubles_. This is the most iconic Trini street food and consists of two _bara_ (fried bread), _chana_ (curried chickpeas), and lots of different sauces as toppings. They are incredibly delicious. Proper procedure is to wash your hands (even doubles carts will provide some water to wash up), order, eat, and then pay after you're done eating. Just a few will fill you, and they are cheap at about six TT dollars apiece.
 - See
   - _Queen's Park Savannah_: This large park is in the middle of the world's largest roundabout. It has carnival facilities, an area for food stalls, and other attractions.
