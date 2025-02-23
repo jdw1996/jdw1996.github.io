@@ -522,3 +522,70 @@ Cam Eden had his first major league at-bat.
 | ----------------- | ----- | ---------------- |
 | Tampa Bay Rays    | 7     | Shawn Armstrong  |
 | Toronto Blue Jays | 4     | Hyun-Jin Ryu     |
+
+## 2024-05-12
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Minnesota Twins   | 5     | Bailey Ober      |
+| Toronto Blue Jays | 1     | Alek Manoah      |
+
+## 2024-06-15
+
+|                     | Score | Starting Pitcher |
+| ------------------- | ----- | ---------------- |
+| Cleveland Guardians | 0     | Carlos Carrasco  |
+| Toronto Blue Jays   | 5     | Trevor Richards  |
+
+## 2024-06-18
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Boston Red Sox    | 4     | Tanner Houck     |
+| Toronto Blue Jays | 3     | Chris Bassitt    |
+
+## 2024-06-19
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Boston Red Sox    | 7     | Brayan Bello     |
+| Toronto Blue Jays | 3     | Kevin Gausman    |
+
+## 2024-07-31
+
+|                     | Score |
+| ------------------- | ----- |
+| Hamilton Cardinals  | 18    |
+| Toronto Maple Leafs | 5     |
+
+## 2024-08-10
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Oakland Athletics | 1     | Osvaldo Bido     |
+| Toronto Blue Jays | 0     | Yariel Rodríguez |
+
+## 2024-09-10
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| New York Mets     | 2     | David Peterson   |
+| Toronto Blue Jays | 6     | Chris Bassitt    |
+
+Davis Schneider and Ernie Clement both tripled.
+
+## 2024-09-26
+
+|                     | Score | Starting Goalie |
+| ------------------- | ----- | --------------- |
+| Montreal Canadiens  | 1     | Jakub Dobes     |
+| Toronto Maple Leafs | 2     | Anthony Stolarz |
+
+## 2024-11-02
+
+|                   | Score | Starting Quarterback |
+| ----------------- | ----- | -------------------- |
+| Ottawa RedBlacks  | 38    | Dru Brown            |
+| Toronto Argonauts | 58    | Chad Kelly           |
+
+Toronto had two defensive touchdowns in the fourht quarter.
