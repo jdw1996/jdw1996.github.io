@@ -137,3 +137,12 @@ Bronx Bombers vs Brooklyn Bums
 This is a simple design for two teams with classic looks: the Dodgers flying ball and the Yankees' pinstripes.
 
 <img src="img/2024-02-17-championship-posters/2024-world-series.png" class="image-full-width" />
+
+## Super Bowl LIX
+
+Philadelphia Eagles 40, Kansas City 22
+
+Since this was a rematch of Super Bowl LVII, I had to come up with a new angle.
+This one is based on the Ishihara Test for colour blindness.
+
+<img src="img/2024-02-17-championship-posters/sblix.png" class="image-full-width" />
