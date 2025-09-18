@@ -36,6 +36,7 @@ The idea is to update this list over time instead of posting new lists in the fu
 - _Milagro_: Slightly upscale Mexican close to the Skydome.
 - _Planta_: Vegan food that you wouldn't guess was vegan. There are a few locations but the Asian fusion one on Queen West is my favourite.
 - _Salad King_: Cheap Thai and other southeast Asian food, there are a couple locations.
+- _Salt and Tobacco_: They make really crispy and flavourful pizza in a wood oven. I was there on a cold winter night and the aroma when I opened the door to the restaurant was heavenly.
 - _Sizzler Kabab_: My favourite butter chicken, with big chunks of meat and lots of flavour. And delicious garlic naan slathered in butter.
 
 ### United States
@@ -182,9 +183,26 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 ## Africa
 
+### Kenya
+
+- If you're staying for a longer time, it's worth setting up Mpesa, an electronic payment system that has mostly replaced cash. You'll need a SIM card and you'll have to find a way to transfer money to the account. I used a debit card to put money in my Wise account, then transferred from there to Mpesa.
+
+### Namibia
+
+#### Sossusvlei (March 2025)
+
+- _Big Daddy Dune_: If you are headed to Sossusvlei, it is most likely to see Deadvlei, but for me the best view of Deadvlei was from the top of Big Daddy Dune. Climbing up sand is hard work, but there's a big payoff at the peak and you can get back down very quickly, as the sand lets you slide right down.
+
+#### Swakopmund (March 2025)
+
+- Eat
+  - _Farmhouse Deli_: This is one of a line of restaurants on the waterfront of Swakopmund, but the best thing I ate in Namibia was their oryx ragu.
+- Do
+  - _Sandwich Harbour_: On one side there are dunes as far as the eye can see and on the other you overlook the south Atlantic. It is totally worth a tour that will take you for a ride up the dunes, which is known as the "Namibian roller coaster".
+
 ### South Africa
 
-#### Cape Town (November 2022)
+#### Cape Town (March 2025)
 
 - Eat
   - _Bihari_: Nice Indian restaurant in a hotel.
@@ -196,3 +214,162 @@ The idea is to update this list over time instead of posting new lists in the fu
   - _Table Mountain_: Take the cable car to the top for incredible views on all sides.
 - Do
   - _Ocean Wonder_: Ride around the harbour in a very small boat to get up-close views of local wildlife.
+
+### Tanzania
+
+- If you're going to Zanzibar, avoid Dar es Salaam and the ferry terminal, which is total bedlam. Getting a flight from Dar es Salaam airport to Zanzibar is about the same price and you can skip going to the city altogether.
+
+#### Zanzibar (March 2025)
+
+- _Maru Maru_: We were not enamoured with the restaurant options in Zanzibar, but in terms of quality and value, Maru Maru Hotel's rooftop restaurant was the best we found. My favourite dish was the Zanzibar-style chicken curry.
+
+## Asia
+
+### China
+
+#### Hong Kong (June 2025)
+
+- Eat
+  - _Dim Sum Here_: All the dim sum we tried at this busy spot in Kowloon was excellent.
+- See
+  - _Peak Galleria_: If you're taking the tram up to Victoria Peak, they'll try to sell you a ticket to the Peak Tower observation deck. Don't buy it. Instead, go next door to the Peak Galleria shopping mall and there's an observation deck with just as good a view on the top floor, for free.
+
+#### Macao (June 2025)
+
+- See
+  - _Cotai Strip_: We started out visiting casinos around the Grand Lisboa, in mainland Macao. We spent too much time there and didn't have enough time in the Cotai Strip, which is where the real spectacle is. The Venetian, Parisian, and Londoner are highlights. If coming from the mainland, you can take a free shuttle there from the Sands.
+
+### Indonesia
+
+#### Bali (July 2025)
+
+- _Cream & Crumble_: This is a new kiosk selling delicious, buttery cookies on the street in Canggu.
+- _Fat Chow_: Even though it's located down a side road, this is a busy place and you may have to wait for a table, but they served us excellent Thai and Vietnamese food.
+- _Living Tree Bali Cafe_: The breakfast dishes are delicious too, but the highlight was the best nasi goreng we ate in Indonesia. It's a small nad busy place, so it can be hard to get a table, but it's well worth it.
+- _Ricky D's_: Their signature chicken schnitzel sandwich is crispy, savoury, and delicious. They use soft, spongy sandwich bread which I really enjoyed.
+- _Tiga Canggu_: Their English breakfast was my favourite brunch in Bali, or anywhere else during our six months of travelling.
+- _Vietnamese Minnie Warung_: The food is fresh and delicious, including Vietnamese and Indonesian dishes. The mie goreng was very good.
+
+#### Nusa Lembongan (July 2025)
+
+- _Pondok Baruna Warung_: This was the best restaurant we found in Lembongan. They serve delicious and fresh local food. I especially liked the nasi campur.
+
+### Japan
+
+#### Kyoto (September 2025)
+
+- _The Smile_: After walking through some dark residential streets to find this cafe, we were stunned by how delicious their chocolate brownie with ice cream was. It was very rich, with high quality chocolate.
+
+#### Tokyo (September 2025)
+
+- See
+  - _Tokyo Metropolitan Government Building Observatory_: The local government offers a free 45th floor viewing deck to see Tokyo from above.
+- Do
+  - _Ameyoko Market_: This mraket has loads of different food options and cheap clothes and souvenirs.
+
+### Kazakhstan
+
+#### Almaty (June 2025)
+
+- _Chef and Sweets_: This Indian restaurant was one of our favourites in Central Asia. The tandoori chicken was tender and flavourful and the vegetable biryani was packed with delicious roasted veggies.
+- _Lanzhou_: The tsomyan lagman with chicken and mushrooms had tender, chewy noodles with an amazing umami mushroom flavour. They have lots of locations in Almaty and Astana.
+
+### Malaysia
+
+#### Kuala Lumpur (June 2025)
+
+- _Hong Kee Claypot Chicken_: Chicken and rice are cooked together over fire on the side of the street in Chinatown. The chicken is tender and the rice is aromatic, with some crispy pieces where it's burnt against the side of the pot.
+- _Roast Duckking_: Chicken rice is an iconic southeast Asian dish and they have an excellent rendition, plus duck rice. The restaurnat is located in an extensive underground food court, where the other stands are worth exploring as well.
+- _Valentine Roti_: They make a delicious roti jantan and roti telur, which are fried crispy on a flattop grill with egg inside. Dipping the roti in the accompanying daal is delicious, and their tandoori chicken is perfectly tender as well.
+
+### Maldives
+
+#### Malé (June 2025)
+
+- _Fish Market_: The fish market on the north coast of the city smells like you might expect, but it was amazing to see the skill of the butchers there. Also, if you walk out onto the jetty where the fishing boats park, you can see huge stingrays in the water as they eat the dropped scraps.
+
+### Philippines
+
+- You're going to need a lot of cash. Even restaurants often only take cash.
+- Flights board on time or even early! We've never seen such punctual flights.
+
+#### Manila (July 2025)
+
+- _Kazuko Ramenba_: The ramen noodles were perfectly chewy and the broth was rich and umami.
+
+### South Korea
+
+#### Seoul (September 2025)
+
+- _BHC Chicken_: This is a big chain but they made the best Korean fried chicken we ate during a week in Seoul.
+
+### Taiwan
+
+#### Taipei (June 2025)
+
+- Eat
+  - _Crispy Milk Donuts_: We stayed on the same block as this tiny corner outlet and got their doughnuts at least once a day. Usha doesn't normally like doughnuts at all, but craved these, as they are so light and crispy and covered in milk powder, which is delicious but not too sweet.
+  - _Din Tai Fung_: This is an iconic dim sum restaurant in Taiwan and it lived up to the hype! Highlights include the soup dumplings, spicy noodles, and the sweet taro dumplings. They have locations in many countries, but I've heard it's best in Taiwan.
+  - _Raohe Street Night Market_: Of four night markets we visited in Taipei, this was the largest and our favourite. We tried so much delicious street food plus enjoyed the large temple by the entrance.
+- Do
+  - _Elephant Mountain_: Hike up the mountain on a huge set of stone steps. It doesn't cover a lot of distance, but the still, humid air can make it difficult. Still, it gives the best view we saw of Taipei 101 plus it's accessible by subway.
+
+### Thailand
+
+- Most places only accept cash, but luckily there are lots of currency exchanges around with good rates for US dollars.
+
+#### Chiang Mai (July 2025)
+
+- _Anusarn Market_: This night market has lots of souvenirs and delicious, cheap food. It's a great place to hang out in the evening.
+
+#### Phuket (August 2025)
+
+- Eat
+  - _Tiki Tee's_: Located just off Karon Beach, we dined there twice and every dish was a hit. These were our best meals in Thailand, and were offered for a great price. They really understood how to balance the flavours and the presentation of the food was immaculate.
+- Do
+  - Try to take the Smart Bus to and from the airport if you can, because taxis and Grabs can be very expensive.
+
+### Uzbekistan
+
+- Carry at least enough cash for a meal. Many places take credit card, but even some established restaurants don't, so it's better to be on the safe side.
+
+#### Bukhara (May 2025)
+
+- _Joy Lounge_: There are only so many restaurants in Old Bukhara, but this was the best we found. Nice ambience and the food was better seasoned than other places, including the pumpkin manti.
+
+#### Samarkand (May 2025)
+
+- Eat
+  - _Arirang_: This was the most flavourful food we had in Central Asia. They served delicious Korean dishes and have a prime location right next to Registan Square.
+- See
+  - _Seven Lakes, Tajikistan_: These are some very beautiful blue-green Alpine lakes in the Fann Mountains just across the border. You can take a day trip from Samarkand, but make sure you book with a reliable tour company.
+
+### Vietnam
+
+#### Da Nang (August 2025)
+
+- _Gordon's New York Pizza_: A New Yorker moved to Da Nang and worked his way up from a stand at a night market to several restaurant locations serving delicious NY-style pizza.
+- _Miss Nhi_: Now run by a third generation, they serve delicious Vietnamese food and local favourites.
+
+#### Ha Long Bay (August 2025)
+
+- _La Casta Cruises_: There is a wide range of cruises available in Ha Long Bay, but we were very happy with ours. It was air conditioned and had a great buffet on board, making it much more luxurious than some other companies.
+
+#### Hanoi (August 2025)
+
+- _Met_: They have different locations around the country, but the one we went to in Hanoi's Old Quarter made my favourite Vietnamese meal of the trip.
+
+#### Ho Chi Minh City (August 2025)
+
+- _Oasis Cafe_: The food was good but the main draw was the huge koi pond with booths sunken into it to eat in. You can have fish swimming right by you as you eat. It's great for pictures.
+
+## Middle East
+
+### Jordan
+
+- You should get the Jordan Pass, which includes the visa fee, entrance fees to Petra and Wadi Rum, and loads of other attractions.
+
+#### Amman (April 2025)
+
+- _Sufra_: They kept bringing us fresh pita to eat with the delicious, smoky muttabal and chicken and lamb stews.
+- _Turkish Restaurant_: The name is all in Arabic on Google Maps, but it's right on highway 15 very close to the airport. All the food was incredibly delicious and cheap. The muttabal and Turkish salad were highlights.
