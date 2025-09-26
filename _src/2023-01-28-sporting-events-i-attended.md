@@ -588,4 +588,20 @@ Davis Schneider and Ernie Clement both tripled.
 | Ottawa RedBlacks  | 38    | Dru Brown            |
 | Toronto Argonauts | 58    | Chad Kelly           |
 
-Toronto had two defensive touchdowns in the fourht quarter.
+Toronto had two defensive touchdowns in the fourth quarter.
+
+## 2025-09-02
+
+|              | Score | Starting Pitcher |
+| ------------ | ----- | ---------------- |
+| Lotte Giants | 2     | Park Se-Woong    |
+| LG Twins     | 3     | Yonny Chirinos   |
+
+The Twins entered the ninth inning with a 3-0 lead but the Giants managed to load the bases twice before the comeback fell short.
+
+## 2025-09-13
+
+|                        | Score | Starting Pitcher |
+| ---------------------- | ----- | ---------------- |
+| Yokohama DeNA Baystars | 6     | Takeda Yu        |
+| Tokyo Yakult Swallows  | 2     | Yamano Taichi    |
