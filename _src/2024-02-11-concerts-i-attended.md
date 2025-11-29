@@ -43,3 +43,5 @@ Similarly I've been tracking concerts I've attended since I moved to New York Ci
 | 2024-06-28              | Celisse, Robert Plant and Alison Krauss, Bob Dylan, Willie Nelson and Family (except Willie) | Empower FCU Amphitheater | Syracuse  |
 | 2024-02-08              | Harm & Ease, Jack White                                                                      | Massey Hall              | Toronto   |
 | 2025-09-20              | Lemon Bucket Orkestra                                                                        | The Hub                  | Kitchener |
+| 2025-10-10              | Daniel Romano's Outfit, Steven Page Trio                                                     | Oktoberfest              | Kitchener |
+| 2025-10-11              | The Watchmen                                                                                 | Oktoberfest              | Kitchener |

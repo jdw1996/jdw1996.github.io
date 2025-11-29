@@ -605,3 +605,14 @@ The Twins entered the ninth inning with a 3-0 lead but the Giants managed to loa
 | ---------------------- | ----- | ---------------- |
 | Yokohama DeNA Baystars | 6     | Takeda Yu        |
 | Tokyo Yakult Swallows  | 2     | Yamano Taichi    |
+
+## 2025-10-25
+
+|                     | Score | Starting Pitcher   |
+| ------------------- | ----- | ------------------ |
+| Los Angeles Dodgers | 5     | Yoshinobu Yamamoto |
+| Toronto Blue Jays   | 1     | Kevin Gausman      |
+
+This was game two of the World Series.
+Vladimir Guerrero Jr. recorded his 22nd hit of the postseason to set a Blue Jays franchise record.
+Yamamoto pitched a complete game, allowing only four hits and no walks.
