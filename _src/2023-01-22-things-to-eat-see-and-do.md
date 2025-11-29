@@ -264,14 +264,17 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 #### Toronto, ON
 
-- _Burgers n' Fries Forever_: Very good burgers and fries.
-- _Little India_: A little more formal than some Indian restaurants, they have excellent lamb vindaloo.
-- _Matt's Burger Lab_: Excellent burgers.
-- _Milagro_: Slightly upscale Mexican close to the Skydome.
-- _Planta_: Vegan food that you wouldn't guess was vegan. There are a few locations but the Asian fusion one on Queen West is my favourite.
-- _Salad King_: Cheap Thai and other southeast Asian food, there are a couple locations.
-- _Salt and Tobacco_: They make really crispy and flavourful pizza in a wood oven. I was there on a cold winter night and the aroma when I opened the door to the restaurant was heavenly.
-- _Sizzler Kabab_: My favourite butter chicken, with big chunks of meat and lots of flavour. And delicious garlic naan slathered in butter.
+- Eat
+  - _Burgers n' Fries Forever_: Very good burgers and fries.
+  - _Little India_: A little more formal than some Indian restaurants, they have excellent lamb vindaloo.
+  - _Matt's Burger Lab_: Excellent burgers.
+  - _Milagro_: Slightly upscale Mexican close to the Skydome.
+  - _Planta_: Vegan food that you wouldn't guess was vegan. There are a few locations but the Asian fusion one on Queen West is my favourite.
+  - _Salad King_: Cheap Thai and other southeast Asian food, there are a couple locations.
+  - _Salt and Tobacco_: They make really crispy and flavourful pizza in a wood oven. I was there on a cold winter night and the aroma when I opened the door to the restaurant was heavenly.
+  - _Sizzler Kabab_: My favourite butter chicken, with big chunks of meat and lots of flavour. And delicious garlic naan slathered in butter.
+- See
+  - _Toronto Maple Leafs baseball_: Though overshadowed by the hockey team with the same name, the Leafs baseball team is an institution in its own right. They play at the Christie Pits baseball diamond and admission is free; you can just show up during a game and sit on one of the surrounding hills to watch the game. It's a real local experience.
 
 ### United States
 
@@ -308,6 +311,14 @@ The idea is to update this list over time instead of posting new lists in the fu
 #### New York, NY (June 2022)
 
 [See my separate post on NYC.](/2019-03-08-things-to-see-and-do-in-nyc)
+
+#### San Francisco, CA (November 2025)
+
+- Eat
+  - _Taqueria La Cumbre_: There are loads of Mexican restaurants in the Mission, but this one claimed to be the original home of the Mission-style burrito. I don't know if that's true, but it really was delicious!
+  - _Taqueria El Buen Sabor_: I came across this taqueria while wandering around the Mission and got a delicious burrito with smoky, savoury pork al pastor.
+- See
+  - _Bison Paddock_: I didn't know until I arrived that there were bison in the middle of San Francisco! The paddock is a huge field in Golden Gate Park surrounded by two fences. I was fascinated watching the bison graze. Note that even though it is technically open late, the area isn't lit, so you should plan to arrive before sunset.
 
 #### Syracuse, NY (June 2024)
 
