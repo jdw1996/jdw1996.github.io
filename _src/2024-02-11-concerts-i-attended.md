@@ -45,3 +45,5 @@ Similarly I've been tracking concerts I've attended since I moved to New York Ci
 | 2025-09-20              | Lemon Bucket Orkestra                                                                        | The Hub                  | Kitchener |
 | 2025-10-10              | Daniel Romano's Outfit, Steven Page Trio                                                     | Oktoberfest              | Kitchener |
 | 2025-10-11              | The Watchmen                                                                                 | Oktoberfest              | Kitchener |
+| 2025-12-06              | Conor Gains                                                                                  | Christkindl Market       | Kitchener |
+| 2025-12-11              | The Barrel Boys                                                                              | Emmanuel United Church   | Waterloo  |
