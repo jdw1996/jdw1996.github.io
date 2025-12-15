@@ -161,6 +161,6 @@ I combined Indy's old hand logo with the Thunder's colourful streaks and some Pa
 Florida Panthers 4, Edmonton Oilers 2
 
 Like Super Bowl LIX, this was a rematch of a recent match-up.
-I kept the same Oilers/Panthers compromies colour scheme but made use of Edmonton's "dripping" letters and some alternate logos.
+I kept the same Oilers/Panthers compromise colour scheme but made use of Edmonton's "dripping" letters and some alternate logos.
 
 <img src="img/2024-02-17-championship-posters/2025-stanley-cup.png" class="image-full-width" />
