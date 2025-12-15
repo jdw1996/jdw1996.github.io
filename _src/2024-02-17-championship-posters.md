@@ -146,3 +146,21 @@ Since this was a rematch of Super Bowl LVII, I had to come up with a new angle.
 This one is based on the Ishihara Test for colour blindness.
 
 <img src="img/2024-02-17-championship-posters/sblix.png" class="image-full-width" />
+
+## 2025 NBA Finals
+
+Oklahoma City Thunder 4, Indiana Pacers 3
+
+Without thinking too hard about it, I'd say the Thunder probably have the worst (non-racist) identity in the big four.
+I combined Indy's old hand logo with the Thunder's colourful streaks and some Pacers checkerboard.
+
+<img src="img/2024-02-17-championship-posters/2025-nba-finals.png" class="image-full-width" />
+
+## 2025 Stanley Cup Finals
+
+Florida Panthers 4, Edmonton Oilers 2
+
+Like Super Bowl LIX, this was a rematch of a recent match-up.
+I kept the same Oilers/Panthers compromies colour scheme but made use of Edmonton's "dripping" letters and some alternate logos.
+
+<img src="img/2024-02-17-championship-posters/2025-stanley-cup.png" class="image-full-width" />
