@@ -1,31 +1,35 @@
 <!-- Joseph Winters -->
 
-I'm Joseph Winters and I'm a software developer.
-In the past, I've worked at [Kijiji](https://www.kijiji.ca/), [HomeX](https://homex.com/), [Broadway Technology](http://www.broadwaytechnology.com/), and [SAP](https://sap.com).
+I'm Joseph Winters and I'm a software developer at [Stripe](https://stripe.com).
+In the past, I've worked at [Kijiji](https://www.kijiji.ca/), [HomeX](https://homex.com/), Broadway Technology (since acquired by Bloomberg), and [SAP](https://sap.com).
 I graduated from the [University of Waterloo](https://uwaterloo.ca/) in 2019 with a Bachelor of Mathematics degree with a major in [combinatorics and optimization](https://uwaterloo.ca/combinatorics-and-optimization/) and minors in [computer science](https://cs.uwaterloo.ca/) and [pure mathematics](https://uwaterloo.ca/pure-mathematics/).
-
-## Personal Projects
-
-- [Algorithmic Art](/algorithmic-art)
-- [French Conjugator](https://github.com/jdw1996/french-conjugator)
-- [Jothello](/jothello)
-- [Pub Name Generator](/pub-name-generator)
-- [Retro Table Tennis](/retro-table-tennis)
-- [Touch the Bees!](/touch-the-bees)
-
-## Blog Posts
 
 <!-- - [Title](/link) <span class="index-date">[date]</span> -->
 
-- [Championship Posters](/2024-02-17-championship-posters.html) <span class="index-date">[2024-02-17]</span>
+## Blog Posts
+
 - [Concerts I Attended](/2024-02-11-concerts-i-attended.html) <span class="index-date">[2024-02-11]</span>
 - [Sporting Events I Attended](/2023-01-28-sporting-events-i-attended.html) <span class="index-date">[2023-01-28]</span>
 - [Things to Eat, See, and Do](/2023-01-22-things-to-eat-see-and-do.html) <span class="index-date">[2023-01-22]</span>
+- [They Play Where Now?](/2021-08-01-they-play-where-now.html) <span class="index-date">[2021-08-01]</span>
+- [Baseball Games I Attended in 2019](/2020-03-31-baseball-games-i-attended-in-2019.html) <span class="index-date">[2020-03-31]</span>
+- [Baseball Games I Attended in 2018](/2019-03-28-baseball-games-i-attended-in-2018.html) <span class="index-date">[2019-03-28]</span>
+- [Things to See and Do in NYC](/2019-03-08-things-to-see-and-do-in-nyc) <span class="index-date">[2019-03-08]</span>
+- [All the Things I Googled to Write a Pong Clone](/2018-05-26-all-the-things-i-googled-to-write-a-pong-clone.html) <span class="index-date">[2018-05-26]</span>
+- [Blue Jays Games I Attended in 2017](/2018-03-29-blue-jays-games-i-attended-in-2017.html) <span class="index-date">[2018-03-29]</span>
+- [Website Redesign](/2018-03-19-website-redesign.html) <span class="index-date">[2018-03-19]</span>
+- [Writing My Own Static Site Generator with a Makefile](/2018-03-12-writing-my-own-static-site-generator-with-a-makefile.html) <span class="index-date">[2018-03-12]</span>
+- [Nesting SQL Aggregate Functions](/2017-03-26-nesting-sql-aggregate-functions.html) <span class="index-date">[2017-03-26]</span>
+- [Hello, World!](/2017-01-08-hello-world.html) <span class="index-date">[2017-01-08]</span>
+- [A Student of the IoT](/2016-08-26-a-student-of-the-iot.html) <span class="index-date">[2016-08-26]</span>
+
+## Comics and Drawings
+
+- [Championship Posters](/2024-02-17-championship-posters.html) <span class="index-date">[2024-02-17]</span>
 - [Creepy Christmas](/2022-12-25-creepy-christmas.html) <span class="index-date">[2022-12-25]</span>
 - [Nancy's Tattoo](/2022-02-13-nancys-tattoo.html) <span class="index-date">[2022-02-13]</span>
 - [Streetcars](/2022-01-03-streetcars.html) <span class="index-date">[2022-02-13]</span>
 - [Boltzmann Lemon](/2021-11-02-boltzmann-lemon.html) <span class="index-date">[2021-11-02]</span>
-- [They Play Where Now?](/2021-08-01-they-play-where-now.html) <span class="index-date">[2021-08-01]</span>
 - [Bullpen](/2021-07-02-bullpen.html) <span class="index-date">[2021-07-02]</span>
 - [End of Quarantine](/2021-06-27-end-of-quarantine.html) <span class="index-date">[2021-06-27]</span>
 - [Superior Technology](/2021-04-25-superior-technology.html) <span class="index-date">[2021-04-25]</span>
@@ -39,18 +43,18 @@ I graduated from the [University of Waterloo](https://uwaterloo.ca/) in 2019 wit
 - [Canadian Exceptionalism](/2020-12-01-canadian-exceptionalism.html) <span class="index-date">[2020-12-01]</span>
 - [State Nickname Teams](/2020-04-12-state-nickname-teams.html) <span class="index-date">[2020-04-12]</span>
 - [Miscellaneous Logo Designs](/2020-04-11-miscellaneous-logo-designs.html) <span class="index-date">[2020-04-11]</span>
-- [Baseball Games I Attended in 2019](/2020-03-31-baseball-games-i-attended-in-2019.html) <span class="index-date">[2020-03-31]</span>
 - [NHL Logos in the Style of the Maple Leafs](/2020-01-18-nhl-logos-in-the-style-of-the-maple-leafs.html) <span class="index-date">[2020-01-18]</span>
 - [MLB Logos in the Style of the Blue Jays](/2019-12-04-mlb-logos-in-the-style-of-the-blue-jays.html) <span class="index-date">[2019-12-04]</span>
-- [Baseball Games I Attended in 2018](/2019-03-28-baseball-games-i-attended-in-2018.html) <span class="index-date">[2019-03-28]</span>
-- [Things to See and Do in NYC](/2019-03-08-things-to-see-and-do-in-nyc) <span class="index-date">[2019-03-08]</span>
-- [All the Things I Googled to Write a Pong Clone](/2018-05-26-all-the-things-i-googled-to-write-a-pong-clone.html) <span class="index-date">[2018-05-26]</span>
-- [Blue Jays Games I Attended in 2017](/2018-03-29-blue-jays-games-i-attended-in-2017.html) <span class="index-date">[2018-03-29]</span>
-- [Website Redesign](/2018-03-19-website-redesign.html) <span class="index-date">[2018-03-19]</span>
-- [Writing My Own Static Site Generator with a Makefile](/2018-03-12-writing-my-own-static-site-generator-with-a-makefile.html) <span class="index-date">[2018-03-12]</span>
-- [Nesting SQL Aggregate Functions](/2017-03-26-nesting-sql-aggregate-functions.html) <span class="index-date">[2017-03-26]</span>
-- [Hello, World!](/2017-01-08-hello-world.html) <span class="index-date">[2017-01-08]</span>
-- [A Student of the IoT](/2016-08-26-a-student-of-the-iot.html) <span class="index-date">[2016-08-26]</span>
+
+## Games and Programming Projects
+
+- [Algorithmic Art](/algorithmic-art)
+- [French Conjugator](https://github.com/jdw1996/french-conjugator)
+- [Jothello](/jothello)
+- [Pub Name Generator](/pub-name-generator)
+- [Retro Table Tennis](/retro-table-tennis)
+- [Touch the Bees!](/touch-the-bees)
+- [Ultimate Tic-Tac-Toe](/ttt)
 
 ## Contact
 
