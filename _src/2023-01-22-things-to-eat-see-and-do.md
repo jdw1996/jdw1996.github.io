@@ -91,7 +91,7 @@ The idea is to update this list over time instead of posting new lists in the fu
 - See
   - _Tokyo Metropolitan Government Building Observatory_: The local government offers a free 45th floor viewing deck to see Tokyo from above.
 - Do
-  - _Ameyoko Market_: This mraket has loads of different food options and cheap clothes and souvenirs.
+  - _Ameyoko Market_: This market has loads of different food options and cheap clothes and souvenirs.
 
 ### Kazakhstan
 
@@ -105,7 +105,7 @@ The idea is to update this list over time instead of posting new lists in the fu
 #### Kuala Lumpur (June 2025)
 
 - _Hong Kee Claypot Chicken_: Chicken and rice are cooked together over fire on the side of the street in Chinatown. The chicken is tender and the rice is aromatic, with some crispy pieces where it's burnt against the side of the pot.
-- _Roast Duckking_: Chicken rice is an iconic southeast Asian dish and they have an excellent rendition, plus duck rice. The restaurnat is located in an extensive underground food court, where the other stands are worth exploring as well.
+- _Roast Duckking_: Chicken rice is an iconic southeast Asian dish and they have an excellent rendition, plus duck rice. The restaurant is located in an extensive underground food court, where the other stands are worth exploring as well.
 - _Valentine Roti_: They make a delicious roti jantan and roti telur, which are fried crispy on a flattop grill with egg inside. Dipping the roti in the accompanying daal is delicious, and their tandoori chicken is perfectly tender as well.
 
 ### Maldives
@@ -154,6 +154,16 @@ The idea is to update this list over time instead of posting new lists in the fu
   - _Tiki Tee's_: Located just off Karon Beach, we dined there twice and every dish was a hit. These were our best meals in Thailand, and were offered for a great price. They really understood how to balance the flavours and the presentation of the food was immaculate.
 - Do
   - Try to take the Smart Bus to and from the airport if you can, because taxis and Grabs can be very expensive.
+
+### Turkey
+
+#### Istanbul (February 2026)
+
+- See
+  - _Süleymaniye Mosque viewpoint_: The mosque itself is bigger and older than the Blue Mosque and elaborately decorated inside, but its garden also provides one of the best views of the "new city", topped by Galata Tower.
+- Do
+  - _Karlık Turistik lamp shop_: The shop is away from tourist areas, but they produce their own mosaic glass lamps and sell them for much more reasonable prices than at the Grand Bazaar or near Galata Tower.
+  - _Üsküdar_: A short ferry ride from various neighbourhoods on the European side of the city, you can cross the Bosphorus and walk around a happening neighbourhood that feels more organic and budget-friendly than Taksim or Fatih.
 
 ### Uzbekistan
 
