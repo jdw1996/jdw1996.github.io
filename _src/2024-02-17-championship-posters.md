@@ -164,3 +164,13 @@ Like Super Bowl LIX, this was a rematch of a recent match-up.
 I kept the same Oilers/Panthers compromise colour scheme but made use of Edmonton's "dripping" letters and some alternate logos.
 
 <img src="img/2024-02-17-championship-posters/2025-stanley-cup.png" class="image-full-width" />
+
+## Super Bowl LX
+
+Seattle Seahawks 29, New England Patriots 13
+
+Seattle's neon green reminded me of the visible pixels on the TV my family had when I was a kid.
+Both teams wear blue and the Patriots add red, so it gave me the full palette.
+I created a grid of red/green/blue pixels depicting a player in front of the gridiron.
+
+<img src="img/2024-02-17-championship-posters/sblx.png" class="image-full-width" />
