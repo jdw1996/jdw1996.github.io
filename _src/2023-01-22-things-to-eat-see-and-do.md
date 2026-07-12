@@ -265,7 +265,7 @@ The idea is to update this list over time instead of posting new lists in the fu
 - _Brit & Chips_: They serve nice and crispy fish and chips in a cool diner. The maple battered fish was good, but not as good as the traditional version.
 - _Satay Brothers Resto_: This Singaporean restaurant was packed the night we were there, and we really enjoyed trying a variety of dishes. The bao buns were a highlight.
 
-#### Ottawa, ON (August 2024)
+#### Ottawa, ON (June 2026)
 
 - Eat
   - _Khao Thai_: Our best meal in Ottawa was at this Thai restaurant in Byward Market.
@@ -276,10 +276,11 @@ The idea is to update this list over time instead of posting new lists in the fu
 
 - Eat
   - _Burgers n' Fries Forever_: Very good burgers and fries.
+  - _Dragon Pearl_: This is a huge Chinese buffet, with dozens of different dishes. The food is high quality, there's a rotating specialty item, and the decor is very cool as well.
+  - _Koh Lipe_: Pai may be the more popular downtown Thai restaurant, but I give the edge to Koh Lipe for stir fries, pad thais, and other Thai dishes.
   - _Little India_: A little more formal than some Indian restaurants, they have excellent lamb vindaloo.
   - _Matt's Burger Lab_: Excellent burgers.
   - _Milagro_: Slightly upscale Mexican close to the Skydome.
-  - _Planta_: Vegan food that you wouldn't guess was vegan. There are a few locations but the Asian fusion one on Queen West is my favourite.
   - _Salad King_: Cheap Thai and other southeast Asian food, there are a couple locations.
   - _Salt and Tobacco_: They make really crispy and flavourful pizza in a wood oven. I was there on a cold winter night and the aroma when I opened the door to the restaurant was heavenly.
   - _Sizzler Kabab_: My favourite butter chicken, with big chunks of meat and lots of flavour. And delicious garlic naan slathered in butter.
