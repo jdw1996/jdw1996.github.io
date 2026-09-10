@@ -1,7 +1,7 @@
 <!-- Joseph Winters -->
 
-I'm Joseph Winters and I'm a software developer at [Stripe](https://stripe.com).
-In the past, I've worked at [Kijiji](https://www.kijiji.ca/), [HomeX](https://homex.com/), Broadway Technology (since acquired by Bloomberg), and [SAP](https://sap.com).
+I'm Joseph Winters and I'm a software developer.
+In the past, I've worked at [Stripe](https://stripe.com), [Kijiji](https://www.kijiji.ca/), [HomeX](https://homex.com/), Broadway Technology (since acquired by Bloomberg), and [SAP](https://sap.com).
 I graduated from the [University of Waterloo](https://uwaterloo.ca/) in 2019 with a Bachelor of Mathematics degree with a major in [combinatorics and optimization](https://uwaterloo.ca/combinatorics-and-optimization/) and minors in [computer science](https://cs.uwaterloo.ca/) and [pure mathematics](https://uwaterloo.ca/pure-mathematics/).
 
 <!-- - [Title](/link) <span class="index-date">[date]</span> -->
