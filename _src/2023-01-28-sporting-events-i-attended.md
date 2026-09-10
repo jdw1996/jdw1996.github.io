@@ -616,3 +616,31 @@ The Twins entered the ninth inning with a 3-0 lead but the Giants managed to loa
 This was game two of the World Series.
 Vladimir Guerrero Jr. recorded his 22nd hit of the postseason to set a Blue Jays franchise record.
 Yamamoto pitched a complete game, allowing only four hits and no walks.
+
+## 2026-01-18
+
+|                   | Score | Starting Goalie    |
+| ----------------- | ----- | ------------------ |
+| Guelph Storm      | 3     | Zachary Jovanovski |
+| Kitchener Rangers | 4     | Christian Kirsch   |
+
+## 2026-05-20
+
+|                    | Score | Starting Goalie |
+| ------------------ | ----- | --------------- |
+| Cleveland Monsters | 4     | Zach Sawchenko  |
+| Toronto Marlies    | 0     | Artur Akhtyamov |
+
+This was the third game of the AHL Division Finals round.
+Toronto went down 2-1 in the series before coming back and going on to win the Calder Cup.
+They looked really awful in this game though.
+
+## 2026-08-29
+
+|                   | Score | Starting Pitcher |
+| ----------------- | ----- | ---------------- |
+| Seattle Mariners  | 3     | Kade Anderson    |
+| Toronto Blue Jays | 4     | José Soriano     |
+
+In the bottom of the sixth inning, Alejandro Kirk stole a base for just the second time in his MLB career.
+In the top of the ninth inning, Louis Varland recorded his 300th career strikeout.
